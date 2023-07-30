@@ -1,0 +1,1442 @@
+23:41:23:249 (00009320) > [Startup] Ratchet & Clank: Rift Apart
+23:41:23:249 (00009320) > [Startup] ==============
+23:41:23:249 (00009320) > [Startup] 
+23:41:23:249 (00009320) > [Startup] Build: v1.727.0.0
+23:41:23:249 (00009320) > [Startup] Windows 11.0 (build 22621)
+23:41:23:249 (00009320) > [Startup] Distribution platform: Steam
+23:41:23:249 (00009320) > [Startup] Game directory: E:\PC Folders\Documents\Ratchet & Clank - Rift Apart\
+23:41:23:249 (00009320) > [Startup] Working directory: E:\Video Games\PC\Games\Others\Ratchet and Clank Rift Apart
+23:41:23:249 (00009320) > [Startup] Run ID: 9610-1527-A637-015C
+23:41:23:249 (00009320) > [Startup] 
+23:41:23:249 (00009320) > [Startup] Memory statistics:
+23:41:23:249 (00009320) > [Startup]   Total RAM = 31.1 GB (31891 MB)
+23:41:23:249 (00009320) > [Startup]   Avail RAM = 23.5 GB (24084 MB)
+23:41:23:249 (00009320) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+23:41:23:249 (00009320) > [Startup]   Avail virtual memory = 131067.7 GB (134213359 MB)
+23:41:23:249 (00009320) > [Startup]   Total page file = 38.1 GB (39059 MB)
+23:41:23:249 (00009320) > [Startup]   Avail page file = 26.2 GB (26854 MB)
+23:41:23:249 (00009320) > [Startup] 
+23:41:23:311 (00009320) > [Steam] Initializing.
+23:41:23:311 (00009320) > [Steam] Successfully initialized.
+23:41:23:311 (00009320) > [Steam] Currently connected to 0 remote sessions
+23:41:23:562 (00009320) > [NxApp] PreInit
+23:41:23:562 (00009320) > [SwapChain] Initializing...
+23:41:23:562 (00009320) > [DXGI] Initializing...
+23:41:24:652 (00009320) > [NxApp] Streamline was successfully initialized.
+23:41:24:653 (00009320) > [DXGI] Successfully initialized.
+23:41:24:653 (00009320) > [Render] Enumerating adapters:
+23:41:24:653 (00009320) > [Render] 	Adapter 0:
+23:41:24:653 (00009320) > [Monitor] 		Description             : NVIDIA GeForce RTX 3060 Ti
+23:41:24:653 (00009320) > [Monitor] 		Vendor                  : nVidia (10de)
+23:41:24:653 (00009320) > [Monitor] 		Device                  : 2489
+23:41:24:653 (00009320) > [Monitor] 		Sub system              : 40971458
+23:41:24:653 (00009320) > [Monitor] 		Revision                : 161
+23:41:24:653 (00009320) > [Monitor] 		Dedicated Video Memory  : 8038 MB
+23:41:24:653 (00009320) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:41:24:653 (00009320) > [Monitor] 		Shared System Memory    : 15945 MB
+23:41:24:653 (00009320) > [Monitor] 
+23:41:24:653 (00009320) > [Render] Loading NVAPI...
+23:41:24:658 (00009320) > [Render] Done loading NVAPI
+23:41:24:658 (00009320) > [Render] 	Adapter 1:
+23:41:24:658 (00009320) > [Monitor] 		Description             : AMD Radeon(TM) Graphics
+23:41:24:658 (00009320) > [Monitor] 		Vendor                  : AMD (1002)
+23:41:24:658 (00009320) > [Monitor] 		Device                  : 164e
+23:41:24:658 (00009320) > [Monitor] 		Sub system              : 164e1002
+23:41:24:658 (00009320) > [Monitor] 		Revision                : 199
+23:41:24:658 (00009320) > [Monitor] 		Dedicated Video Memory  : 0485 MB
+23:41:24:658 (00009320) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:41:24:658 (00009320) > [Monitor] 		Shared System Memory    : 15945 MB
+23:41:24:658 (00009320) > [Monitor] 
+23:41:24:658 (00009320) > [Render] Loading ADL...
+23:41:24:685 (00009320) > [Render] AGS init succeeded
+23:41:24:685 (00009320) > [Render] AGS Radeon Software Version: 22.40.46
+23:41:24:685 (00009320) > [Render] Done loading ADL and AGS
+23:41:24:685 (00009320) > [Render] 	Adapter 2:
+23:41:24:685 (00009320) > [Monitor] 		Description             : Microsoft Basic Render Driver
+23:41:24:685 (00009320) > [Monitor] 		Vendor                  : Unknown (1414)
+23:41:24:685 (00009320) > [Monitor] 		Device                  : 8c
+23:41:24:685 (00009320) > [Monitor] 		Sub system              : 0
+23:41:24:685 (00009320) > [Monitor] 		Revision                : 0
+23:41:24:685 (00009320) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+23:41:24:685 (00009320) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:41:24:685 (00009320) > [Monitor] 		Shared System Memory    : 15945 MB
+23:41:24:685 (00009320) > [Monitor] 
+23:41:24:685 (00009320) > [Render] Enumerating monitors:
+23:41:24:686 (00009320) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 2.39, rounded aspect = 2.39
+23:41:24:686 (00009320) > [Render] 
+23:41:24:686 (00009320) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 0.99
+23:41:24:686 (00009320) > [SwapChain] Successfully initialized.
+23:41:24:686 (00009320) > [Render] Enumerating Display Modes:
+23:41:24:688 (00009320) > [Render] Querying ADL for Eyefinity modes
+23:41:24:688 (00009320) > [Render] Querying NVAPI for Surround modes
+23:41:24:769 (00009320) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+23:41:24:769 (00009320) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3060 Ti(1))' (0000000000010001): rect(0 2560 0 1080)
+23:41:24:769 (00009320) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  1 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  2 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  3 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  5 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  6 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  7 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  8 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode  9 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 10 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 11 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 12 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 13 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 14 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 15 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 16 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 17 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 18 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 19 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 20 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 21 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 22 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 23 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 24 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 25 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 26 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 27 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 28 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 29 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 30 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 31 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 32 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 33 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 34 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 35 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 36 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 37 : 1280 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 38 : 1280 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 39 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 40 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 41 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 42 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 43 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 44 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 45 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 46 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 47 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 48 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 49 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 50 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 51 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 52 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 53 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 54 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 55 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 56 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 57 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 58 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 59 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 60 : 1280 x  960 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 61 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 62 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 63 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 64 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 65 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 66 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 67 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 68 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 69 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 70 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 71 : 1360 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 72 : 1360 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 73 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 74 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 75 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 76 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 77 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 78 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 79 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 80 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 81 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 82 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 83 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 84 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 85 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 86 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 87 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 88 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 89 : 1440 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 90 : 1440 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 91 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 92 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 93 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 94 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 95 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 96 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 97 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 98 : 1440 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 99 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 100 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 101 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 102 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 103 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 104 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 105 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 106 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 107 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 108 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 109 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 110 : 1600 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 111 : 1600 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 112 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 113 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 114 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 115 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 116 : 1600 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 117 : 1600 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 118 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 119 : 1600 x 1024 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 120 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 121 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 122 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 123 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 124 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 125 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 126 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 127 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 128 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 129 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 130 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 131 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 132 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 133 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 134 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 135 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 136 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 137 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 138 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 139 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 140 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 141 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 142 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 143 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 144 : 2560 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 145 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 146 : 2560 x 1080 @ 143 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 147 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 148 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 149 : 2560 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 150 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] 		- Mode 151 : 2560 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+23:41:24:769 (00009320) > [Render] ***** Additional Monitor Output Info *****
+23:41:24:769 (00009320) > [Render] 		BitsPerColor: 8
+23:41:24:769 (00009320) > [Render] 		Primaries: R=0.6514;0.3320  G=0.3066;0.6309  B=0.1504;0.0596  White-Point=0.3135;0.3291
+23:41:24:769 (00009320) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+23:41:24:769 (00009320) > [Render] 		Luminance: Min=0.3037 Max=301.8492 MaxFullFrame=243.0556
+23:41:24:769 (00009320) > [Render] ******************************************
+23:41:24:769 (00009320) > [Render] 
+23:41:24:963 (00009320) > [NxApp] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+23:41:24:986 (00009320) > [NxApp] Querying GPU Driver Info...
+23:41:24:987 (00009320) > [NxApp] Enumerating available display adapters:
+23:41:25:012 (00009320) > [NxApp] 		AMD Radeon(TM) Graphics
+23:41:25:012 (00009320) > [NxApp] 		NVIDIA GeForce RTX 3060 Ti (active)
+23:41:25:012 (00009320) > [NxApp] Successfully found GPU Driver Info
+23:41:25:084 (00009320) > [D3D] Max supported feature level: 11.0
+23:41:25:084 (00009320) > [Render] Disabled D3D12 experimentals
+23:41:25:180 (00009320) > [Render] VMEM Budget: 7270 MB
+23:41:25:180 (00009320) > [Render] VMEM Avaialbe: 7246 MB
+23:41:25:568 (00009320) > [Render] GPU node count: 1
+23:41:25:591 (00009320) > [NxApp] PreInit successful.
+23:41:25:592 (00009320) > [NxUpscaler] SL DLSS support: Result::eOk
+23:41:26:036 (00009320) > [NxUpscaler] XeSS init, code = 0
+23:41:26:075 (00009320) > [Validate Settings] HDR output has been disabled because the current monitor does not support HDR.
+23:41:26:075 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:41:27:590 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:41:27:590 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:41:27:590 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:41:27:590 (00009320) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3060 Ti
+23:41:27:590 (00009320) > [NxApp] Driver Version: 536.67
+23:41:27:590 (00009320) > [**************************************************Display + Graphics Settings**************************************************] 
+23:41:27:590 (00009320) > [Settings] DirectX Version: 12
+23:41:27:590 (00009320) > [Settings] Window mode: Fullscreen
+23:41:27:590 (00009320) > [Settings] Fullscreen display mode:
+23:41:27:590 (00009320) > [Settings] 	Displaying on monitor: 0
+23:41:27:590 (00009320) > [Settings] 	Resolution: 2560x1080
+23:41:27:590 (00009320) > [Settings] 	HDR: Off
+23:41:27:590 (00009320) > [Settings] 	OS reported Refresh rate: 144
+23:41:27:590 (00009320) > [Settings] 	VSync: Off
+23:41:27:590 (00009320) > [Settings] 	Reflex: Low Latency
+23:41:27:590 (00009320) > [Settings] 	DLSSG: False
+23:41:27:591 (00009320) > [Settings] 	Resolution modifier 1.000000
+23:41:27:591 (00009320) > [Settings] 	Dynamic resolution FPS target: 0
+23:41:27:591 (00009320) > [Settings] Anti aliasing: TAA
+
+23:41:27:591 (00009320) > [Settings] Upscale method: DLSS
+
+23:41:27:591 (00009320) > [Settings] Upscale quality: Performance
+
+23:41:27:591 (00009320) > [Settings] Upscale sharpen value: 0.500000
+
+23:41:27:591 (00009320) > [Settings] Graphics Options:
+23:41:27:591 (00009320) > [Settings] 	RT Reflections: On
+23:41:27:591 (00009320) > [Settings] 		RT Reflection Resolution: High
+23:41:27:591 (00009320) > [Settings] 		RT Object Scale: 0.800000
+23:41:27:591 (00009320) > [Settings] 	RT Shadows: Off
+23:41:27:591 (00009320) > [Settings] 	RT Ambient Occlusion: Off
+23:41:27:591 (00009320) > [Settings] 	Texture Quality: Ultra
+23:41:27:591 (00009320) > [Settings] 	Texture Filtering: Anisotropic4x
+23:41:27:591 (00009320) > [Settings] 	Shadow Quality: Medium
+23:41:27:591 (00009320) > [Settings] 	Depth of Field: Medium
+23:41:27:591 (00009320) > [Settings] 	Level of Detail: Medium
+23:41:27:591 (00009320) > [Settings] 	Vehicle Detail: High
+23:41:27:591 (00009320) > [Settings] 	Hair Quality: Medium
+23:41:27:591 (00009320) > [Settings] 	Ambient Occlusion: SSAO
+23:41:27:591 (00009320) > [Settings] 	Screen Space Reflections: Performance
+23:41:27:591 (00009320) > [Settings] 	Particle Lighting: Medium
+
+23:41:27:591 (00009320) > [Settings] 	Bloom: On
+23:41:27:591 (00009320) > [Settings] 	Vignette: Off
+23:41:27:591 (00009320) > [Settings] 	Chromatic Aberration: Off
+23:41:27:591 (00009320) > [Settings] 	Motion Blur: 0.001000
+23:41:27:591 (00009320) > [Settings] 	FOV Correction: 1.200000
+23:41:27:591 (00009320) > [Settings] 	Film Grain Strength: 0.001000
+23:41:27:591 (00009320) > [Settings] 	Sharpness: 1.000000
+23:41:27:591 (00009320) > [Settings] 	Lens Flares: On
+23:41:27:591 (00009320) > [Settings] 	Screen Effects: On
+23:41:27:591 (00009320) > [Settings] 	Screen Shake: On
+23:41:27:591 (00009320) > [Settings] 	Phantom Dash Effect: On
+23:41:27:591 (00009320) > [**************************************************Display + Graphics Settings**************************************************] 
+23:41:27:591 (00009320) > [NxApp] Creating window...
+23:41:27:594 (00020220) > [GameWindow] UpdateState bVisible true
+23:41:27:604 (00020220) > [Input] Keyboard language: "English (United States)" (id: 1033)
+23:41:27:604 (00020220) > [Input] Keyboard physical layout: "US" (id: 00000409)
+23:41:27:604 (00020220) > [Input] Joystick            "Controller (XBOX 360 For Windows)"   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+23:41:27:604 (00020220) > [Input] Joystick            "Wireless Controller"   product 2508 vendor 1356 version 256 usage 5 usagePage 1 xinput no
+23:41:27:604 (00020220) > [Input] Failed to retrieve setup device 2.
+23:41:27:604 (00020220) > [Input] Joystick            ""   product 4172 vendor 1008 version 0 usage 1 usagePage 12 xinput no
+23:41:27:605 (00020220) > [Input] Joystick            ""   product 4172 vendor 1008 version 0 usage 1 usagePage 65285 xinput no
+23:41:27:605 (00020220) > [Input] Joystick            ""   product 4172 vendor 1008 version 0 usage 1 usagePage 65285 xinput no
+23:41:27:605 (00020220) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 0 usagePage 65281 xinput no
+23:41:27:605 (00020220) > [Input] Joystick            ""   product 64112 vendor 9639 version 768 usage 1 usagePage 12 xinput no
+23:41:27:605 (00020220) > [Input] Joystick            ""   product 6575 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
+23:41:27:605 (00020220) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 8 sampleRate 0 horizontalWheel no
+23:41:27:605 (00020220) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+23:41:27:605 (00020220) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:41:27:605 (00020220) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:41:27:605 (00020220) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:41:27:605 (00020220) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:41:27:605 (00020220) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+23:41:27:610 (00020220) > [Input] Using LibScePad
+23:41:27:611 (00020220) > [Input] Gamepads connected: 0 -> 1
+23:41:27:611 (00020220) > [Input] Gamepad for main player: 8
+23:41:27:612 (00020220) > [XInput] Enumerating available xusb hid devices:
+
+23:41:27:616 (00020220) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
+	USB\VID_045E&PID_028E&IG_00\2&DEE0F28&0&00
+
+23:41:27:627 (00020220) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E),Xbox 360 Controller for Windows 
+	USB\VID_045E&PID_028E\01
+
+23:41:27:628 (00009320) > [NxApp] Window created.
+23:41:27:628 (00009320) > [NxApp] Initializing swapchain...
+23:41:27:628 (00019884) > [SwapChain] Creating...
+23:41:27:628 (00019884) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1080
+23:41:27:632 (00019884) > [DXGI] Created swapchain.
+23:41:27:642 (00019884) > [SwapChain] Successfully created.
+23:41:27:642 (00019884) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1080
+23:41:27:642 (00009320) > [NxApp] Swapchain initialized
+23:41:27:642 (00009320) > [NxApp] Initializing renderer...
+23:41:27:643 (00009320) > [NxApp] Renderer initialized
+23:41:27:643 (00009320) > [NxProcessorInfo] Processor info:
+23:41:27:643 (00009320) > [NxProcessorInfo] 	Description:             	AMD Ryzen 5 7600X 6-Core Processor             
+23:41:27:643 (00009320) > [NxProcessorInfo] 	Physical Core Count:     	6
+23:41:27:643 (00009320) > [NxProcessorInfo] 	Logical  Core Count:     	12
+23:41:27:643 (00009320) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
+23:41:27:643 (00009320) > [NxProcessorInfo] Custom affinity 0 selected.
+23:41:27:643 (00009320) > [NxProcessorInfo] AMD Threading Logic
+23:41:27:643 (00009320) > [NxStorage] Detected device at 'E:\Video Games\PC\Games\Others\Ratchet and Clank Rift Apart', name 'Samsung SSD 980 PRO 1TB', SSD: Yes, NVMe: Yes
+23:41:27:643 (00009320) > [NxStorage] Graphics device supports GPU decompression
+23:41:27:666 (00020220) > [Input] new Windows.Gaming.Input raw-controller found 45e 28e {wgi/nrid/GoDn2<-Wj1XY-1<jcL0`GO-Z9>Kf-W77_@[X-} Xbox 360 Controller for Windows
+
+23:41:27:668 (00020220) > [Input] new Windows.Gaming.Input raw-controller found 54c 9cc {wgi/nrid/ed4M9G-ib?K-0cWOOC-bMbAe0-]]f6@@ak-R0} HID-compliant game controller
+
+23:41:27:923 (00009320) > [NxStorage] DirectStorage initialization succeeded
+23:41:28:136 (00009320) > [Render] File cache.pso contains 71677 pipelines and 0 duplicates
+23:41:28:151 (00009320) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Ratchet & Clank - Rift Apart\\cache.pso contains 117 pipelines and 0 duplicates
+23:41:28:151 (00009320) > [Render] Support for Shader Model 6.6: Yes
+23:41:28:151 (00009320) > [Render] Is UMA: No Is Cache Coherent: No
+23:41:28:151 (00009320) > [Render] Using Cpu Buffer Optimize: Yes
+23:41:28:540 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:28:560 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:29:704 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:29:854 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:29:862 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:29:869 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:29:875 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:30:847 (00009320) > [Input] Windows.Gaming.Input controller connected. index: 0
+23:41:30:847 (00009320) > [Input] Windows.Gaming.Input controller connected. index: 1
+23:41:30:847 (00009320) > [Input] Sce controller connected. handle: 257
+23:41:31:014 (00009320) > [Audio] Sce-Controller HID\VID_054C&PID_09CC&REV_0100&MI_03 with handle 257 num audio devs: 2
+23:41:31:014 (00009320) > [Audio] Detected MMDEVAPI\AudioEndpoints('Headset Microphone (Wireless Controller)') for controller 257 sce controller on container '{f8f32fe6-2e26-11ee-a426-b48c9d5186aa}'
+23:41:31:014 (00009320) > [Audio] Detected MMDEVAPI\AudioEndpoints('Headset Earphone (Wireless Controller)') for controller 257 sce controller on container '{f8f32fe6-2e26-11ee-a426-b48c9d5186aa}'
+23:41:31:014 (00009320) > [Input] Gamepad for main player: 0
+23:41:31:014 (00009320) > [Input] Gamepad for main player: 1
+23:41:31:014 (00009320) > [Input] Gamepad for main player: 8
+23:41:31:014 (00009320) > [Input] Gamepad for main player: 12
+23:41:31:014 (00009320) > [Input] Gamepads connected: 1 -> 4
+23:41:31:014 (00009320) > [Input] Gamepad for main player: 0
+23:41:31:017 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:31:021 (00009320) > [Input] Windows.Gaming.Input controller disconnected, ignoring PS4 controller. index: 1
+23:41:31:021 (00009320) > [Input] XInput disabled, disconnecting controller. index: 0
+23:41:31:021 (00009320) > [Input] Gamepad for main player: 12
+23:41:31:021 (00009320) > [Input] Gamepads connected: 4 -> 2
+23:41:31:021 (00009320) > [Input] Gamepad for main player: 0
+23:41:31:092 (00009320) > [Input] Gamepad for main player: 12
+23:41:31:925 (00023596) > [PSN] AuthenticationRequest: 400
+23:41:32:225 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:32:230 (00009320) > [Input] Gamepad for main player: 0
+23:41:32:230 (00009320) > [Input] Gamepad for main player: 12
+23:41:32:242 (00009536) > [Audio] Device (re)initialized 0xe13bee79 'Headphones (2- boAt Stone 650)'
+23:41:32:364 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:32:404 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:32:616 (00017460) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:32:623 (00021096) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:33:145 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:145 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:149 (00009320) > [Audio] Using output device Headset Earphone (Wireless Controller) as speaker controller
+23:41:33:196 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:33:262 (00017460) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:33:280 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:280 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:543 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:543 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:627 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:627 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:740 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:740 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:838 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:838 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:957 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:957 (00009320) > [Input] Gamepad for main player: 12
+23:41:33:992 (00009320) > [Input] Gamepad for main player: 0
+23:41:33:992 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:002 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:002 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:017 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:017 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:120 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:120 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:210 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:211 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:330 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:330 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:406 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:406 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:489 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:489 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:578 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:578 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:697 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:697 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:757 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:757 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:904 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:904 (00009320) > [Input] Gamepad for main player: 12
+23:41:34:953 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:34:959 (00009320) > [Input] Gamepad for main player: 0
+23:41:34:960 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:014 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:35:021 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:35:096 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:096 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:183 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:183 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:302 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:302 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:375 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:375 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:492 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:492 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:563 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:563 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:669 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:669 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:747 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:747 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:869 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:869 (00009320) > [Input] Gamepad for main player: 12
+23:41:35:915 (00009320) > [Input] Gamepad for main player: 0
+23:41:35:915 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:057 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:057 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:144 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:144 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:156 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:157 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:160 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:164 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:169 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:172 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:176 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:180 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:184 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:188 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:192 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:205 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:217 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:41:36:220 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:41:36:252 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:252 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:326 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:326 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:462 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:462 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:472 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:472 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:512 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:512 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:529 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:36:630 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:630 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:706 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:707 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:815 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:815 (00009320) > [Input] Gamepad for main player: 12
+23:41:36:902 (00009320) > [Input] Gamepad for main player: 0
+23:41:36:902 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:014 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:014 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:081 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:081 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:221 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:221 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:265 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:265 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:387 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:387 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:394 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:395 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:477 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:477 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:581 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:581 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:648 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:648 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:900 (00017460) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:905 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:905 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:907 (00017460) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:41:37:930 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:930 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:945 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:945 (00009320) > [Input] Gamepad for main player: 12
+23:41:37:966 (00009320) > [Input] Gamepad for main player: 0
+23:41:37:966 (00009320) > [Input] Gamepad for main player: 12
+23:41:38:033 (00009320) > [Input] Gamepad for main player: 0
+23:41:38:033 (00009320) > [Input] Gamepad for main player: 12
+23:41:38:913 (00009320) > [Audio] Sce-Controller HID\VID_054C&PID_09CC&REV_0100&MI_03 with handle 257 num audio devs: 2
+23:41:38:913 (00009320) > [Audio] Detected MMDEVAPI\AudioEndpoints('Headset Microphone (Wireless Controller)') for controller 257 sce controller on container '{f8f32fe6-2e26-11ee-a426-b48c9d5186aa}'
+23:41:38:913 (00009320) > [Audio] Detected MMDEVAPI\AudioEndpoints('Headset Earphone (Wireless Controller)') for controller 257 sce controller on container '{f8f32fe6-2e26-11ee-a426-b48c9d5186aa}'
+23:41:39:092 (00009320) > [Save] Request save type 0, control 512
+23:41:39:129 (00009320) > [Input] Gamepad for main player: 0
+23:41:39:129 (00009320) > [Input] Gamepad for main player: 12
+23:41:39:214 (00009320) > [Input] Gamepad for main player: 0
+23:41:39:214 (00009320) > [Input] Gamepad for main player: 12
+23:41:44:133 (00009320) > [Input] Gamepad for main player: 0
+23:41:44:133 (00009320) > [Input] Gamepad for main player: 12
+23:41:44:280 (00009320) > [Input] Gamepad for main player: 0
+23:41:44:280 (00009320) > [Input] Gamepad for main player: 12
+23:41:44:958 (00009320) > [Input] Gamepad for main player: 0
+23:41:44:958 (00009320) > [Input] Gamepad for main player: 12
+23:41:45:144 (00009320) > [Input] Gamepad for main player: 0
+23:41:45:144 (00009320) > [Input] Gamepad for main player: 12
+23:41:45:659 (00009320) > [Input] Gamepad for main player: 0
+23:41:45:659 (00009320) > [Input] Gamepad for main player: 12
+23:41:45:800 (00009320) > [Input] Gamepad for main player: 0
+23:41:45:800 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:070 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:070 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:081 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:081 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:092 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:092 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:103 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:103 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:114 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:114 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:124 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:124 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:136 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:136 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:146 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:146 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:156 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:156 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:167 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:167 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:177 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:177 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:188 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:188 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:198 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:198 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:209 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:210 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:220 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:220 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:230 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:230 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:240 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:240 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:251 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:251 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:261 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:261 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:271 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:271 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:281 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:281 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:291 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:291 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:303 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:303 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:313 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:313 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:469 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:486 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:489 (00009320) > [Audio] Using output device Headset Earphone (Wireless Controller) as speaker controller
+23:41:46:506 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:506 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:517 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:517 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:530 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:530 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:550 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:550 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:561 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:561 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:572 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:572 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:583 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:583 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:593 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:593 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:604 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:604 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:615 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:615 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:625 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:625 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:636 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:636 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:647 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:647 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:657 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:657 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:667 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:667 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:677 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:677 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:687 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:687 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:697 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:697 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:708 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:708 (00009320) > [Input] Gamepad for main player: 12
+23:41:46:937 (00009320) > [Input] Gamepad for main player: 0
+23:41:46:937 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:085 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:086 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:181 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:181 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:271 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:271 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:281 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:281 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:301 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:301 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:311 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:311 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:321 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:321 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:331 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:331 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:342 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:342 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:351 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:351 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:362 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:362 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:372 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:372 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:382 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:382 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:392 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:392 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:403 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:403 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:412 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:413 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:479 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:479 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:509 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:509 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:529 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:529 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:540 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:540 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:550 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:550 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:560 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:560 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:571 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:571 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:582 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:582 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:592 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:592 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:602 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:602 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:613 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:613 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:623 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:623 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:634 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:634 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:664 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:664 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:674 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:674 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:684 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:684 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:694 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:694 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:706 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:706 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:716 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:716 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:726 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:726 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:767 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:767 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:800 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:800 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:810 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:810 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:868 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:868 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:889 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:889 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:899 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:899 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:910 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:910 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:921 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:921 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:930 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:930 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:942 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:942 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:952 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:952 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:962 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:962 (00009320) > [Input] Gamepad for main player: 12
+23:41:47:972 (00009320) > [Input] Gamepad for main player: 0
+23:41:47:972 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:136 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:136 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:270 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:270 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:280 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:280 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:290 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:290 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:300 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:300 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:310 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:310 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:320 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:320 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:331 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:331 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:341 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:341 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:352 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:352 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:361 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:361 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:372 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:372 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:383 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:383 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:393 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:393 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:414 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:414 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:424 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:424 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:435 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:435 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:446 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:446 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:456 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:456 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:466 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:466 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:613 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:613 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:623 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:623 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:633 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:633 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:644 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:644 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:654 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:654 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:664 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:664 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:675 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:675 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:686 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:686 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:697 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:697 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:707 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:707 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:718 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:718 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:729 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:729 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:739 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:739 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:750 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:750 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:760 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:760 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:772 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:772 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:781 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:784 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:793 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:793 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:803 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:803 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:814 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:814 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:824 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:824 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:835 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:835 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:845 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:845 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:855 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:855 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:866 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:866 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:876 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:876 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:886 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:886 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:896 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:896 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:907 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:907 (00009320) > [Input] Gamepad for main player: 12
+23:41:48:986 (00009320) > [Input] Gamepad for main player: 0
+23:41:48:986 (00009320) > [Input] Gamepad for main player: 12
+23:41:49:116 (00009320) > [Input] Gamepad for main player: 0
+23:41:49:116 (00009320) > [Input] Gamepad for main player: 12
+23:41:54:049 (00009536) > [Audio] Device (re)initialized 0xe13bee79 'Headphones (2- boAt Stone 650)'
+23:41:54:814 (00009320) > [Input] Gamepad for main player: 0
+23:41:54:814 (00009320) > [Input] Gamepad for main player: 12
+23:41:54:817 (00009320) > [Audio] Using output device Headset Earphone (Wireless Controller) as speaker controller
+23:41:55:016 (00009320) > [Input] Gamepad for main player: 0
+23:41:55:016 (00009320) > [Input] Gamepad for main player: 12
+23:41:55:261 (00009320) > [Input] Gamepad for main player: 0
+23:41:55:261 (00009320) > [Input] Gamepad for main player: 12
+23:41:55:424 (00009320) > [Input] Gamepad for main player: 0
+23:41:55:424 (00009320) > [Input] Gamepad for main player: 12
+23:41:55:714 (00009320) > [Input] Gamepad for main player: 0
+23:41:55:714 (00009320) > [Input] Gamepad for main player: 12
+23:41:55:880 (00009320) > [Input] Gamepad for main player: 0
+23:41:55:880 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:199 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:199 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:248 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:248 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:356 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:356 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:394 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:394 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:480 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:480 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:594 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:594 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:741 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:741 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:751 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:751 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:762 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:762 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:773 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:773 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:783 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:783 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:795 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:795 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:805 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:805 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:816 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:816 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:826 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:826 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:836 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:836 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:846 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:846 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:856 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:857 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:868 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:868 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:878 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:878 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:926 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:926 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:937 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:937 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:956 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:956 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:977 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:977 (00009320) > [Input] Gamepad for main player: 12
+23:41:56:987 (00009320) > [Input] Gamepad for main player: 0
+23:41:56:987 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:885 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:885 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:911 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:911 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:936 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:936 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:939 (00009320) > [Audio] Using output device Headset Earphone (Wireless Controller) as speaker controller
+23:41:57:962 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:962 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:974 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:974 (00009320) > [Input] Gamepad for main player: 12
+23:41:57:996 (00009320) > [Input] Gamepad for main player: 0
+23:41:57:996 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:007 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:007 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:018 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:018 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:039 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:039 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:059 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:059 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:069 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:069 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:090 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:090 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:099 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:099 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:111 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:111 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:121 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:121 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:131 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:131 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:141 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:141 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:152 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:152 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:162 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:162 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:172 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:172 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:183 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:183 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:192 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:192 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:204 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:204 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:215 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:215 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:225 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:225 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:235 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:235 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:246 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:246 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:256 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:256 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:452 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:452 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:463 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:463 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:472 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:472 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:482 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:484 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:494 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:494 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:505 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:505 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:553 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:553 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:602 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:602 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:612 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:612 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:622 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:622 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:633 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:633 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:643 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:643 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:654 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:654 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:664 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:665 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:773 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:773 (00009320) > [Input] Gamepad for main player: 12
+23:41:58:950 (00009320) > [Input] Gamepad for main player: 0
+23:41:58:950 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:106 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:106 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:116 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:116 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:126 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:126 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:137 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:137 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:147 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:147 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:157 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:157 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:168 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:168 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:179 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:179 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:190 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:190 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:200 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:200 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:211 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:211 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:222 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:222 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:252 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:252 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:262 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:262 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:273 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:273 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:282 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:282 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:294 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:294 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:304 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:304 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:315 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:315 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:325 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:325 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:335 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:335 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:346 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:346 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:358 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:358 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:367 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:367 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:727 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:727 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:737 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:737 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:748 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:748 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:758 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:759 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:770 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:770 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:781 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:781 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:791 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:791 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:802 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:802 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:812 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:812 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:823 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:823 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:832 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:832 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:843 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:843 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:855 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:855 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:865 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:865 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:875 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:875 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:885 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:885 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:895 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:895 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:905 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:905 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:917 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:917 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:927 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:927 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:938 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:938 (00009320) > [Input] Gamepad for main player: 12
+23:41:59:948 (00009320) > [Input] Gamepad for main player: 0
+23:41:59:948 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:006 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:006 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:165 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:165 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:305 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:305 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:487 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:487 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:844 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:844 (00009320) > [Input] Gamepad for main player: 12
+23:42:00:996 (00009320) > [Input] Gamepad for main player: 0
+23:42:00:996 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:112 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:112 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:214 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:214 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:478 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:478 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:490 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:490 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:500 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:500 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:510 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:510 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:522 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:522 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:532 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:532 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:544 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:544 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:555 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:555 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:566 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:566 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:577 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:577 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:588 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:588 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:600 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:600 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:610 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:610 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:622 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:622 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:632 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:632 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:644 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:644 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:656 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:656 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:667 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:667 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:678 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:678 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:689 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:689 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:699 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:699 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:710 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:710 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:731 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:731 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:741 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:741 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:752 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:752 (00009320) > [Input] Gamepad for main player: 12
+23:42:01:957 (00009320) > [Input] Gamepad for main player: 0
+23:42:01:957 (00009320) > [Input] Gamepad for main player: 12
+23:42:02:057 (00009320) > [Input] Gamepad for main player: 0
+23:42:02:057 (00009320) > [Input] Gamepad for main player: 12
+23:42:06:928 (00020220) > [Input] removed Windows.Gaming.Input raw-controller 45e 28e {wgi/nrid/GoDn2<-Wj1XY-1<jcL0`GO-Z9>Kf-W77_@[X-} Xbox 360 Controller for Windows
+
+23:42:07:966 (00009536) > [Audio] Device (re)initialized 0xe13bee79 'Headphones (2- boAt Stone 650)'
+23:42:07:967 (00009320) > [Input] Windows.Gaming.Input controller disconnected, ignoring PS4 controller. index: 0
+23:42:07:967 (00009320) > [Input] Gamepads connected: 2 -> 1
+23:42:07:967 (00009320) > [Input] Gamepad for main player: 12
+23:42:08:599 (00009320) > [Audio] Using output device Headset Earphone (Wireless Controller) as speaker controller
+23:42:15:374 (00009320) > [Save] Request load save type 0, control 448, target -1
+23:42:20:944 (00009320) > [Save] Request load save type 0, control 64, target 1
+23:42:20:977 (00009320) > [Save] Request save type 0, control 0
+23:42:24:017 (00009320) > [Save] Request save type 0, control 512
+23:42:26:847 (00021096) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:26:858 (00022240) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:30:847 (00017072) > [Render] Working set: 9441MB Page file: 18370MB Video Budget: 7223MB Video Usage: 6739MB Sys Budget: 15177MB Sys Usage: 4234MB Tex Usage: 1621MB Tex Budget: 3410MB BVH heaps: 120MB BVH size: 83MB Demoted: 917MB fps: 90.533340
+23:42:34:825 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:826 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:827 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:828 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:828 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:829 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:829 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:830 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:34:831 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:36:497 (00009320) > [Save] Request save type 0, control 0
+23:42:37:036 (00009320) > [Save] Request save type 0, control 0
+23:42:37:036 (00009320) > [Save] Request save type 0, control 0
+23:42:43:425 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:425 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:426 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:427 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:427 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:427 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:427 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:429 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:430 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:816 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:43:827 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:42:59:035 (00009320) > [Save] Request save type 0, control 548
+23:42:59:217 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:217 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:225 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:230 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:275 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:277 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:282 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:286 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:290 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:296 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:297 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:359 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:366 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:42:59:375 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:42:59:600 (00022240) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:366 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:367 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:367 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:368 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:368 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:368 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:368 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:369 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:369 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:901 (00022240) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:00:906 (00010140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:02:183 (00009320) > [Save] Request save type 0, control 512
+23:43:06:326 (00009320) > [Save] Request load save type 0, control 448, target -1
+23:43:09:634 (00009320) > [Save] Request load save type 0, control 64, target 4
+23:43:09:667 (00009320) > [Save] Request save type 0, control 0
+23:43:11:932 (00009320) > [Save] Request save type 0, control 512
+23:43:30:843 (00017072) > [Render] Working set: 10259MB Page file: 18482MB Video Budget: 7226MB Video Usage: 6694MB Sys Budget: 15177MB Sys Usage: 4040MB Tex Usage: 1795MB Tex Budget: 3410MB BVH heaps: 160MB BVH size: 104MB Demoted: 736MB fps: 71.733337
+23:43:38:334 (00009320) > [Save] Request save type 0, control 0
+23:43:38:334 (00009320) > [Save] Request save type 0, control 0
+23:43:40:628 (00009320) > [Save] Request save type 0, control 548
+23:43:40:994 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:40:994 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:008 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:018 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:020 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:023 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:027 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:031 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:035 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:040 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:044 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:059 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:067 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:43:41:083 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:43:41:318 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:093 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:095 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:606 (00022240) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:42:611 (00017460) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:43:43:652 (00009320) > [Save] Request save type 0, control 512
+23:43:47:627 (00009320) > [Save] Request load save type 0, control 448, target -1
+23:44:12:698 (00009320) > [Save] Request load save type 0, control 64, target 6
+23:44:12:733 (00009320) > [Save] Request save type 0, control 0
+23:44:15:045 (00009320) > [Save] Request save type 0, control 512
+23:44:28:348 (00009320) > [Save] Request save type 0, control 0
+23:44:28:348 (00009320) > [Save] Request save type 0, control 0
+23:44:28:380 (00009320) > [Save] Request save type 0, control 0
+23:44:28:380 (00009320) > [Save] Request save type 0, control 0
+23:44:30:837 (00017072) > [Render] Working set: 10181MB Page file: 19174MB Video Budget: 7223MB Video Usage: 6822MB Sys Budget: 15177MB Sys Usage: 4152MB Tex Usage: 1646MB Tex Budget: 3410MB BVH heaps: 140MB BVH size: 99MB Demoted: 719MB fps: 84.850006
+23:44:54:937 (00009320) > [Save] Request save type 0, control 0
+23:44:54:937 (00009320) > [Save] Request save type 0, control 0
+23:44:55:740 (00009320) > [Save] Request save type 0, control 0
+23:44:55:740 (00009320) > [Save] Request save type 0, control 256
+23:44:55:740 (00009320) > [Save] Request save type 0, control 0
+23:44:55:760 (00009320) > [Save] Request save type 0, control 0
+23:44:55:760 (00009320) > [Save] Request save type 0, control 0
+23:45:20:782 (00009320) > [Save] Request save type 0, control 0
+23:45:20:782 (00009320) > [Save] Request save type 0, control 0
+23:45:20:799 (00009320) > [Save] Request save type 0, control 0
+23:45:30:825 (00009320) > [Save] Request save type 0, control 512
+23:45:30:825 (00009320) > [Save] Request save type 0, control 768
+23:45:30:856 (00009320) > [Save] Request save type 0, control 512
+23:45:30:861 (00017072) > [Render] Working set: 10673MB Page file: 19359MB Video Budget: 7226MB Video Usage: 6866MB Sys Budget: 15177MB Sys Usage: 4407MB Tex Usage: 1619MB Tex Budget: 3410MB BVH heaps: 160MB BVH size: 133MB Demoted: 287MB fps: 71.283340
+23:46:07:167 (00006776) > [NxUpscaler] DLSS out of VRAM warning
+23:46:30:868 (00017072) > [Render] Working set: 10567MB Page file: 19395MB Video Budget: 7223MB Video Usage: 6773MB Sys Budget: 15177MB Sys Usage: 4458MB Tex Usage: 1621MB Tex Budget: 3410MB BVH heaps: 140MB BVH size: 109MB Demoted: 1008MB fps: 54.350002
+23:47:01:441 (00009320) > [Save] Request save type 0, control 0
+23:47:01:441 (00009320) > [Save] Request save type 0, control 0
+23:47:01:458 (00009320) > [Save] Request save type 0, control 0
+23:47:04:490 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:04:490 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:15:553 (00009320) > [Save] Request save type 0, control 0
+23:47:21:414 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:21:414 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:22:731 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:22:731 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:30:872 (00017072) > [Render] Working set: 10623MB Page file: 19415MB Video Budget: 7227MB Video Usage: 6674MB Sys Budget: 15177MB Sys Usage: 4509MB Tex Usage: 1617MB Tex Budget: 3410MB BVH heaps: 140MB BVH size: 101MB Demoted: 1059MB fps: 60.133335
+23:47:34:195 (00009320) > [Save] Request save type 0, control 512
+23:47:34:195 (00009320) > [Save] Request save type 0, control 512
+23:47:34:195 (00009320) > [Save] Request save type 0, control 512
+23:47:34:195 (00009320) > [Save] Request save type 0, control 512
+23:47:34:195 (00009320) > [Save] Request save type 0, control 768
+23:47:34:197 (00009320) > [Save] Request save type 0, control 0
+23:47:34:218 (00009320) > [Save] Request save type 0, control 0
+23:47:37:800 (00009320) > [Save] Request save type 0, control 0
+23:47:45:764 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:45:764 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:47:332 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:47:332 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:49:312 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:49:312 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:49:677 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:49:677 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:51:220 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:51:247 (00019884) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1080
+23:47:51:247 (00006776) > [NxReflex] Reflex support result:Result::eOk
+23:47:51:247 (00006776) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:47:51:247 (00006776) > [Settings] New display settings are:
+23:47:51:247 (00006776) > [**************************************************Display + Graphics Settings**************************************************] 
+23:47:51:247 (00006776) > [Settings] DirectX Version: 12
+23:47:51:247 (00006776) > [Settings] Window mode: Fullscreen
+23:47:51:247 (00006776) > [Settings] Fullscreen display mode:
+23:47:51:247 (00006776) > [Settings] 	Displaying on monitor: 0
+23:47:51:247 (00006776) > [Settings] 	Resolution: 2560x1080
+23:47:51:247 (00006776) > [Settings] 	HDR: Off
+23:47:51:247 (00006776) > [Settings] 	OS reported Refresh rate: 144
+23:47:51:247 (00006776) > [Settings] 	VSync: Off
+23:47:51:247 (00006776) > [Settings] 	Reflex: Low Latency
+23:47:51:247 (00006776) > [Settings] 	DLSSG: False
+23:47:51:247 (00006776) > [Settings] 	Resolution modifier 1.000000
+23:47:51:247 (00006776) > [Settings] 	Dynamic resolution FPS target: 0
+23:47:51:247 (00006776) > [Settings] Anti aliasing: TAA
+
+23:47:51:247 (00006776) > [Settings] Upscale method: DLSS
+
+23:47:51:247 (00006776) > [Settings] Upscale quality: Quality
+
+23:47:51:247 (00006776) > [Settings] Upscale sharpen value: 0.500000
+
+23:47:51:247 (00006776) > [Settings] Graphics Options:
+23:47:51:247 (00006776) > [Settings] 	RT Reflections: On
+23:47:51:247 (00006776) > [Settings] 		RT Reflection Resolution: High
+23:47:51:247 (00006776) > [Settings] 		RT Object Scale: 0.800000
+23:47:51:247 (00006776) > [Settings] 	RT Shadows: Off
+23:47:51:247 (00006776) > [Settings] 	RT Ambient Occlusion: Off
+23:47:51:247 (00006776) > [Settings] 	Texture Quality: Ultra
+23:47:51:247 (00006776) > [Settings] 	Texture Filtering: Anisotropic4x
+23:47:51:247 (00006776) > [Settings] 	Shadow Quality: Medium
+23:47:51:247 (00006776) > [Settings] 	Depth of Field: Medium
+23:47:51:247 (00006776) > [Settings] 	Level of Detail: Medium
+23:47:51:247 (00006776) > [Settings] 	Vehicle Detail: High
+23:47:51:247 (00006776) > [Settings] 	Hair Quality: Medium
+23:47:51:247 (00006776) > [Settings] 	Ambient Occlusion: SSAO
+23:47:51:247 (00006776) > [Settings] 	Screen Space Reflections: Performance
+23:47:51:247 (00006776) > [Settings] 	Particle Lighting: Medium
+
+23:47:51:247 (00006776) > [Settings] 	Bloom: On
+23:47:51:247 (00006776) > [Settings] 	Vignette: Off
+23:47:51:247 (00006776) > [Settings] 	Chromatic Aberration: Off
+23:47:51:247 (00006776) > [Settings] 	Motion Blur: 0.001000
+23:47:51:247 (00006776) > [Settings] 	FOV Correction: 1.200000
+23:47:51:247 (00006776) > [Settings] 	Film Grain Strength: 0.001000
+23:47:51:247 (00006776) > [Settings] 	Sharpness: 1.000000
+23:47:51:247 (00006776) > [Settings] 	Lens Flares: On
+23:47:51:247 (00006776) > [Settings] 	Screen Effects: On
+23:47:51:247 (00006776) > [Settings] 	Screen Shake: On
+23:47:51:247 (00006776) > [Settings] 	Phantom Dash Effect: On
+23:47:51:247 (00006776) > [**************************************************Display + Graphics Settings**************************************************] 
+23:47:51:247 (00006776) > [Settings] End of settings.
+23:47:51:247 (00006776) > [NxApp (Render Thread)] Finished enforcing display settings
+23:47:51:249 (00009320) > [NxApp] Finished enforcing display settings
+23:47:51:370 (00009320) > [NxReflex] Reflex support result:Result::eOk
+23:47:51:371 (00009320) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+23:48:30:872 (00017072) > [Render] Working set: 11221MB Page file: 19533MB Video Budget: 7224MB Video Usage: 6648MB Sys Budget: 15177MB Sys Usage: 4845MB Tex Usage: 1692MB Tex Budget: 3410MB BVH heaps: 200MB BVH size: 154MB Demoted: 1394MB fps: 51.200005
+23:48:39:422 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:41:396 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:42:282 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:42:940 (00009320) > [Sound] Changing sound listening mode: 3
+23:48:43:526 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:43:792 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:44:901 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:45:463 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:45:709 (00009320) > [Sound] Changing sound listening mode: 3
+23:48:46:052 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:47:797 (00009320) > [Sound] Changing sound listening mode: 3
+23:48:48:082 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:49:234 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:49:933 (00009320) > [Sound] Changing sound listening mode: 3
+23:48:50:644 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:50:987 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:51:854 (00009320) > [Sound] Changing sound listening mode: 3
+23:48:52:619 (00009320) > [Sound] Changing sound listening mode: 0
+23:48:52:886 (00009320) > [Sound] Changing sound listening mode: 1
+23:48:54:197 (00009320) > [Sound] Changing sound listening mode: 5
+23:48:54:914 (00009320) > [Sound] Changing sound listening mode: 1
+23:49:05:061 (00009320) > [Save] Request save type 0, control 0
+23:49:05:061 (00009320) > [Save] Request save type 2, control 0
+23:49:30:907 (00017072) > [Render] Working set: 11015MB Page file: 19757MB Video Budget: 7227MB Video Usage: 6674MB Sys Budget: 15177MB Sys Usage: 4804MB Tex Usage: 1691MB Tex Budget: 3410MB BVH heaps: 180MB BVH size: 144MB Demoted: 1353MB fps: 50.550003
+23:49:39:566 (00009320) > [Save] Request save type 0, control 548
+23:49:39:933 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:39:933 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:39:967 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:39:977 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:39:983 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:39:985 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:40:027 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:40:032 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:40:038 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:40:040 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:40:064 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:40:072 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:40:080 (00009320) > [Save] Request load save type 0, control 128, target -1
+23:49:40:084 (00004920) > [Save] Request type 3 failed with code 0x00000002
+23:49:40:329 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:069 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:076 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:077 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:078 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:635 (00017612) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:41:640 (00009976) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+23:49:42:691 (00009320) > [Save] Request save type 0, control 512
+23:49:45:736 (00009320) > [App] Quit requested from Profile Select Menu
+23:49:45:822 (00009536) > [Audio] Device removed 0xc2beb1e3
+23:49:46:023 (00009320) > [NxApp] Destroying
+23:49:46:045 (00009320) > [DXGI] Destroyed swapchain.
+23:49:46:045 (00009320) > [SwapChain] Destroyed.
+23:49:46:045 (00009320) > [SwapChain] Released.
+23:49:46:045 (00009320) > [Render] Unloading NVAPI
+23:49:46:045 (00009320) > [Render] Done unloading NVAPI
+23:49:46:045 (00009320) > [Render] Unloading ADL...
+23:49:46:046 (00009320) > [Render] Done unloading ADL
+23:49:46:046 (00009320) > [DXGI] Destroyed swapchain.
+23:49:46:046 (00009320) > [DXGI] Released.
+--- NIXXES log closed ---
