@@ -14,6 +14,12 @@ git push
 
 git reset --soft origin/main
 git restore --staged *
+git add "Ratchet & Clank - Rift Apart"
+git commit -m "Ratchet & Clank - Rift Apart Save - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
 git add "GTA San Andreas User Files"
 git commit -m "GTA San Andreas User Files - %date%-%time%"
 git push
