@@ -38,6 +38,12 @@ git push
 
 git reset --soft origin/main
 git restore --staged *
+git add "Deus Ex"
+git commit -m "Deus Ex Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
 git add "DocumentPushScript.bat"
 git commit -m "Document Push Script Batch - %date%-%time%"
 git push
