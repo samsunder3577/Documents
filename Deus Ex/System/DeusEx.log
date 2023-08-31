@@ -1,4 +1,4 @@
-Log: Log file open, 08/31/23 00:08:20
+Log: Log file open, 08/31/23 20:04:36
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,7 +16,7 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4691.108333 MHz
+Init: CPU Speed=4691.094433 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
@@ -67,7 +67,7 @@ Log: Loading: Package NYCBar
 Log: Loading: Package CoreTexConcrete
 Init: Unreal engine initialized
 Log: Bound to WinDrv.dll
-Init: Mouse info: 0 0 1
+Init: Mouse info: 6 10 1
 Init: Initializing DirectDraw
 Log: DirectDraw drivers:
 Log:    display (Primary Display Driver)
@@ -117,105 +117,9 @@ Init: Game engine initialized
 Log: Installing hook 'Free save space fix'.
 Log: Installing hook 'Widescreen subtitle fix'.
 DevMusic: Load music: Music Title_Music.Title_Music
-Log: WM_KILLFOCUS
-Log: EndFullscreen
-Log: AttemptFullscreen
-Log: Direct3D 11 renderer exiting.
-Log: Uninit.
-Log: Bye.
-Log: Initializing Direct3D 11 renderer.
-Log: Initializing Direct3D.
-Log: Assigning Last Button Window to MenuMain dx.JCDentonMale0.DeusExRootWindow0.MenuMain0
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
-Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
-Log: URL: Adding default option Name=Player
-Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=403?Name=Player?Class=DeusEx.JCDentonMale
-Log: Doing loadgame, not load
-Log: Loading: Package saveInfo
-Log: Unloading: Package dx
-Log: URL: Adding default option Name=Player
-Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
-DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 06_HongKong_MJ12lab
-Log: Loading: Package MJ12_lab
-Log: Loading: Package HK_MJ12Lab
-Log: Loading: Package CoreTexGlass
-Log: Loading: Package CoreTexStone
-Log: Loading: Package HK_Helibase
-Log: Loading: Package NewYorkCity
-Log: Loading: Package CoreTexPaper
-Log: Loading: Package area51textures
-Log: Loading: Package HK_Interior
-Log: Loading: Package Constructor
-Log: Loading: Package CoreTexMisc
-Log: Loading: Package Paris
-Log: Loading: Package CoreTexTiles
-Log: Loading: Package OceanLab
-Log: Loading: Package CoreTexWallObj
-Log: Loading: Package Airfield
-Log: Loading: Package HK_VersaLife
-Log: Loading: Package V_Com_Center
-Log: Loading: Package Supertanker
-Log: Loading: Package FreeClinic
-Log: Loading: Package Catacombs
-Log: Loading: Package Cmd_tunnels
-Log: Loading: Package UNATCO
-Log: Loading: Package HK_Signs
-Log: Loading: Package CoreTexCeramic
-Log: Loading: Package HK_Decorations
-Log: Loading: Package Rocket
-Log: Loading: Package MJ12_Music
-Log: Loading: Package SubBase
-Init: Shut down moving brush tracker for Level dx.MyLevel
-Log: Collecting garbage
-Log: Purging garbage
-Log: Unloading: Package saveInfo
-Log: Garbage: objects: 44249->43286; refs: 984702
-Log: Loading: Package DeusExConText
-Log: Spawning new actor for Viewport WindowsViewport0
-ScriptLog: Login: Player
-Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
-ScriptLog: All inventory from Player is accepted
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
-ScriptLog: bHardCoreMode = False
-ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
-DevAudio: Galaxy SetViewport: WindowsViewport0
-DevMusic: Unregister music: Music Title_Music.Title_Music
-DevMusic: Load music: Music MJ12_Music.MJ12_Music
-ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
-Log: Loading: Package DeusExConAudioHK_Shared
-Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.NetworkTerminalSecurity0.ComputerScreenHack0.PersonaButtonBarWindow0.PersonaActionButtonWindow0
-Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow3
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow5
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow5
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuMain1.MenuUIClientWindow4.MenuUIMenuButtonWindow13
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuSettings0.MenuUIClientWindow5.MenuUIMenuButtonWindow21
-Log: Assigning Last Button Window to MenuUIInfoButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls0.MenuUIClientWindow6.MenuChoice_AlwaysRun0.MenuUIInfoButtonWindow6
-Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls0.MenuUIClientWindow6
-Log: Assigning Last Button Window to MenuUIInfoButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls0.MenuUIClientWindow6.MenuChoice_ToggleCrouch0.MenuUIInfoButtonWindow7
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow7
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow7
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuSettings0.MenuUIClientWindow5.MenuUIMenuButtonWindow21
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls1.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow10
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenControls1.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow10
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuSettings0.MenuUIClientWindow5.MenuUIMenuButtonWindow20
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-ScriptLog: SET InputExt Unknown05 PutInHand
-ScriptLog: SET InputExt Unknown06 ReloadWeapon
-Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenCustomizeKeys0.MenuUIClientWindow8.MenuUIScrollAreaWindow1.ClipWindow3.MenuUIListWindow1
-Log: Loading: Package DeusExConAudioAIBarks
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuMain2.MenuUIClientWindow9.MenuUIMenuButtonWindow37
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow16
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow16
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow9
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
 Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
@@ -278,54 +182,22 @@ Exit: Lighting subsystem shut down
 Exit: Rendering shut down
 Log: Unloading: Package Entry
 Log: Unloading: Package Title_Music
+DevMusic: Unregister music: Music Title_Music.Title_Music
+Log: Unloading: Package dx
+Init: Shut down moving brush tracker for Level dx.MyLevel
 Log: Direct3D 11 renderer exiting.
 Log: Uninit.
 Log: Bye.
-Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
 Log: Unbound to D3D11Drv.dll
 Log: Unbound to Galaxy.dll
 DevAudio: Galaxy SetViewport: NULL
-DevMusic: Unregister music: Music MJ12_Music.MJ12_Music
 Exit: Galaxy shut down
-Log: Unloading: Package CoreTexGlass
-Log: Unloading: Package SubBase
-Log: Unloading: Package HK_Decorations
-Log: Unloading: Package Cmd_tunnels
-Log: Unloading: Package HK_Signs
-Log: Unloading: Package Supertanker
-Log: Unloading: Package CoreTexWallObj
-Log: Unloading: Package HK_VersaLife
-Log: Unloading: Package Paris
-Log: Unloading: Package area51textures
-Log: Unloading: Package Constructor
-Log: Unloading: Package HK_Helibase
-Log: Unloading: Package MJ12_lab
-Log: Unloading: Package 06_HongKong_MJ12lab
-Log: Unloading: Package Rocket
-Log: Unloading: Package UNATCO
-Log: Unloading: Package FreeClinic
-Log: Unloading: Package Airfield
-Log: Unloading: Package CoreTexTiles
-Log: Unloading: Package HK_Interior
-Log: Unloading: Package NewYorkCity
-Log: Unloading: Package CoreTexStone
-Log: Unloading: Package MJ12_Music
-Log: Unloading: Package CoreTexCeramic
-Log: Unloading: Package Catacombs
-Log: Unloading: Package V_Com_Center
-Log: Unloading: Package OceanLab
-Log: Unloading: Package CoreTexMisc
-Log: Unloading: Package CoreTexPaper
-Log: Unloading: Package HK_MJ12Lab
-Log: Unloading: Package DeusExConText
-Log: Unloading: Package DeusExConAudioAIBarks
-Log: Unloading: Package DeusExConAudioHK_Shared
-Log: Garbage: objects: 58580->0; refs: 984702
+Log: Garbage: objects: 37795->0; refs: 431019
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  1.832M /  2.309M
-Uninitialized: Peak Memory  473.958M /  476.805M
-Uninitialized: Allocs         160 Current /  6195473 Total
-Uninitialized: Log file closed, 08/31/23 00:10:07
+Uninitialized: Curr Memory  0.070M /  2.121M
+Uninitialized: Peak Memory  156.640M /  158.414M
+Uninitialized: Allocs         159 Current /  276664 Total
+Uninitialized: Log file closed, 08/31/23 20:04:46
