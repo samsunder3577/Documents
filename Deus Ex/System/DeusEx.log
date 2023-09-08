@@ -1,4 +1,4 @@
-Log: Log file open, 09/03/23 02:47:53
+Log: Log file open, 09/08/23 01:33:08
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,24 +16,1902 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4691.064700 MHz
+Init: CPU Speed=4691.104548 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
 Log: Deus Exe: version 8.1.0.0.
 Log: Deus Exe: Using User Documents File Manager.
+Log: Bound to DeusEx.dll
+Log: Bound to ConSys.dll
+Log: Loading: Package DeusEx
+Log: Loading: Package Core
+Log: Loading: Package Engine
+Log: Loading: Package Extension
+Log: Loading: Package DeusExCharacters
+Log: Loading: Package DeusExUI
+Log: Loading: Package DeusExItems
+Log: Loading: Package Effects
+Log: Bound to Fire.dll
+Log: Loading: Package Fire
+Log: Loading: Package ConSys
+Log: Loading: Package DeusExSounds
+Log: Loading: Package GMDXSFX
+Log: Loading: Package HDTPItems
+Log: Loading: Package DeusExDeco
+Log: Loading: Package HDTPanim
+Log: Loading: Package HDTPDecos
+Log: Loading: Package HDTPCharacters
+Log: Loading: Package UBrowser
+Log: Loading: Package UWindow
+Log: Bound to IpDrv.dll
+Log: Loading: Package IpDrv
+Log: Bound to DeusExText.dll
+Log: Loading: Package DeusExText
+Log: Loading: Package GameMedia
+Log: Loading: Package GameEffects
+Log: Loading: Package CoreTexWater
+Log: Loading: Package CoreTexTextile
+Log: Loading: Package CoreTexDetail
+Log: Loading: Package Ambient
+Log: Loading: Package MoverSFX
+Log: Loading: Package GMDXUI
+Log: Loading: Package FOMOD
+Log: Loading: Package IpServer
+Log: Loading: Package MPCharacters
+Log: Loading: Package ShifterEX
+Log: Loading: Package CoreTexWood
+Log: Loading: Package Extras
+Log: Loading: Package CoreTexMetal
+Log: Loading: Package NYCBar
+Log: Loading: Package CoreTexConcrete
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Mouse info: 0 0 1
+Init: Initializing DirectDraw
+Log: DirectDraw drivers:
+Log:    display (Primary Display Driver)
+Init: DirectDraw initialized successfully
+Init: Client initialized
+Log: Bound to Render.dll
+Log: Loading: Package Render
+Init: Lighting subsystem initialized
+Init: Rendering initialized
+Log: LoadMap: entry.dx
+Log: Loading: Package Entry
+Log: Loading: Package Title_Music
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+Log: Browse: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is -1, next is -1
+Log: LoadMap: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Loading: Package dx
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Render
+Log: Garbage: objects: 37383->37382; refs: 431019
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level dx.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is dx.Mutator1
+Init: Initialized moving brush tracker for Level dx.MyLevel
+ScriptLog: Login: Player
+Init: *** DEUS EX VERSION Mon Mar 19 12:06:14 2001 v1.112fm ***
+ScriptLog: MYCHK:: 8 :: 443
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale dx.JCDentonMale0
+ScriptLog: All inventory from Player is accepted
+Init: Input system initialized for WindowsViewport0
+Log: Opened viewport
+Log: Bound to D3D11Drv.dll
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Bound to Galaxy.dll
+Init: Galaxy is using DirectSound
+Init: Galaxy initialized
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Game engine initialized
+Log: Installing hook 'Free save space fix'.
+Log: Installing hook 'Widescreen subtitle fix'.
+DevMusic: Load music: Music Title_Music.Title_Music
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=443?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package dx
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Log: Loading: Package NewYorkCity
+Log: Loading: Package Dockyard
+Log: Loading: Package CoreTexMisc
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package Supertanker
+Log: Loading: Package MolePeople
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package area51textures
+Log: Loading: Package CoreTexSky
+Log: Loading: Package CoreTexGlass
+Log: Loading: Package UNATCO
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexStone
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package CoreTexTiles
+Log: Loading: Package Airfield
+Log: Loading: Package BatteryPark
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package NavalBaseAlt_Music
+Log: Loading: Package HDTPPapers
+Log: Loading: Package Constructor
+Log: Loading: Package MJ12_lab
+Log: Loading: Package HK_Helibase
+Init: Shut down moving brush tracker for Level dx.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 44019->42978; refs: 1039308
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Unregister music: Music Title_Music.Title_Music
+DevMusic: Load music: Music NavalBaseAlt_Music.NavalBase_Music
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow1.MenuMain1.MenuUIClientWindow2.MenuUIMenuButtonWindow12
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=443?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 53064->42983; refs: 1039343
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Dockyard.WeaponAssaultShotgun2
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 09_NYC_Dockyard.AmmoShell8  Weapon(item).AmmoType.AmmoAmount= 41
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 09_NYC_Dockyard.AmmoShell6
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Dockyard.AmmoShell8
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Dockyard.WeaponCombatKnife12
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  09_NYC_Dockyard.WeaponCombatKnife8
+ScriptWarning: SoldierCarcass 09_NYC_Dockyard.SoldierCarcass3 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 09_NYC_Dockyard.WeaponCombatKnife8  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow2.MenuMain2.MenuUIClientWindow4
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow2.MenuMain2.MenuUIClientWindow4.MenuUIMenuButtonWindow22
+Log: Assigning Last Button Window to MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow2.MenuScreenLoadGame2.MenuUIClientWindow5.MenuUIScrollAreaWindow2.ClipWindow2.MenuUIListWindow2
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow2.MenuScreenLoadGame2.MenuUIClientWindow5.MenuUIScrollAreaWindow2.ClipWindow2.MenuUIListWindow2
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=443?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53174->42983; refs: 1039343
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow3.MenuMain3.MenuUIClientWindow6.MenuUIMenuButtonWindow32
+Log: Assigning Last Button Window to MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow3.MenuScreenLoadGame3.MenuUIClientWindow7.MenuUIScrollAreaWindow3.ClipWindow3.MenuUIListWindow3
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow3.MenuScreenLoadGame3.MenuUIClientWindow7.MenuUIScrollAreaWindow3.ClipWindow3.MenuUIListWindow3
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=442?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52798->42990; refs: 1039997
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow4.MenuMain4.MenuUIClientWindow8
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow4.MenuMain4.MenuUIClientWindow8.MenuUIMenuButtonWindow42
+Log: Assigning Last Button Window to MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow4.MenuScreenLoadGame4.MenuUIClientWindow9.MenuUIScrollAreaWindow4.ClipWindow4.MenuUIListWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow4.MenuScreenLoadGame4.MenuUIClientWindow9.MenuUIScrollAreaWindow4.ClipWindow4.MenuUIListWindow4
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=442?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52683->42990; refs: 1039997
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuMain5.MenuUIClientWindow10.MenuUIMenuButtonWindow51
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuScreenSaveGame0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow16
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuScreenSaveGame0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow16
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Dockyard
+Log: Unloading: Package saveInfo
+Log: Save=3.852705
+Log: Moving '..\Save\Save0444\Save.tmp' to '..\Save\Save0444\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Save=82.227541
+Log: Moving '..\Save\Save0444\Save.tmp' to '..\Save\Save0444\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Brooklyn Naval Shipyards :: 444 :: 444
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuMain6.MenuUIClientWindow12.MenuUIMenuButtonWindow62
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuScreenLoadGame5.MenuUIClientWindow13
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuScreenLoadGame5.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow19
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow5.MenuScreenLoadGame5.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow19
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53108->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow6.MenuMain7.MenuUIClientWindow14.MenuUIMenuButtonWindow72
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow6.MenuScreenLoadGame6.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow22
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow6.MenuScreenLoadGame6.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow22
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53521->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow7.MenuMain8.MenuUIClientWindow16.MenuUIMenuButtonWindow82
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow7.MenuScreenLoadGame7.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow25
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow7.MenuScreenLoadGame7.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow25
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52989->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow8.MenuMain9.MenuUIClientWindow18.MenuUIMenuButtonWindow92
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow8.MenuScreenLoadGame8.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow28
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow8.MenuScreenLoadGame8.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow28
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53026->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow9.MenuMain10.MenuUIClientWindow20.MenuUIMenuButtonWindow102
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow9.MenuScreenLoadGame9.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow31
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow9.MenuScreenLoadGame9.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow31
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52698->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow10.MenuMain11.MenuUIClientWindow22.MenuUIMenuButtonWindow112
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow10.MenuScreenLoadGame10.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow34
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow10.MenuScreenLoadGame10.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow34
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52983->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow11.MenuMain12.MenuUIClientWindow24.MenuUIMenuButtonWindow122
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow11.MenuScreenLoadGame11.MenuUIActionButtonBarWindow12.MenuUIActionButtonWindow37
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow11.MenuScreenLoadGame11.MenuUIActionButtonBarWindow12.MenuUIActionButtonWindow37
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=444?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52749->42989; refs: 1039648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.PersonaScreenInventory0.PersonaClientWindow1.Window207.PersonaInventoryItemButton21
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.PersonaScreenInventory0.PersonaClientWindow1.Window207.PersonaInventoryItemButton21
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.PersonaScreenInventory0.PersonaClientWindow1.Window207.PersonaInventoryItemButton21
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuMain13.MenuUIClientWindow26.MenuUIMenuButtonWindow131
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuScreenSaveGame1.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow40
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuScreenSaveGame1.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow40
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Dockyard
+Log: Unloading: Package saveInfo
+Log: Save=4.111354
+Log: Moving '..\Save\Save0445\Save.tmp' to '..\Save\Save0445\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Save=86.735943
+Log: Moving '..\Save\Save0445\Save.tmp' to '..\Save\Save0445\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Brooklyn Naval Shipyards :: 445 :: 445
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuMain14.MenuUIClientWindow28.MenuUIMenuButtonWindow142
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuScreenLoadGame12.MenuUIActionButtonBarWindow14.MenuUIActionButtonWindow43
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow12.MenuScreenLoadGame12.MenuUIActionButtonBarWindow14.MenuUIActionButtonWindow43
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=445?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52850->42988; refs: 1039641
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenHack0
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenHack0
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenHack0.PersonaButtonBarWindow6.PersonaActionButtonWindow6
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton0
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton1
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton2
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton3
+Log: Tried to remove lastbuttonwindow descendant. MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton3
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenHack1.PersonaButtonBarWindow7.PersonaActionButtonWindow7
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSpecialOptions1.ComputerUIScaleClientWindow1.MenuUIChoiceButton6
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSpecialOptions1.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow51
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSpecialOptions1.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow51
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.MenuMain16.MenuUIClientWindow33.MenuUIMenuButtonWindow162
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.MenuScreenLoadGame13.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow54
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow13.MenuScreenLoadGame13.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow54
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=445?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52930->42988; refs: 1039641
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenHack2.PersonaButtonBarWindow8.PersonaActionButtonWindow8
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSpecialOptions2.ComputerUIScaleClientWindow2.MenuUIChoiceButton8
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSpecialOptions2.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow59
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSpecialOptions2.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow59
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityChoice_Camera0.MenuUIInfoButtonWindow6
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityChoice_Camera0.MenuUIInfoButtonWindow6
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityCameraWindow2.ComputerSecurityCameraViewButton2
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityChoice_Camera0.MenuUIInfoButtonWindow6
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityCameraWindow0.ComputerSecurityCameraViewButton0
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIClientWindow36.ComputerSecurityCameraWindow2.ComputerSecurityCameraViewButton2
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow60
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity2.ComputerScreenSecurity0.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow60
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuMain17.MenuUIClientWindow37.MenuUIMenuButtonWindow171
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuScreenSaveGame2.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow63
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuScreenSaveGame2.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow63
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Dockyard
+Log: Unloading: Package saveInfo
+Log: Save=13.650027
+Log: Moving '..\Save\Save0446\Save.tmp' to '..\Save\Save0446\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Save=83.267900
+Log: Moving '..\Save\Save0446\Save.tmp' to '..\Save\Save0446\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Brooklyn Naval Shipyards :: 446 :: 446
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity3.ComputerScreenHack3.PersonaButtonBarWindow9.PersonaActionButtonWindow9
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity3.ComputerScreenSpecialOptions3.ComputerUIScaleClientWindow3.MenuUIChoiceButton17
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity3.ComputerScreenSpecialOptions3.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow67
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity3.ComputerScreenSpecialOptions3.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow67
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity4.ComputerScreenHack4.PersonaButtonBarWindow10.PersonaActionButtonWindow10
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity4.ComputerScreenSpecialOptions4.ComputerUIScaleClientWindow4.MenuUIChoiceButton22
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity4.ComputerScreenSpecialOptions4.ComputerUIScaleClientWindow4.MenuUIChoiceButton23
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity4.ComputerScreenSpecialOptions4.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow71
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity4.ComputerScreenSpecialOptions4.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow71
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.PersonaScreenInventory1.PersonaClientWindow3.Window276.PersonaInventoryItemButton60
+ScriptWarning: PersonaScreenInventory 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.PersonaScreenInventory1 (Function DeusEx.PersonaScreenInventory.UseSelectedItem:0011) Accessed None
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.PersonaScreenInventory1.PersonaClientWindow3.Window276.PersonaInventoryItemButton60
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.PersonaScreenInventory1.PersonaClientWindow3.Window276.PersonaInventoryItemButton60
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.PersonaScreenInventory1.PersonaClientWindow3.Window276.PersonaInventoryItemButton60
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenHack5
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenHack5.PersonaButtonBarWindow17.PersonaActionButtonWindow17
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5.MenuUIChoiceButton24
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5.MenuUIChoiceButton25
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5.MenuUIChoiceButton26
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5.MenuUIChoiceButton27
+Log: Assigning Last Button Window to ComputerUIScaleClientWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.MenuUIActionButtonBarWindow29.MenuUIActionButtonWindow75
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity5.ComputerScreenSpecialOptions5.MenuUIActionButtonBarWindow29.MenuUIActionButtonWindow75
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity6.ComputerScreenHack6
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity6.ComputerScreenHack6.PersonaButtonBarWindow18.PersonaActionButtonWindow18
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity6.ComputerScreenSpecialOptions6.ComputerUIScaleClientWindow6.MenuUIChoiceButton28
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity6.ComputerScreenSpecialOptions6.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow79
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity6.ComputerScreenSpecialOptions6.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow79
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity7.ComputerScreenHack7.PersonaButtonBarWindow19.PersonaActionButtonWindow19
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity7.ComputerScreenSpecialOptions7.ComputerUIScaleClientWindow7.MenuUIChoiceButton32
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity7.ComputerScreenSpecialOptions7.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow83
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.NetworkTerminalSecurity7.ComputerScreenSpecialOptions7.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow83
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuMain18.MenuUIClientWindow44.MenuUIMenuButtonWindow182
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuScreenLoadGame14.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow86
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow14.MenuScreenLoadGame14.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow86
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=446?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53842->43064; refs: 1042294
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory2.PersonaClientWindow4.Window307.PersonaInventoryItemButton95
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory2.PersonaClientWindow4.Window307.PersonaInventoryItemButton95
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory2.PersonaClientWindow4.Window307.PersonaInventoryItemButton95
+Log: Assigning Last Button Window to PersonaNavBarWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenGoals3.PersonaNavBarWindow6
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenGoals3.PersonaNavBarWindow6.PersonaButtonBarWindow26.PersonaNavButtonWindow60
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenGoals3.PersonaNavBarWindow6.PersonaButtonBarWindow26.PersonaNavButtonWindow60
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth0.PersonaNavBarWindow7.PersonaButtonBarWindow29.PersonaNavButtonWindow70
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth0.PersonaNavBarWindow7.PersonaButtonBarWindow29.PersonaNavButtonWindow70
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory3.PersonaClientWindow8.Window320.PersonaInventoryItemButton134
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory3.PersonaClientWindow8.Window320.PersonaInventoryItemButton126
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory3.PersonaClientWindow8.PersonaButtonBarWindow34.PersonaActionButtonWindow31
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory3.PersonaClientWindow8.PersonaButtonBarWindow34.PersonaActionButtonWindow31
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.Window327.PersonaInventoryItemButton140
+Log: Assigning Last Button Window to PersonaClientBorderWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientBorderWindow10
+Log: Assigning Last Button Window to PersonaClientWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10
+Log: Assigning Last Button Window to ButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ScaleManagerWindow86.ButtonWindow177
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow99.TextWindow408
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow100.TextWindow410
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow101.TextWindow412
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow102.TextWindow414
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow103.TextWindow416
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow104.TextWindow418
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow105.TextWindow420
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow106.TextWindow422
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow107.TextWindow424
+Log: Assigning Last Button Window to PersonaInfoLineWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoLineWindow20
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaNormalLargeTextWindow19
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow108.TextWindow426
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow109.TextWindow430
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow110.TextWindow434
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow111.TextWindow438
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow112.TextWindow442
+Log: Assigning Last Button Window to PersonaInfoItemWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow112
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow113.TextWindow446
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow114.TextWindow450
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow115.TextWindow454
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow116.TextWindow458
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaNormalLargeTextWindow20
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaNormalLargeTextWindow20
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow116.TextWindow458
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow115.TextWindow454
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow114.TextWindow450
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow113.TextWindow446
+Log: Assigning Last Button Window to PersonaInfoItemWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow112
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow112.TextWindow442
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow111.TextWindow438
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow110.TextWindow434
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow109.TextWindow430
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow108.TextWindow426
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaNormalLargeTextWindow19
+Log: Assigning Last Button Window to PersonaInfoLineWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoLineWindow20
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow107.TextWindow424
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow106.TextWindow422
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow105.TextWindow420
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow104.TextWindow418
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow103.TextWindow416
+Log: Assigning Last Button Window to TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow102.TextWindow414
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: Tried to remove lastbuttonwindow descendant. TextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory4.PersonaClientWindow10.PersonaInventoryInfoWindow4.PersonaScrollAreaWindow24.ClipWindow61.TileWindow118.PersonaInfoItemWindow102.TextWindow414
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuMain21.MenuUIClientWindow48.MenuUIMenuButtonWindow210
+Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuMain21.MenuUIClientWindow48.MenuUIMenuButtonWindow210
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenGoals5.PersonaNavBarWindow11.PersonaButtonBarWindow41.PersonaNavButtonWindow106
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenGoals5.PersonaNavBarWindow11.PersonaButtonBarWindow41.PersonaNavButtonWindow106
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton175
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.PersonaButtonBarWindow46.PersonaActionButtonWindow43
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton201
+ScriptWarning: WeaponShuriken 09_NYC_Dockyard.WeaponShuriken5 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.PersonaButtonBarWindow46.PersonaActionButtonWindow43
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton195
+Log: Assigning Last Button Window to Window 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton193
+ScriptWarning: WeaponEMPGrenade 09_NYC_Dockyard.WeaponEMPGrenade5 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.PersonaButtonBarWindow46.PersonaActionButtonWindow43
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton195
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton195
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory5.PersonaClientWindow12.Window338.PersonaInventoryItemButton195
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaClientWindow13.Window344.PersonaInventoryItemButton214
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaClientWindow13.Window344.PersonaInventoryItemButton213
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaClientWindow13.Window344.PersonaInventoryItemButton212
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaClientWindow13.Window344.PersonaInventoryItemButton211
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaClientWindow13.Window344.PersonaInventoryItemButton210
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaNavBarWindow13.PersonaButtonBarWindow49.PersonaNavButtonWindow123
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory6.PersonaNavBarWindow13.PersonaButtonBarWindow49.PersonaNavButtonWindow123
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth1.PersonaNavBarWindow14.PersonaButtonBarWindow52.PersonaNavButtonWindow131
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth1.PersonaNavBarWindow14.PersonaButtonBarWindow52.PersonaNavButtonWindow131
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenAugmentations0.PersonaNavBarWindow15.PersonaButtonBarWindow55.PersonaNavButtonWindow141
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenAugmentations0.PersonaNavBarWindow15.PersonaButtonBarWindow55.PersonaNavButtonWindow141
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth2.PersonaNavBarWindow16.PersonaButtonBarWindow59.PersonaNavButtonWindow151
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenHealth2.PersonaNavBarWindow16.PersonaButtonBarWindow59.PersonaNavButtonWindow151
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory7.PersonaClientWindow17.Window364.PersonaInventoryItemButton243
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.PersonaScreenInventory7.PersonaClientWindow17.Window364.PersonaInventoryItemButton243
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuMain23.MenuUIClientWindow52.MenuUIMenuButtonWindow237
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuMain23.MenuUIClientWindow52.MenuUIMenuButtonWindow238
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuScreenLoadGame15.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow93
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow15.MenuScreenLoadGame15.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow93
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=446?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52790->43064; refs: 1042294
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow22.Window400.PersonaInventoryItemButton400
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenGoals7.PersonaNavBarWindow23.PersonaButtonBarWindow80.PersonaNavButtonWindow214
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenGoals7.PersonaNavBarWindow23.PersonaButtonBarWindow80.PersonaNavButtonWindow214
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton431
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.PersonaButtonBarWindow85.PersonaActionButtonWindow86
+Log: Assigning Last Button Window to PersonaScreenInventory 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton436
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton436
+ScriptWarning: WeaponShuriken 09_NYC_Dockyard.WeaponShuriken5 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton429
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton429
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton438
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton438
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton433
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton433
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory12.PersonaClientWindow24.Window407.PersonaInventoryItemButton433
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.Window412.PersonaInventoryItemButton447
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.Window412.PersonaInventoryItemButton446
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.Window412.PersonaInventoryItemButton447
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.Window412.PersonaInventoryItemButton447
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.Window412.PersonaInventoryItemButton447
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.PersonaButtonBarWindow89.PersonaActionButtonWindow91
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory13.PersonaClientWindow25.PersonaButtonBarWindow89.PersonaActionButtonWindow91
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory14.PersonaClientWindow26.Window417.PersonaInventoryItemButton497
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory14.PersonaClientWindow26.Window417.PersonaInventoryItemButton482
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory14.PersonaClientWindow26.Window417.PersonaInventoryItemButton480
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory14.PersonaClientWindow26.Window417.PersonaInventoryItemButton480
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.MenuMain25.MenuUIClientWindow56.MenuUIMenuButtonWindow258
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.MenuScreenLoadGame16.MenuUIActionButtonBarWindow38.MenuUIActionButtonWindow96
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow16.MenuScreenLoadGame16.MenuUIActionButtonBarWindow38.MenuUIActionButtonWindow96
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=446?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Dockyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52785->43064; refs: 1042294
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenInventory16.PersonaClientWindow28.Window439.PersonaInventoryItemButton575
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenInventory16.PersonaClientWindow28.Window439.PersonaInventoryItemButton575
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenInventory16.PersonaClientWindow28.Window439.PersonaInventoryItemButton575
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenGoals8.PersonaNavBarWindow29.PersonaButtonBarWindow99.PersonaNavButtonWindow268
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenGoals8.PersonaNavBarWindow29.PersonaButtonBarWindow99.PersonaNavButtonWindow268
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenInventory17.PersonaClientWindow30.Window446.PersonaInventoryItemButton606
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.PersonaScreenInventory17.PersonaClientWindow30.Window446.PersonaInventoryItemButton606
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuMain26.MenuUIClientWindow58.MenuUIMenuButtonWindow267
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenSaveGame4.MenuUIActionButtonBarWindow39.MenuUIActionButtonWindow99
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenSaveGame4.MenuUIActionButtonBarWindow39.MenuUIActionButtonWindow99
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Dockyard
+Log: Unloading: Package saveInfo
+Log: Save=13.725881
+Log: Moving '..\Save\Save0447\Save.tmp' to '..\Save\Save0447\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Save=82.599575
+Log: Moving '..\Save\Save0447\Save.tmp' to '..\Save\Save0447\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Brooklyn Naval Shipyards :: 447 :: 447
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenHack8.PersonaButtonBarWindow105.PersonaActionButtonWindow112
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSpecialOptions8.MenuUIActionButtonBarWindow41.MenuUIActionButtonWindow104
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSpecialOptions8.MenuUIActionButtonBarWindow41.MenuUIActionButtonWindow104
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSecurity1.MenuUIClientWindow61.ComputerSecurityCameraWindow4.ComputerSecurityCameraViewButton4
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSecurity1.MenuUIClientWindow61.ComputerSecurityCameraWindow5.ComputerSecurityCameraViewButton5
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSecurity1.MenuUIActionButtonBarWindow42.MenuUIActionButtonWindow105
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity8.ComputerScreenSecurity1.MenuUIActionButtonBarWindow42.MenuUIActionButtonWindow105
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity9.ComputerScreenHack9.PersonaButtonBarWindow106.PersonaActionButtonWindow113
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity9.ComputerScreenSpecialOptions9.ComputerUIScaleClientWindow9.MenuUIChoiceButton47
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity9.ComputerScreenSpecialOptions9.MenuUIActionButtonBarWindow44.MenuUIActionButtonWindow109
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity9.ComputerScreenSpecialOptions9.MenuUIActionButtonBarWindow44.MenuUIActionButtonWindow109
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity10.ComputerScreenHack10
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity10.ComputerScreenHack10.PersonaButtonBarWindow107.PersonaActionButtonWindow114
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity10.ComputerScreenSpecialOptions10.ComputerUIScaleClientWindow10.MenuUIChoiceButton48
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity10.ComputerScreenSpecialOptions10.MenuUIActionButtonBarWindow46.MenuUIActionButtonWindow113
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.NetworkTerminalSecurity10.ComputerScreenSpecialOptions10.MenuUIActionButtonBarWindow46.MenuUIActionButtonWindow113
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuMain27.MenuUIClientWindow64.MenuUIMenuButtonWindow277
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenSaveGame5.MenuUIActionButtonBarWindow47.MenuUIActionButtonWindow116
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenSaveGame5.MenuUIActionButtonBarWindow47.MenuUIActionButtonWindow116
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=4.143114
+Log: Moving '..\Save\Save0448\Save.tmp' to '..\Save\Save0448\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Save=82.283066
+Log: Moving '..\Save\Save0448\Save.tmp' to '..\Save\Save0448\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Brooklyn Naval Shipyards :: 448 :: 448
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuMain28.MenuUIClientWindow66.MenuUIMenuButtonWindow288
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenLoadGame17.MenuUIActionButtonBarWindow48.MenuUIActionButtonWindow119
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow17.MenuScreenLoadGame17.MenuUIActionButtonBarWindow48.MenuUIActionButtonWindow119
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=448?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Dockyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Dockyard
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52749->43004; refs: 1038463
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Dockyard.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Dockyard.JCDentonMale3 started mission state machine for 09_NYC_DOCKYARD
+Log: Assigning Last Button Window to PersonaNavBarWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory18.PersonaNavBarWindow31
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory18.PersonaNavBarWindow31.PersonaButtonBarWindow108.PersonaNavButtonWindow285
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory18.PersonaNavBarWindow31.PersonaButtonBarWindow108.PersonaNavButtonWindow285
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenHealth3.PersonaNavBarWindow32.PersonaButtonBarWindow111.PersonaNavButtonWindow292
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenHealth3.PersonaNavBarWindow32.PersonaButtonBarWindow111.PersonaNavButtonWindow292
+Log: Assigning Last Button Window to PersonaSkillTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenSkills0.PersonaClientWindow33.TileWindow183.PersonaSkillButtonWindow8.PersonaSkillTextWindow25
+Log: Assigning Last Button Window to PersonaSkillTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenSkills0.PersonaClientWindow33.TileWindow183.PersonaSkillButtonWindow9.PersonaSkillTextWindow27
+Log: Assigning Last Button Window to PersonaSkillTextWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenSkills0.PersonaClientWindow33.TileWindow183.PersonaSkillButtonWindow7.PersonaSkillTextWindow21
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenSkills0.PersonaClientWindow33.PersonaButtonBarWindow116.PersonaActionButtonWindow122
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.PersonaScreenSkills0.PersonaClientWindow33.PersonaButtonBarWindow116.PersonaActionButtonWindow122
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Export travel for: Player
+Log: Browse: 09_NYC_ShipFan?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#ToAircondDuct
+Log: Doing load, not loadgame
+Log: Current mission number is 9, next is 9
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.DeusExHUD18.AugmentationDisplayWindow18 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Unloading: Package 09_NYC_Dockyard
+Log: Save=90.036019
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_Dockyard.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: LoadMap: 09_NYC_ShipFan?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#ToAircondDuct
+ScriptWarning: AugmentationDisplayWindow 09_NYC_Dockyard.JCDentonMale3.DeusExRootWindow18.DeusExHUD18.AugmentationDisplayWindow18 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package Mobile_Camp
+Log: Loading: Package HK_VersaLife
+Log: Loading: Package Catacombs
+Log: Loading: Package BobPage
+Log: Loading: Package NavalBase_Music
+Log: Loading: Package KZTextures
+Init: Shut down moving brush tracker for Level 09_NYC_Dockyard.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package MJ12_lab
+Log: Unloading: Package Constructor
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexPaper
+Log: Unloading: Package NavalBaseAlt_Music
+Log: Unloading: Package DeusExConAudioMission09
+DevMusic: Unregister music: Music NavalBaseAlt_Music.NavalBase_Music
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52956->40092; refs: 1309992
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 09_NYC_ShipFan.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
+ScriptLog: Base Mutator is 09_NYC_ShipFan.Mutator2
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptLog: MYCHK:: 8 :: 448
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Barrel102 fell out of the world!
+DevMusic: Load music: Music NavalBase_Music.NavalBase_Music
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save10  ,Last: -20  ,Current: 10
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_ShipFan
+Log: Unloading: Package saveInfo
+Log: Save=3.717489
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Save=65.183352
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow19.MenuMain30.MenuUIClientWindow69.MenuUIMenuButtonWindow308
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow19.MenuScreenLoadGame18.MenuUIActionButtonBarWindow49.MenuUIActionButtonWindow122
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow19.MenuScreenLoadGame18.MenuUIActionButtonBarWindow49.MenuUIActionButtonWindow122
+ScriptWarning: DataLinkPlay 09_NYC_ShipFan.DataLinkPlay10 (Function DeusEx.DataLinkPlay.ProcessAction:0023) Accessed None
+ScriptWarning: DataLinkPlay 09_NYC_ShipFan.DataLinkPlay10 (Function DeusEx.ConPlayBase.TerminateConversation:0033) Accessed None
+ScriptWarning: DataLinkPlay 09_NYC_ShipFan.DataLinkPlay10 (Function DeusEx.ConPlayBase.TerminateConversation:0040) Accessed None
+ScriptWarning: DataLinkPlay 09_NYC_ShipFan.DataLinkPlay10 (Function DeusEx.ConPlayBase.TerminateConversation:0048) Attempt to assigned variable through None
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-20?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 7 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 50326->40841; refs: 1331809
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow20.MenuMain31.MenuUIClientWindow71
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow20.MenuMain31.MenuUIClientWindow71.MenuUIMenuButtonWindow318
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow20.MenuScreenLoadGame19.MenuUIActionButtonBarWindow50.MenuUIActionButtonWindow125
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow20.MenuScreenLoadGame19.MenuUIActionButtonBarWindow50.MenuUIActionButtonWindow125
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-20?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_ShipFan
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 7 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 50402->40841; refs: 1331809
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow21.MenuMain32.MenuUIClientWindow73.MenuUIMenuButtonWindow328
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow21.MenuScreenLoadGame20.MenuUIActionButtonBarWindow51.MenuUIActionButtonWindow128
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow21.MenuScreenLoadGame20.MenuUIActionButtonBarWindow51.MenuUIActionButtonWindow128
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-20?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_ShipFan
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 7 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 50374->40841; refs: 1331809
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenGoals10.PersonaNavBarWindow35.PersonaButtonBarWindow120.PersonaNavButtonWindow321
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenGoals10.PersonaNavBarWindow35.PersonaButtonBarWindow120.PersonaNavButtonWindow321
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth4.PersonaNavBarWindow36.PersonaButtonBarWindow123.PersonaNavButtonWindow331
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth4.PersonaNavBarWindow36.PersonaButtonBarWindow123.PersonaNavButtonWindow331
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory19.PersonaClientWindow37.Window580.PersonaInventoryItemButton672
+ScriptWarning: WeaponEMPGrenade 09_NYC_ShipFan.WeaponEMPGrenade0 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory19.PersonaClientWindow37.Window580.PersonaInventoryItemButton672
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory19.PersonaClientWindow37.Window580.PersonaInventoryItemButton672
+ScriptWarning: WeaponEMPGrenade 09_NYC_ShipFan.WeaponEMPGrenade0 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory19.PersonaClientWindow37.Window580.PersonaInventoryItemButton672
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+ScriptWarning: SpiderBot2 09_NYC_ShipFan.SpiderBot0 (Function DeusEx.Robot.TakeDamageBase:081D) Accessed None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain33.MenuUIClientWindow75.MenuUIMenuButtonWindow337
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenSaveGame6.MenuUIActionButtonBarWindow52.MenuUIActionButtonWindow131
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenSaveGame6.MenuUIActionButtonBarWindow52.MenuUIActionButtonWindow131
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_ShipFan
+Log: Unloading: Package saveInfo
+Log: Save=4.067311
+Log: Moving '..\Save\Save0449\Save.tmp' to '..\Save\Save0449\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Save=64.768968
+Log: Moving '..\Save\Save0449\Save.tmp' to '..\Save\Save0449\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Naval Assembly Building AC System :: 449 :: 449
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain34.MenuUIClientWindow77
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain34.MenuUIClientWindow77.MenuUIMenuButtonWindow347
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain34.MenuUIClientWindow77.MenuUIMenuButtonWindow347
+Log: Assigning Last Button Window to ComputerScreenHack 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenHack11
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenHack11.PersonaButtonBarWindow131.PersonaActionButtonWindow135
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80.ComputerSecurityChoice_DoorAccess2.MenuUIChoiceButton53
+Log: Assigning Last Button Window to MenuUIChoiceButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80.ComputerSecurityChoice_DoorOpen2.MenuUIChoiceButton54
+Log: Assigning Last Button Window to StaticWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80.ComputerSecurityCameraWindow7.ComputerSecurityCameraViewButton7.StaticWindow20
+Log: Assigning Last Button Window to StaticWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80.ComputerSecurityCameraWindow8.ComputerSecurityCameraViewButton8.StaticWindow21
+Log: Assigning Last Button Window to StaticWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIClientWindow80.ComputerSecurityCameraWindow8.ComputerSecurityCameraViewButton8.StaticWindow21
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIActionButtonBarWindow55.MenuUIActionButtonWindow138
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.NetworkTerminalSecurity11.ComputerScreenSecurity2.MenuUIActionButtonBarWindow55.MenuUIActionButtonWindow138
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain35.MenuUIClientWindow81.MenuUIMenuButtonWindow357
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenSaveGame8.MenuUIActionButtonBarWindow56
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenSaveGame8.MenuUIActionButtonBarWindow56.MenuUIActionButtonWindow140
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenSaveGame8.MenuUIActionButtonBarWindow56.MenuUIActionButtonWindow140
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=4.259555
+Log: Moving '..\Save\Save0450\Save.tmp' to '..\Save\Save0450\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Save=64.839060
+Log: Moving '..\Save\Save0450\Save.tmp' to '..\Save\Save0450\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Naval Assembly Building AC System :: 450 :: 450
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory20.PersonaClientWindow38.Window602.PersonaInventoryItemButton711
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory20.PersonaClientWindow38.Window602.PersonaInventoryItemButton711
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory21.PersonaClientWindow39.Window607.PersonaInventoryItemButton752
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory21.PersonaClientWindow39.Window607.PersonaInventoryItemButton752
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory21.PersonaClientWindow39.Window607.PersonaInventoryItemButton745
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory21.PersonaClientWindow39.Window607.PersonaInventoryItemButton745
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory21.PersonaClientWindow39.Window607.PersonaInventoryItemButton745
+Log: Assigning Last Button Window to PersonaNavBarWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory22.PersonaNavBarWindow40
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory22.PersonaNavBarWindow40.PersonaButtonBarWindow138.PersonaNavButtonWindow364
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory22.PersonaNavBarWindow40.PersonaButtonBarWindow138.PersonaNavButtonWindow364
+Log: Assigning Last Button Window to PersonaButtonBarWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills1.PersonaNavBarWindow41.PersonaButtonBarWindow141
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills1.PersonaNavBarWindow41.PersonaButtonBarWindow141.PersonaNavButtonWindow375
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills1.PersonaNavBarWindow41.PersonaButtonBarWindow141.PersonaNavButtonWindow375
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth5.PersonaNavBarWindow42.PersonaButtonBarWindow144.PersonaNavButtonWindow385
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth5.PersonaNavBarWindow42.PersonaButtonBarWindow144.PersonaNavButtonWindow385
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory23.PersonaNavBarWindow43.PersonaButtonBarWindow147.PersonaNavButtonWindow393
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenInventory23.PersonaNavBarWindow43.PersonaButtonBarWindow147.PersonaNavButtonWindow393
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth6.PersonaNavBarWindow44.PersonaButtonBarWindow150.PersonaNavButtonWindow400
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenHealth6.PersonaNavBarWindow44.PersonaButtonBarWindow150.PersonaNavButtonWindow400
+Log: Assigning Last Button Window to PersonaSkillTextWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills2.PersonaClientWindow45.TileWindow229.PersonaSkillButtonWindow30.PersonaSkillTextWindow90
+Log: Assigning Last Button Window to PersonaSkillButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills2.PersonaClientWindow45.TileWindow229.PersonaSkillButtonWindow30
+Log: Tried to remove lastbuttonwindow descendant. PersonaSkillButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.PersonaScreenSkills2.PersonaClientWindow45.TileWindow229.PersonaSkillButtonWindow30
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain37.MenuUIClientWindow84.MenuUIMenuButtonWindow378
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenLoadGame21.MenuUIActionButtonBarWindow57.MenuUIActionButtonWindow142
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenLoadGame21.MenuUIActionButtonBarWindow57.MenuUIActionButtonWindow142
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuMain37.MenuUIClientWindow84.MenuUIMenuButtonWindow378
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenLoadGame22.MenuUIActionButtonBarWindow58.MenuUIActionButtonWindow146
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow22.MenuScreenLoadGame22.MenuUIActionButtonBarWindow58.MenuUIActionButtonWindow146
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=449?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 50281->40830; refs: 1331098
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.PersonaScreenInventory25.PersonaClientWindow48.Window678.PersonaInventoryItemButton880
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.PersonaScreenInventory25.PersonaClientWindow48.Window678.PersonaInventoryItemButton880
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.PersonaScreenInventory25.PersonaClientWindow48.Window678.PersonaInventoryItemButton880
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.MenuMain38.MenuUIClientWindow87.MenuUIMenuButtonWindow388
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.MenuScreenLoadGame23.MenuUIActionButtonBarWindow59.MenuUIActionButtonWindow149
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow23.MenuScreenLoadGame23.MenuUIActionButtonBarWindow59.MenuUIActionButtonWindow149
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=449?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_ShipFan
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 50260->40830; refs: 1331098
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+Log: Assigning Last Button Window to PersonaActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenHack12.PersonaButtonBarWindow171.PersonaActionButtonWindow178
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIClientWindow90.ComputerSecurityChoice_DoorAccess3.MenuUIInfoButtonWindow39
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIClientWindow90.ComputerSecurityChoice_DoorOpen3.MenuUIInfoButtonWindow40
+Log: Assigning Last Button Window to StaticWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIClientWindow90.ComputerSecurityCameraWindow10.ComputerSecurityCameraViewButton10.StaticWindow23
+Log: Assigning Last Button Window to StaticWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIClientWindow90.ComputerSecurityCameraWindow11.ComputerSecurityCameraViewButton11.StaticWindow24
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIActionButtonBarWindow61.MenuUIActionButtonWindow153
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.NetworkTerminalSecurity12.ComputerScreenSecurity3.MenuUIActionButtonBarWindow61.MenuUIActionButtonWindow153
+Log: Export travel for: Player
+Log: Browse: 09_NYC_Ship?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromFanRoom
+Log: Doing load, not loadgame
+Log: Current mission number is 9, next is 9
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.DeusExHUD24.AugmentationDisplayWindow24 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Unloading: Package 09_NYC_ShipFan
+Log: Save=73.316856
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: LoadMap: 09_NYC_Ship?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromFanRoom
+ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow24.DeusExHUD24.AugmentationDisplayWindow24 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Ship
+Log: Loading: Package Constructor
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package MolePeople
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package Paris
+Log: Loading: Package SubBase
+Log: Loading: Package G_Station
+Log: Loading: Package Tester
+Log: Loading: Package Models
+Log: Loading: Package OceanLab
+Log: Loading: Package CoreTexEarth
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package HK_Helibase
+Log: Unloading: Package Airfield
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package HK_VersaLife
+Log: Unloading: Package Catacombs
+Log: Unloading: Package BobPage
+Log: Unloading: Package KZTextures
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52672->41987; refs: 1081175
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 09_NYC_Ship.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
+ScriptLog: Base Mutator is 09_NYC_Ship.Mutator3
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptLog: MYCHK:: 9 :: 450
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save1  ,Last: -11  ,Current: 1
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Ship
+Log: Unloading: Package saveInfo
+Log: Save=4.049838
+Log: Moving '..\Save\Save-011\Save.tmp' to '..\Save\Save-011\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Save=81.030014
+Log: Moving '..\Save\Save-011\Save.tmp' to '..\Save\Save-011\09_NYC_Ship.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Export travel for: Player
+Log: Browse: 09_NYC_ShipFan?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#ToDuctRoom
+Log: Doing load, not loadgame
+Log: Current mission number is 9, next is 9
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow25.DeusExHUD25.AugmentationDisplayWindow25 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Save=88.879090
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_Ship.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: LoadMap: ..\Save\Current\09_NYC_ShipFan.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#ToDuctRoom
+ScriptWarning: AugmentationDisplayWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow25.DeusExHUD25.AugmentationDisplayWindow25 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_ShipFan
+Log: Loading: Package Airfield
+Log: Loading: Package HK_Helibase
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package HK_VersaLife
+Log: Loading: Package BatteryPark
+Log: Loading: Package BobPage
+Log: Loading: Package Catacombs
+Log: Loading: Package KZTextures
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package OceanLab
+Log: Unloading: Package Models
+Log: Unloading: Package Tester
+Log: Unloading: Package G_Station
+Log: Unloading: Package SubBase
+Log: Unloading: Package Paris
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexPaper
+Log: Unloading: Package Constructor
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53418->40562; refs: 1328155
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptWarning: WeaponRifle 09_NYC_ShipFan.WeaponRifle0 (Function DeusEx.WeaponRifle.DownWeapon.EndState:0076) Accessed None
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipFan.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_ShipFan.JCDentonMale1 started mission state machine for 09_NYC_SHIPFAN
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save2  ,Last: -12  ,Current: 2
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_ShipFan
+Log: Unloading: Package saveInfo
+Log: Save=4.230830
+Log: Moving '..\Save\Save-012\Save.tmp' to '..\Save\Save-012\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Save=66.122209
+Log: Moving '..\Save\Save-012\Save.tmp' to '..\Save\Save-012\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Export travel for: Player
+Log: Browse: 09_NYC_Ship?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromDuctRoom
+Log: Doing load, not loadgame
+Log: Current mission number is 9, next is 9
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow26.DeusExHUD26.AugmentationDisplayWindow26 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: Save=75.166016
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_ShipFan.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromDuctRoom
+ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipFan.JCDentonMale1.DeusExRootWindow26.DeusExHUD26.AugmentationDisplayWindow26 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Ship
+Log: Loading: Package Constructor
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package MolePeople
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package Paris
+Log: Loading: Package SubBase
+Log: Loading: Package G_Station
+Log: Loading: Package Tester
+Log: Loading: Package OceanLab
+Log: Loading: Package CoreTexEarth
+Init: Shut down moving brush tracker for Level 09_NYC_ShipFan.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package area51textures
+Log: Unloading: Package KZTextures
+Log: Unloading: Package Catacombs
+Log: Unloading: Package BobPage
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package HK_VersaLife
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package HK_Helibase
+Log: Unloading: Package Airfield
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 53409->42539; refs: 1101352
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save3  ,Last: -13  ,Current: 3
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Ship
+Log: Unloading: Package saveInfo
+Log: Save=4.197938
+Log: Moving '..\Save\Save-013\Save.tmp' to '..\Save\Save-013\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Save=88.473943
+Log: Moving '..\Save\Save-013\Save.tmp' to '..\Save\Save-013\09_NYC_Ship.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow27.MenuMain39.MenuUIClientWindow91.MenuUIMenuButtonWindow398
+Log: Assigning Last Button Window to MenuUIClientWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow27.MenuScreenLoadGame24.MenuUIClientWindow92
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow27.MenuScreenLoadGame24.MenuUIActionButtonBarWindow62.MenuUIActionButtonWindow155
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow27.MenuScreenLoadGame24.MenuUIActionButtonBarWindow62.MenuUIActionButtonWindow155
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-11?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Ship
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52913->42766; refs: 1103898
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.PersonaScreenInventory28.PersonaClientWindow51.Window755.PersonaInventoryItemButton982
+Log: Assigning Last Button Window to PersonaInventoryItemButton 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.PersonaScreenInventory28.PersonaClientWindow51.Window755.PersonaInventoryItemButton982
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.PersonaScreenInventory28.PersonaClientWindow51.Window755.PersonaInventoryItemButton982
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuMain40.MenuUIClientWindow93.MenuUIMenuButtonWindow407
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuScreenSaveGame9.MenuUIActionButtonBarWindow63
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuScreenSaveGame9.MenuUIActionButtonBarWindow63.MenuUIActionButtonWindow158
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuScreenSaveGame9.MenuUIActionButtonBarWindow63.MenuUIActionButtonWindow158
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Ship
+Log: Unloading: Package saveInfo
+Log: Save=4.442531
+Log: Moving '..\Save\Save0451\Save.tmp' to '..\Save\Save0451\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Save=84.761086
+Log: Moving '..\Save\Save0451\Save.tmp' to '..\Save\Save0451\09_NYC_Ship.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Naval Assembly Building and Ship :: 451 :: 451
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuMain41.MenuUIClientWindow95.MenuUIMenuButtonWindow418
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuScreenLoadGame25.MenuUIActionButtonBarWindow64.MenuUIActionButtonWindow161
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow28.MenuScreenLoadGame25.MenuUIActionButtonBarWindow64.MenuUIActionButtonWindow161
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=451?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Ship
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52363->42809; refs: 1104267
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow29.MenuMain42.MenuUIClientWindow97.MenuUIMenuButtonWindow428
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow29.MenuScreenLoadGame26.MenuUIActionButtonBarWindow65.MenuUIActionButtonWindow164
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow29.MenuScreenLoadGame26.MenuUIActionButtonBarWindow65.MenuUIActionButtonWindow164
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=451?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Ship
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Ship
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52359->42809; refs: 1104267
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuMain43.MenuUIClientWindow99.MenuUIMenuButtonWindow437
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuScreenSaveGame10.MenuUIActionButtonBarWindow66.MenuUIActionButtonWindow167
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuScreenSaveGame10.MenuUIActionButtonBarWindow66.MenuUIActionButtonWindow167
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 09_NYC_Ship
+Log: Unloading: Package saveInfo
+Log: Save=4.510550
+Log: Moving '..\Save\Save0452\Save.tmp' to '..\Save\Save0452\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Save=81.762911
+Log: Moving '..\Save\Save0452\Save.tmp' to '..\Save\Save0452\09_NYC_Ship.dxs'
+Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: NYC - Naval Assembly Building and Ship :: 452 :: 452
+Log: Assigning Last Button Window to PersonaNavButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.PersonaScreenInventory29.PersonaNavBarWindow53.PersonaButtonBarWindow178.PersonaNavButtonWindow480
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.PersonaScreenInventory29.PersonaNavBarWindow53.PersonaButtonBarWindow178.PersonaNavButtonWindow480
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Ship.WeaponPistol9
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  09_NYC_Ship.WeaponPistol2
+ScriptLog: 2nd WEAP is DUP?:- 09_NYC_Ship.WeaponPistol2  Weapon(item).AmmoType= 09_NYC_Ship.Ammo10mm10  Weapon(item).AmmoType.AmmoAmount= 60
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 09_NYC_Ship.Ammo10mm3
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Ship.Ammo10mm10
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=09_NYC_Ship.WeaponCombatKnife20
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  09_NYC_Ship.WeaponCombatKnife6
+ScriptWarning: SailorCarcass 09_NYC_Ship.SailorCarcass0 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 09_NYC_Ship.WeaponCombatKnife6  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: DONE ITERATE
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuMain44.MenuUIClientWindow101.MenuUIMenuButtonWindow455
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow67.MenuUIActionButtonWindow170
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow30.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow67.MenuUIActionButtonWindow170
+Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
 Log: Unbound to Window.dll
 Log: Unbound to Core.dll
 Log: Unbound to Extension.dll
 Log: Unbound to Engine.dll
-Log: Garbage: objects: 230->0; refs: 0
+Log: Unbound to DeusEx.dll
+Log: Unbound to ConSys.dll
+Log: Unloading: Package DeusEx
+Log: Unloading: Package Core
+Log: Unloading: Package Engine
+Log: Unloading: Package Extension
+Log: Unloading: Package DeusExCharacters
+Log: Unloading: Package DeusExUI
+Log: Unloading: Package DeusExItems
+Log: Unloading: Package Effects
+Log: Unbound to Fire.dll
+Log: Unloading: Package Fire
+Log: Unloading: Package ConSys
+Log: Unloading: Package DeusExSounds
+Log: Unloading: Package GMDXSFX
+Log: Unloading: Package HDTPItems
+Log: Unloading: Package DeusExDeco
+Log: Unloading: Package HDTPanim
+Log: Unloading: Package HDTPDecos
+Log: Unloading: Package HDTPCharacters
+Log: Unloading: Package UBrowser
+Log: Unloading: Package UWindow
+Log: Unbound to IpDrv.dll
+Log: Unloading: Package IpDrv
+Log: Unbound to DeusExText.dll
+Log: Unloading: Package DeusExText
+Log: Unloading: Package GameMedia
+Log: Unloading: Package GameEffects
+Log: Unloading: Package CoreTexWater
+Log: Unloading: Package CoreTexTextile
+Log: Unloading: Package CoreTexDetail
+Log: Unloading: Package Ambient
+Log: Unloading: Package MoverSFX
+Log: Unloading: Package GMDXUI
+Log: Unloading: Package FOMOD
+Log: Unloading: Package IpServer
+Log: Unloading: Package MPCharacters
+Log: Unloading: Package ShifterEX
+Log: Unloading: Package CoreTexWood
+Log: Unloading: Package Extras
+Log: Unloading: Package CoreTexMetal
+Log: Unloading: Package NYCBar
+Log: Unloading: Package CoreTexConcrete
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: DirectDraw RestoreDisplayMode: DDERR_NOEXCLUSIVEMODE
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Rendering shut down
+Log: Unloading: Package Entry
+Log: Unloading: Package Title_Music
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Unbound to D3D11Drv.dll
+Log: Unbound to Galaxy.dll
+DevAudio: Galaxy SetViewport: NULL
+DevMusic: Unregister music: Music NavalBase_Music.NavalBase_Music
+Exit: Galaxy shut down
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexGlass
+Log: Unloading: Package Supertanker
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package Rocket
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package CoreTexStone
+Log: Unloading: Package UNATCO
+Log: Unloading: Package Dockyard
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package Mobile_Camp
+Log: Unloading: Package NavalBase_Music
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package OceanLab
+Log: Unloading: Package Tester
+Log: Unloading: Package G_Station
+Log: Unloading: Package SubBase
+Log: Unloading: Package Paris
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexPaper
+Log: Unloading: Package Constructor
+Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 52358->0; refs: 1104267
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  0.005M /  0.121M
-Uninitialized: Peak Memory  0.228M /  2.309M
-Uninitialized: Allocs           2 Current /   2071 Total
-Uninitialized: Log file closed, 09/03/23 02:47:54
+Uninitialized: Curr Memory  101.387M /  2.684M
+Uninitialized: Peak Memory  850.825M /  774.531M
+Uninitialized: Allocs         173 Current /  82760788 Total
+Uninitialized: Log file closed, 09/08/23 02:10:23
