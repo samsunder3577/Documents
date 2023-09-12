@@ -1,4 +1,4 @@
-Log: Log file open, 09/11/23 22:45:04
+Log: Log file open, 09/13/23 00:28:51
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,7 +16,7 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4691.073218 MHz
+Init: CPU Speed=4691.199361 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
@@ -117,132 +117,26 @@ Init: Game engine initialized
 Log: Installing hook 'Free save space fix'.
 Log: Installing hook 'Widescreen subtitle fix'.
 DevMusic: Load music: Music Title_Music.Title_Music
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow5
-Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow5
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain1.MenuUIClientWindow1.MenuUIMenuButtonWindow15
-Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain1.MenuUIClientWindow1.MenuUIMenuButtonWindow15
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain2.MenuUIClientWindow2.MenuUIMenuButtonWindow25
-Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain2.MenuUIClientWindow2.MenuUIMenuButtonWindow25
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain3.MenuUIClientWindow3.MenuUIMenuButtonWindow35
-Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain3.MenuUIClientWindow3.MenuUIMenuButtonWindow35
-Log: Export travel for: Player
-Log: Browse: 00_Intro?Name=Player?Class=DeusEx.JCDentonMale
-Log: Doing load, not loadgame
-Log: Current mission number is -2, next is 0
-Log: Attempting to get player
-Log: Unloading: Package dx
-Log: LoadMap: 00_Intro?Name=Player?Class=DeusEx.JCDentonMale
-DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 00_Intro
-Log: Loading: Package Catacombs
-Log: Loading: Package UNATCO
-Log: Loading: Package Paris
-Log: Loading: Package NewYorkCity
-Log: Loading: Package Airfield
-Log: Loading: Package area51textures
-Log: Loading: Package CoreTexMisc
-Log: Loading: Package CoreTexGlass
-Log: Loading: Package CoreTexStone
-Log: Loading: Package FreeClinic
-Log: Loading: Package HK_MJ12Lab
-Log: Loading: Package CoreTexEarth
-Log: Loading: Package MJ12_lab
-Log: Loading: Package Rocket
-Log: Loading: Package HK_BuildingExt
-Log: Loading: Package CoreTexCeramic
-Log: Loading: Package CoreTexSky
-Log: Loading: Package CoreTexTiles
-Log: Loading: Package G_Station
-Log: Loading: Package BatteryPark
-Log: Loading: Package CoreTexWallObj
-Log: Loading: Package Intro_Music
-Init: Shut down moving brush tracker for Level dx.MyLevel
-Log: Collecting garbage
-Log: Purging garbage
-Log: Garbage: objects: 40774->40597; refs: 586232
-Log: Game class is 'DeusExGameInfo'
-Log: Bringing Level 00_Intro.MyLevel up for play (0)...
-ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
-ScriptLog: Base Mutator is 00_Intro.Mutator2
-Log: Loading: Package HDTPBookClosed
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.MissionIntro'
-Log: Loading: Package DeusExConText
-Log: Spawning new actor for Viewport WindowsViewport0
-ScriptLog: Login: Player
-ScriptLog: MYCHK:: 5 :: -16
-ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
-Log: Possessed PlayerPawn: JCDentonMale 00_Intro.JCDentonMale1
-ScriptLog: All inventory from Player is accepted
-ScriptLog: bHardCoreMode = False
-ScriptLog: CombatDifficulty = 1.000000
-Init: Initialized moving brush tracker for Level 00_Intro.MyLevel
-DevAudio: Galaxy SetViewport: WindowsViewport0
-DevMusic: Unregister music: Music Title_Music.Title_Music
-DevMusic: Load music: Music Intro_Music.Intro_Music
-ScriptLog: **** InitStateMachine() - 00_Intro.JCDentonMale1 started mission state machine for INTRO
-Log: Loading: Package DeusExe
-Log: Loading: Package DeusExConAudioIntro
-Log: Export travel for: Player
-Log: Browse: dxonly?Name=Player?Class=DeusEx.JCDentonMale
-Log: Doing load, not loadgame
-Log: Current mission number is 98, next is -1
-Log: Unloading: Package 00_Intro
-Log: LoadMap: dxonly?Name=Player?Class=DeusEx.JCDentonMale
-DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package dxonly
-Init: Shut down moving brush tracker for Level 00_Intro.MyLevel
-Log: Collecting garbage
-Log: Purging garbage
-Log: Unloading: Package DeusExConText
-Log: Unloading: Package HDTPBookClosed
-Log: Unloading: Package Catacombs
-Log: Unloading: Package UNATCO
-Log: Unloading: Package Paris
-Log: Unloading: Package NewYorkCity
-Log: Unloading: Package Airfield
-Log: Unloading: Package area51textures
-Log: Unloading: Package CoreTexMisc
-Log: Unloading: Package CoreTexGlass
-Log: Unloading: Package CoreTexStone
-Log: Unloading: Package FreeClinic
-Log: Unloading: Package HK_MJ12Lab
-Log: Unloading: Package CoreTexEarth
-Log: Unloading: Package MJ12_lab
-Log: Unloading: Package Rocket
-Log: Unloading: Package HK_BuildingExt
-Log: Unloading: Package CoreTexCeramic
-Log: Unloading: Package CoreTexSky
-Log: Unloading: Package CoreTexTiles
-Log: Unloading: Package G_Station
-Log: Unloading: Package BatteryPark
-Log: Unloading: Package CoreTexWallObj
-Log: Unloading: Package Intro_Music
-DevMusic: Unregister music: Music Intro_Music.Intro_Music
-Log: Unloading: Package DeusExe
-Log: Unloading: Package DeusExConAudioIntro
-Log: Garbage: objects: 41144->37660; refs: 431415
-Log: Game class is 'DeusExGameInfo'
-Log: Bringing Level dxonly.MyLevel up for play (0)...
-ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
-ScriptLog: Base Mutator is dxonly.Mutator3
-Log: Spawning new actor for Viewport WindowsViewport0
-ScriptLog: Login: Player
-ScriptLog: MYCHK:: 5 :: -16
-ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
-Log: Possessed PlayerPawn: JCDentonMale dxonly.JCDentonMale2
-ScriptLog: All inventory from Player is accepted
-Init: Initialized moving brush tracker for Level dxonly.MyLevel
-DevAudio: Galaxy SetViewport: WindowsViewport0
-DevMusic: Load music: Music Title_Music.Title_Music
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow dxonly.JCDentonMale2.DeusExRootWindow2.MenuMain5.MenuUIClientWindow5.MenuUIMenuButtonWindow52
-Log: Assigning Last Button Window to MenuUIListWindow dxonly.JCDentonMale2.DeusExRootWindow2.MenuScreenLoadGame0.MenuUIClientWindow6.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
-Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow dxonly.JCDentonMale2.DeusExRootWindow2.MenuScreenLoadGame0.MenuUIClientWindow6.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIClientWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0
+Log: Assigning Last Button Window to MenuUIClientWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
+Log: Assigning Last Button Window to MenuScreenLoadGame dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIClientWindow1.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIClientWindow1.MenuUIScrollAreaWindow0.ClipWindow0.MenuUIListWindow0
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
 Log: Browse: Index.dx?loadgame=-16?Name=Player?Class=DeusEx.JCDentonMale
 Log: Doing loadgame, not load
 Log: Loading: Package saveInfo
-Log: Unloading: Package dxonly
+Log: Unloading: Package dx
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
 Log: LoadMap: ..\Save\Current\09_NYC_Graveyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
@@ -263,13 +157,66 @@ Log: Loading: Package Dockyard
 Log: Loading: Package area51textures
 Log: Loading: Package Supertanker
 Log: Loading: Package KZTextures
-Init: Shut down moving brush tracker for Level dxonly.MyLevel
+Init: Shut down moving brush tracker for Level dx.MyLevel
 Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
 Warning: Skipping 6 bytes of type 10
 Log: Collecting garbage
 Log: Purging garbage
 Log: Unloading: Package saveInfo
-Log: Garbage: objects: 41602->40455; refs: 594409
+Log: Garbage: objects: 41533->40450; refs: 594374
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Graveyard.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 09_NYC_Graveyard.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Unregister music: Music Title_Music.Title_Music
+ScriptLog: **** InitStateMachine() - 09_NYC_Graveyard.JCDentonMale1 started mission state machine for 09_NYC_GRAVEYARD
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioMission09
+Log: Assigning Last Button Window to Window 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.ConWindowActive0.Window28
+Log: Tried to remove lastbuttonwindow descendant. Window 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.ConWindowActive0.Window28
+Log: Assigning Last Button Window to MenuMain 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain1
+Log: Assigning Last Button Window to MenuMain 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain1
+Log: Assigning Last Button Window to MenuMain 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain1
+Log: Assigning Last Button Window to MenuMain 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain1
+Log: Tried to remove lastbuttonwindow descendant. MenuMain 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain1
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuMain2.MenuUIClientWindow3.MenuUIMenuButtonWindow22
+Log: Assigning Last Button Window to MenuUIListWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIClientWindow4.MenuUIScrollAreaWindow1.ClipWindow1.MenuUIListWindow1
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIClientWindow4.MenuUIScrollAreaWindow1.ClipWindow1.MenuUIListWindow1
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-16?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 09_NYC_Graveyard
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\09_NYC_Graveyard.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 09_NYC_Graveyard
+Init: Shut down moving brush tracker for Level 09_NYC_Graveyard.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioMission09
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 50002->40455; refs: 594409
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
@@ -281,12 +228,13 @@ ScriptLog: CombatDifficulty = 1.500000
 Init: Initialized moving brush tracker for Level 09_NYC_Graveyard.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
 ScriptLog: **** InitStateMachine() - 09_NYC_Graveyard.JCDentonMale1 started mission state machine for 09_NYC_GRAVEYARD
-DevMusic: Unregister music: Music Title_Music.Title_Music
 Log: Loading: Package DeusExe
 Log: Loading: Package DeusExConAudioMission09
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow3.MenuMain6.MenuUIClientWindow7.MenuUIMenuButtonWindow69
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Assigning Last Button Window to Window 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow2.ConWindowActive0.Window49
+Log: Tried to remove lastbuttonwindow descendant. Window 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow2.ConWindowActive0.Window49
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow2.MenuMain3.MenuUIClientWindow5.MenuUIMenuButtonWindow39
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow2.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Graveyard.JCDentonMale1.DeusExRootWindow2.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
 Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
@@ -352,36 +300,36 @@ Log: Unloading: Package Title_Music
 Log: Direct3D 11 renderer exiting.
 Log: Uninit.
 Log: Bye.
+Init: Shut down moving brush tracker for Level 09_NYC_Graveyard.MyLevel
 Log: Unbound to D3D11Drv.dll
 Log: Unbound to Galaxy.dll
 DevAudio: Galaxy SetViewport: NULL
 Exit: Galaxy shut down
 Log: Unloading: Package CoreTexEarth
-Log: Unloading: Package UNATCO
-Log: Unloading: Package Dockyard
-Log: Unloading: Package CoreTexPaper
-Log: Unloading: Package MolePeople
-Log: Unloading: Package Supertanker
-Log: Unloading: Package CoreTexStone
-Log: Unloading: Package NewYorkCity
-Log: Unloading: Package Mobile_Camp
-Log: Unloading: Package CoreTexSky
-Log: Unloading: Package OceanLab
 Log: Unloading: Package KZTextures
-Log: Unloading: Package area51textures
+Log: Unloading: Package Dockyard
+Log: Unloading: Package Mobile_Camp
+Log: Unloading: Package OceanLab
 Log: Unloading: Package BatteryPark
-Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package NewYorkCity
 Log: Unloading: Package 09_NYC_Graveyard
-Init: Shut down moving brush tracker for Level 09_NYC_Graveyard.MyLevel
-Log: Unloading: Package DeusExConText
-Log: Unloading: Package DeusExe
+Log: Unloading: Package area51textures
+Log: Unloading: Package UNATCO
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package Supertanker
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexPaper
+Log: Unloading: Package CoreTexStone
 Log: Unloading: Package DeusExConAudioMission09
-Log: Garbage: objects: 49047->0; refs: 594409
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 49021->0; refs: 594409
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  2.158M /  2.184M
-Uninitialized: Peak Memory  414.393M /  416.199M
-Uninitialized: Allocs         160 Current /  1982194 Total
-Uninitialized: Log file closed, 09/11/23 22:46:35
+Uninitialized: Curr Memory  1.501M /  2.184M
+Uninitialized: Peak Memory  336.560M /  338.484M
+Uninitialized: Allocs         160 Current /  2647231 Total
+Uninitialized: Log file closed, 09/13/23 00:31:37
