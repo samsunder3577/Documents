@@ -1,4 +1,4 @@
-Log: Log file open, 09/14/23 01:16:06
+Log: Log file open, 09/16/23 08:45:58
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,7 +16,7 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4691.075914 MHz
+Init: CPU Speed=4691.090358 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
@@ -100,7 +100,7 @@ ScriptLog: Base Mutator is dx.Mutator1
 Init: Initialized moving brush tracker for Level dx.MyLevel
 ScriptLog: Login: Player
 Init: *** DEUS EX VERSION Mon Mar 19 12:06:14 2001 v1.112fm ***
-ScriptLog: MYCHK:: 5 :: -16
+ScriptLog: MYCHK:: 2 :: 462
 ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
 Log: Possessed PlayerPawn: JCDentonMale dx.JCDentonMale0
 ScriptLog: All inventory from Player is accepted
@@ -122,170 +122,1230 @@ Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.D
 Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=-13?Name=Player?Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=462?Name=Player?Class=DeusEx.JCDentonMale
 Log: Doing loadgame, not load
 Log: Loading: Package saveInfo
 Log: Unloading: Package dx
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 09_NYC_Ship
-Log: Loading: Package NewYorkCity
-Log: Loading: Package Supertanker
-Log: Loading: Package CoreTexMisc
-Log: Loading: Package Dockyard
-Log: Loading: Package CoreTexGlass
-Log: Loading: Package Constructor
-Log: Loading: Package CoreTexPaper
-Log: Loading: Package Mobile_Camp
-Log: Loading: Package UNATCO
-Log: Loading: Package CoreTexWallObj
-Log: Loading: Package CoreTexSky
-Log: Loading: Package CoreTexStone
-Log: Loading: Package MolePeople
-Log: Loading: Package Rocket
-Log: Loading: Package CoreTexCeramic
-Log: Loading: Package CoreTexTiles
-Log: Loading: Package V_Com_Center
+Log: Loading: Package 10_Paris_Catacombs
 Log: Loading: Package Paris
-Log: Loading: Package SubBase
-Log: Loading: Package G_Station
-Log: Loading: Package Tester
-Log: Loading: Package HDTPPapers
-Log: Loading: Package NavalBase_Music
+Log: Loading: Package Catacombs
+Log: Loading: Package Mobile_Camp
+Log: Loading: Package CoreTexMisc
+Log: Loading: Package area51textures
+Log: Loading: Package FreeClinic
+Log: Loading: Package Constructor
+Log: Loading: Package NewYorkCity
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package BatteryPark
+Log: Loading: Package CoreTexGlass
 Log: Loading: Package CoreTexEarth
-Log: Loading: Package OceanLab
+Log: Loading: Package Supertanker
+Log: Loading: Package MolePeople
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package CoreTexTiles
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package HK_Interior
+Log: Loading: Package UNATCO
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package CoreTexSky
 Init: Shut down moving brush tracker for Level dx.MyLevel
 Log: Collecting garbage
 Log: Purging garbage
 Log: Unloading: Package saveInfo
-Log: Garbage: objects: 43804->42721; refs: 1098695
+Log: Garbage: objects: 43309->42226; refs: 750194
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
-Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs.JCDentonMale2
 ScriptLog: All inventory from Player is accepted
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
 DevMusic: Unregister music: Music Title_Music.Title_Music
-DevMusic: Load music: Music NavalBase_Music.NavalBase_Music
-ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
-Log: Export travel for: Player
-Log: Browse: 09_NYC_ShipBelow?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromAbove
-Log: Doing load, not loadgame
-Log: Current mission number is 9, next is 9
-Log: Attempting to get player
-ScriptWarning: AugmentationDisplayWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow1.DeusExHUD1.AugmentationDisplayWindow1 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
-Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
-Log: Unloading: Package 09_NYC_Ship
-Log: Save=89.726600
-Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_Ship.dxs'
-Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
-Log: LoadMap: ..\Save\Current\09_NYC_ShipBelow.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromAbove
-ScriptWarning: AugmentationDisplayWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow1.DeusExHUD1.AugmentationDisplayWindow1 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs.JCDentonMale2 started mission state machine for 10_PARIS_CATACOMBS
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0
+Log: Assigning Last Button Window to ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0.TileWindow14.ConChoiceWindow3
+Log: Tried to remove lastbuttonwindow descendant. ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0.TileWindow14.ConChoiceWindow3
+Log: Assigning Last Button Window to TileWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0.TileWindow14
+Log: Tried to remove lastbuttonwindow descendant. TileWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.ConWindowActive0.TileWindow14
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.MenuMain1.MenuUIClientWindow2.MenuUIMenuButtonWindow12
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=462?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 09_NYC_ShipBelow
-Log: Loading: Package area51textures
-Log: Loading: Package HK_Signs
-Log: Loading: Package Moon
-Log: Loading: Package BatteryPark
-Log: Loading: Package HK_Interior
-Log: Loading: Package HDTPBookOpen
-Log: Loading: Package Airfield
-Log: Loading: Package HK_Helibase
-Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Loading: Package 10_Paris_Catacombs
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs.MyLevel
 Log: Collecting garbage
 Log: Purging garbage
-Log: Unloading: Package HDTPPapers
-Log: Unloading: Package CoreTexEarth
-Log: Unloading: Package CoreTexCeramic
-Log: Unloading: Package CoreTexStone
-Log: Unloading: Package MolePeople
-Log: Unloading: Package Constructor
-Log: Unloading: Package Tester
-Log: Unloading: Package CoreTexSky
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 53749->42356; refs: 1188661
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Garbage: objects: 55247->42231; refs: 750229
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
-ScriptWarning: WeaponRifle 09_NYC_ShipBelow.WeaponRifle0 (Function DeusEx.WeaponRifle.DownWeapon.EndState:0076) Accessed None
-Log: Possessed PlayerPawn: JCDentonMale 09_NYC_ShipBelow.JCDentonMale1
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs.JCDentonMale2
 ScriptLog: All inventory from Player is accepted
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
-ScriptLog: **** InitStateMachine() - 09_NYC_ShipBelow.JCDentonMale1 started mission state machine for 09_NYC_SHIPBELOW
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs.JCDentonMale2 started mission state machine for 10_PARIS_CATACOMBS
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.Window55
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.Window55
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.Window55
+Log: Assigning Last Button Window to ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.TileWindow22.ConChoiceWindow7
+Log: Tried to remove lastbuttonwindow descendant. ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.TileWindow22.ConChoiceWindow7
+Log: Assigning Last Button Window to TileWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.TileWindow22
+Log: Assigning Last Button Window to TextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.TileWindow22.ConWindowSpeech15.TextWindow54
+Log: Tried to remove lastbuttonwindow descendant. TextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive0.TileWindow22.ConWindowSpeech15.TextWindow54
+Log: Assigning Last Button Window to PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow0.ComputerScreenHack0.PersonaButtonBarWindow3.PersonaActionButtonWindow2
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow0.ComputerScreenATMWithdraw0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow9
+ScriptWarning: ATM 10_Paris_Catacombs.ATM2 (Function DeusEx.ATM.ModBalance:00CB) Accessed array out of bounds (-1/8)
+ScriptWarning: ATM 10_Paris_Catacombs.ATM2 (Function DeusEx.ATM.ModBalance:00F6) Accessed array out of bounds (-1/8)
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow0.ComputerScreenATMWithdraw0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow0.ComputerScreenATMWithdraw0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
+Log: Assigning Last Button Window to PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow1.ComputerScreenHack1.PersonaButtonBarWindow4.PersonaActionButtonWindow3
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ATMWindow1.ComputerScreenHack1.PersonaButtonBarWindow4.PersonaActionButtonWindow3
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: WeaponPistol 10_Paris_Catacombs.WeaponPistol3 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: Assigning Last Button Window to PersonaClientWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.HUDMedBotHealthScreen0.PersonaClientWindow1
+Log: Assigning Last Button Window to PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.HUDMedBotHealthScreen0.PersonaClientWindow1.PersonaButtonBarWindow7.PersonaActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.HUDMedBotHealthScreen0.PersonaClientWindow1.PersonaButtonBarWindow7.PersonaActionButtonWindow4
+Log: Assigning Last Button Window to PersonaActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenHack2.PersonaButtonBarWindow8.PersonaActionButtonWindow5
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityChoice_Camera0.MenuUIInfoButtonWindow10
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityChoice_Turret0.MenuUIInfoButtonWindow13
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityChoice_Camera0.MenuUIInfoButtonWindow10
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityChoice_Turret0.MenuUIInfoButtonWindow13
+Log: Assigning Last Button Window to StaticWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow2.ComputerSecurityCameraViewButton2.StaticWindow6
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow0.ComputerSecurityCameraViewButton0
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow0.ComputerSecurityCameraViewButton0
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow0.ComputerSecurityCameraViewButton0
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow9.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow18
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow18
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic0.ComputerScreenBulletins0.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow19
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic0.ComputerScreenBulletins0.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow19
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow4.ClipWindow17.MenuUIListWindow3
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow5.ClipWindow18.MenuUINormalLargeTextWindow1
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow5.ClipWindow18.MenuUINormalLargeTextWindow1
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow5.ClipWindow18.MenuUINormalLargeTextWindow1
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow5.ClipWindow18.MenuUINormalLargeTextWindow1
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIClientWindow11.MenuUIScrollAreaWindow5.ClipWindow18.MenuUINormalLargeTextWindow1
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow20
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic1.ComputerScreenBulletins1.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow20
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIClientWindow12.MenuUIScrollAreaWindow6.ClipWindow19.MenuUIListWindow4
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIClientWindow12.MenuUIScrollAreaWindow6.ClipWindow19.MenuUIListWindow4
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIClientWindow12.MenuUIScrollAreaWindow7.ClipWindow20.MenuUINormalLargeTextWindow2
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIClientWindow12.MenuUIScrollAreaWindow7.ClipWindow20.MenuUINormalLargeTextWindow2
+Log: Assigning Last Button Window to MenuUINormalLargeTextWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIClientWindow12.MenuUIScrollAreaWindow7.ClipWindow20.MenuUINormalLargeTextWindow2
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIActionButtonBarWindow10
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow21
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.NetworkTerminalPublic2.ComputerScreenBulletins2.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow21
+Log: Assigning Last Button Window to ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.TileWindow25.ConChoiceWindow11
+Log: Tried to remove lastbuttonwindow descendant. ConChoiceWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.TileWindow25.ConChoiceWindow11
+Log: Assigning Last Button Window to TileWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.TileWindow25
+Log: Tried to remove lastbuttonwindow descendant. TileWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.TileWindow25
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.NanoKey0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.Ammo762mm9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.AmmoRocketMini2
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.Ammo762mm11
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.AmmoRocketMini3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.Ammo762mm8
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs.AmmoRocketMini1
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Export travel for: Player
+Log: Browse: 10_Paris_Catacombs_Tunnels?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#spiralstair
+Log: Doing load, not loadgame
+Log: Current mission number is 10, next is 10
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs.MyLevel
+Log: Unloading: Package 10_Paris_Catacombs
+Log: Save=66.231436
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Catacombs.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs.MyLevel
+Log: LoadMap: 10_Paris_Catacombs_Tunnels?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#spiralstair
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Catacombs.JCDentonMale2.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Log: Loading: Package Rocket
+Log: Loading: Package Models
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package Supertanker
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package HK_Interior
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexGlass
+Log: Unloading: Package Constructor
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 55958->40437; refs: 622580
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 10_Paris_Catacombs_Tunnels.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
+ScriptLog: Base Mutator is 10_Paris_Catacombs_Tunnels.Mutator2
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+Log: Loading: Package HDTPPapers
+Log: Loading: Package HDTPBookClosed
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptLog: MYCHK:: 2 :: 462
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Flare5 fell out of the world!
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
 ScriptLog: MYCHK:DX_QuickSave: , Auto Save4  ,Last: -14  ,Current: 4
 Log: Loading: Package saveInfo
 Log: Dumping screenshot...
 Log: Done.
 Log: Done
-Log: Unloading: Package 09_NYC_ShipBelow
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
 Log: Unloading: Package saveInfo
-Log: Save=3.817822
+Log: Save=3.716007
 Log: Moving '..\Save\Save-014\Save.tmp' to '..\Save\Save-014\SaveInfo.dxs'
-Init: Shut down moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
-Log: Save=79.460127
-Log: Moving '..\Save\Save-014\Save.tmp' to '..\Save\Save-014\09_NYC_ShipBelow.dxs'
-Init: Initialized moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
-Log: Export travel for: Player
-Log: Browse: 09_NYC_Ship?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromBelow
-Log: Doing load, not loadgame
-Log: Current mission number is 9, next is 9
-Log: Attempting to get player
-ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipBelow.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
-Init: Shut down moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
-Log: Save=88.092528
-Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\09_NYC_ShipBelow.dxs'
-Init: Initialized moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
-Log: LoadMap: ..\Save\Current\09_NYC_Ship.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#FromBelow
-ScriptWarning: AugmentationDisplayWindow 09_NYC_ShipBelow.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=52.028772
+Log: Moving '..\Save\Save-014\Save.tmp' to '..\Save\Save-014\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun4
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm6  Weapon(item).AmmoType.AmmoAmount= 830
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm6
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife13
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass3 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood10
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun4
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm6  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood10
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun4
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm6  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood10
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun3
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm5  Weapon(item).AmmoType.AmmoAmount= 840
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm5
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponBaton0
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass2 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood9
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun6
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm17  Weapon(item).AmmoType.AmmoAmount= 840
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm17
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife17
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass4 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuMain2.MenuUIClientWindow13.MenuUIMenuButtonWindow21
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame0.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow23
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame0.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow23
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=3.946163
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=51.353272
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponSawedOffShotgun4
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.AmmoShell7  Weapon(item).AmmoType.AmmoAmount= 60
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.AmmoShell0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoShell7
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife14
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass5 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood11
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Flare13
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm14
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini7
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.BioelectricCell8
+ScriptLog: handled pickup  False
+ScriptLog: Is A PICKUP WITH MULTI COPIES  10_Paris_Catacombs_Tunnels.BioelectricCell4  count  1  startcopies  10
+ScriptLog: ADD ITEMS DEFAULT
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm7
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini1
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponSawedOffShotgun4
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass5 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood11
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Flare13
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm13
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini6
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.BioelectricCell7
+ScriptLog: handled pickup  False
+ScriptLog: Is A PICKUP WITH MULTI COPIES  10_Paris_Catacombs_Tunnels.BioelectricCell4  count  1  startcopies  11
+ScriptLog: ADD ITEMS DEFAULT
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuMain3.MenuUIClientWindow15.MenuUIMenuButtonWindow31
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame1.MenuUIClientWindow16.MenuUIScrollAreaWindow9.ClipWindow26.MenuUIListWindow6.ClipWindow27.MenuUILoadSaveEditWindow1
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame1.MenuUIClientWindow16.MenuUIScrollAreaWindow9.ClipWindow26.MenuUIListWindow6
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame1.MenuUIActionButtonBarWindow12.MenuUIActionButtonWindow26
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow29
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow29
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=4.246513
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=51.486354
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Tried to remove lastbuttonwindow descendant. ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Tried to remove lastbuttonwindow descendant. ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.ConWindowActive1
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenInventory1.PersonaNavBarWindow2.PersonaButtonBarWindow12.PersonaNavButtonWindow27
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenInventory1.PersonaNavBarWindow2.PersonaButtonBarWindow12.PersonaNavButtonWindow27
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenHealth0.PersonaNavBarWindow3.PersonaButtonBarWindow15.PersonaNavButtonWindow35
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenHealth0.PersonaNavBarWindow3.PersonaButtonBarWindow15.PersonaNavButtonWindow35
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenAugmentations0.PersonaNavBarWindow4.PersonaButtonBarWindow18.PersonaNavButtonWindow43
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenAugmentations0.PersonaNavBarWindow4.PersonaButtonBarWindow18.PersonaNavButtonWindow43
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenSkills0.PersonaNavBarWindow5.PersonaButtonBarWindow22.PersonaNavButtonWindow51
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenSkills0.PersonaNavBarWindow5.PersonaButtonBarWindow22.PersonaNavButtonWindow51
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenGoals1.PersonaNavBarWindow6.PersonaButtonBarWindow25.PersonaNavButtonWindow59
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenGoals1.PersonaNavBarWindow6.PersonaButtonBarWindow25.PersonaNavButtonWindow59
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenConversations0.PersonaNavBarWindow7.PersonaButtonBarWindow28.PersonaNavButtonWindow67
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenConversations0.PersonaNavBarWindow7.PersonaButtonBarWindow28.PersonaNavButtonWindow67
+Log: Assigning Last Button Window to PersonaListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenImages0.PersonaClientWindow9.PersonaScrollAreaWindow19.ClipWindow41.PersonaListWindow1
+Log: Assigning Last Button Window to PersonaListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenImages0.PersonaClientWindow9.PersonaScrollAreaWindow19.ClipWindow41.PersonaListWindow1
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.PersonaScreenImages0.PersonaClientWindow9.PersonaScrollAreaWindow19.ClipWindow41.PersonaListWindow1
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuMain4.MenuUIClientWindow18.MenuUIMenuButtonWindow41
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame2.MenuUIClientWindow19.MenuUIScrollAreaWindow10.ClipWindow42.MenuUIListWindow7
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame2.MenuUIClientWindow19
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenSaveGame2.MenuUIActionButtonBarWindow14.MenuUIActionButtonWindow31
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow15.MenuUIActionButtonWindow34
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow15.MenuUIActionButtonWindow34
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=2.793228
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=50.800243
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuMain5.MenuUIClientWindow21.MenuUIMenuButtonWindow52
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIClientWindow22
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow36
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow36
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 09_NYC_Ship
-Log: Loading: Package Constructor
-Log: Loading: Package CoreTexStone
-Log: Loading: Package CoreTexSky
-Log: Loading: Package MolePeople
-Log: Loading: Package CoreTexCeramic
-Log: Loading: Package Tester
-Log: Loading: Package HDTPPapers
-Log: Loading: Package CoreTexEarth
-Init: Shut down moving brush tracker for Level 09_NYC_ShipBelow.MyLevel
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
 Log: Collecting garbage
 Log: Purging garbage
-Log: Unloading: Package area51textures
-Log: Unloading: Package HK_Signs
-Log: Unloading: Package Moon
-Log: Unloading: Package BatteryPark
-Log: Unloading: Package HK_Interior
-Log: Unloading: Package HDTPBookOpen
-Log: Unloading: Package Airfield
-Log: Unloading: Package HK_Helibase
+Log: Unloading: Package Models
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExe
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 53876->42443; refs: 1095751
+Log: Garbage: objects: 55035->41555; refs: 651289
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
-Log: Possessed PlayerPawn: JCDentonMale 09_NYC_Ship.JCDentonMale2
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
 ScriptLog: All inventory from Player is accepted
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission09'
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 09_NYC_Ship.MyLevel
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
-ScriptLog: **** InitStateMachine() - 09_NYC_Ship.JCDentonMale2 started mission state machine for 09_NYC_SHIP
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
 Log: Loading: Package InfoPortraits
-Log: Loading: Package DeusExConAudioMission09
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow3.MenuMain1.MenuUIClientWindow2.MenuUIMenuButtonWindow19
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 09_NYC_Ship.JCDentonMale2.DeusExRootWindow3.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm8
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini2
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.BioelectricCell5
+ScriptLog: handled pickup  False
+ScriptLog: Is A PICKUP WITH MULTI COPIES  10_Paris_Catacombs_Tunnels.BioelectricCell4  count  1  startcopies  12
+ScriptLog: ADD ITEMS DEFAULT
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptWarning: WeaponMiniCrossbow 10_Paris_Catacombs_Tunnels.WeaponMiniCrossbow1 (Function DeusEx.DeusExWeapon.DropFrom:0038) Accessed None
+ScriptWarning: WeaponCombatKnife 10_Paris_Catacombs_Tunnels.WeaponCombatKnife15 (Function DeusEx.DeusExWeapon.DropFrom:0038) Accessed None
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun5
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm12  Weapon(item).AmmoType.AmmoAmount= 805
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm12
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Flare14
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun2
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm3  Weapon(item).AmmoType.AmmoAmount= 805
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood7
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow4.MenuMain6.MenuUIClientWindow23.MenuUIMenuButtonWindow62
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow4.MenuScreenLoadGame3.MenuUIActionButtonBarWindow17.MenuUIActionButtonWindow39
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow4.MenuScreenLoadGame3.MenuUIActionButtonBarWindow17.MenuUIActionButtonWindow39
+ScriptWarning: DataLinkPlay 10_Paris_Catacombs_Tunnels.DataLinkPlay12 (Function DeusEx.DataLinkPlay.ProcessAction:0023) Accessed None
+ScriptWarning: DataLinkPlay 10_Paris_Catacombs_Tunnels.DataLinkPlay12 (Function DeusEx.ConPlayBase.TerminateConversation:0033) Accessed None
+ScriptWarning: DataLinkPlay 10_Paris_Catacombs_Tunnels.DataLinkPlay12 (Function DeusEx.ConPlayBase.TerminateConversation:0040) Accessed None
+ScriptWarning: DataLinkPlay 10_Paris_Catacombs_Tunnels.DataLinkPlay12 (Function DeusEx.ConPlayBase.TerminateConversation:0048) Attempt to assigned variable through None
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54848->41555; refs: 651289
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm8
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini2
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.BioelectricCell5
+ScriptLog: handled pickup  False
+ScriptLog: Is A PICKUP WITH MULTI COPIES  10_Paris_Catacombs_Tunnels.BioelectricCell4  count  1  startcopies  12
+ScriptLog: ADD ITEMS DEFAULT
+ScriptLog: DONE ITERATE
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.Window242
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.Window242
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.Window242
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.Window242
+Log: Assigning Last Button Window to Window 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.Window242
+Log: Assigning Last Button Window to ConChoiceWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.TileWindow70.ConChoiceWindow14
+Log: Tried to remove lastbuttonwindow descendant. ConChoiceWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.TileWindow70.ConChoiceWindow14
+Log: Assigning Last Button Window to TileWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.TileWindow70
+Log: Tried to remove lastbuttonwindow descendant. TileWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.ConWindowActive0.TileWindow70
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun5
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm12  Weapon(item).AmmoType.AmmoAmount= 840
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm12
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Flare14
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun2
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm3  Weapon(item).AmmoType.AmmoAmount= 835
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood7
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuMain7.MenuUIClientWindow25.MenuUIMenuButtonWindow71
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame3.MenuUIClientWindow26.MenuUIScrollAreaWindow13.ClipWindow53.MenuUIListWindow10
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuScreenSaveGame3.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow42
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow2.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow45
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow2.MenuUIActionButtonBarWindow19.MenuUIActionButtonWindow45
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: Unloading: Package saveInfo
+Log: Save=13.919920
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=52.910383
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuMain8.MenuUIClientWindow28.MenuUIMenuButtonWindow82
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuScreenLoadGame4.MenuUIActionButtonBarWindow20.MenuUIActionButtonWindow47
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow5.MenuScreenLoadGame4.MenuUIActionButtonBarWindow20.MenuUIActionButtonWindow47
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package DeusExe
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54903->41595; refs: 650895
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow6.MenuMain9.MenuUIClientWindow30.MenuUIMenuButtonWindow92
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow6.MenuScreenLoadGame5.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow50
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow6.MenuScreenLoadGame5.MenuUIActionButtonBarWindow21.MenuUIActionButtonWindow50
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54700->41595; refs: 650895
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGunSpider0
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm2
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife11
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass12 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood6
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun1
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm2  Weapon(item).AmmoType.AmmoAmount= 395
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoLAM1
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow7.MenuMain10.MenuUIClientWindow32.MenuUIMenuButtonWindow102
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame6.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow53
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame6.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow53
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54819->41595; refs: 650895
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow8.MenuMain11.MenuUIClientWindow34.MenuUIMenuButtonWindow112
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow8.MenuScreenLoadGame7.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow56
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow8.MenuScreenLoadGame7.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow56
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54875->41595; refs: 650895
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton146
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton148
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton158
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton159
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton152
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory4.PersonaClientWindow15.Window334.PersonaInventoryItemButton152
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory6.PersonaClientWindow19.Window348.PersonaInventoryItemButton214
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory6.PersonaClientWindow19.Window348.PersonaInventoryItemButton214
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.PersonaScreenInventory6.PersonaClientWindow19.Window348.PersonaInventoryItemButton214
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuMain12.MenuUIClientWindow36.MenuUIMenuButtonWindow121
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuScreenSaveGame4.MenuUIClientWindow37.MenuUIScrollAreaWindow18.ClipWindow77.MenuUIListWindow15
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuScreenSaveGame4.MenuUIActionButtonBarWindow24.MenuUIActionButtonWindow59
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuUIMessageBoxWindow3.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow62
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuUIMessageBoxWindow3.MenuUIActionButtonBarWindow25.MenuUIActionButtonWindow62
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: Unloading: Package saveInfo
+Log: Save=13.282402
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=52.407109
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuMain13.MenuUIClientWindow39.MenuUIMenuButtonWindow132
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuScreenLoadGame8.MenuUIActionButtonBarWindow26.MenuUIActionButtonWindow64
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow9.MenuScreenLoadGame8.MenuUIActionButtonBarWindow26.MenuUIActionButtonWindow64
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54865->41602; refs: 650580
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow10.MenuMain14.MenuUIClientWindow41.MenuUIMenuButtonWindow142
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow10.MenuScreenLoadGame9.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow67
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow10.MenuScreenLoadGame9.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow67
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54794->41602; refs: 650580
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptWarning: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1 (Function DeusEx.DeusExPlayer.DrugEffects:0434) Accessed None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow11.MenuMain15.MenuUIClientWindow43.MenuUIMenuButtonWindow152
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow11.MenuScreenLoadGame10.MenuUIActionButtonBarWindow28.MenuUIActionButtonWindow70
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow11.MenuScreenLoadGame10.MenuUIActionButtonBarWindow28.MenuUIActionButtonWindow70
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 54732->41602; refs: 650580
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini3
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm4
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini0
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponSawedOffShotgun3
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.AmmoShell6  Weapon(item).AmmoType.AmmoAmount= 3
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.AmmoShell0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife12
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass17 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood8
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoShell6
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuMain16.MenuUIClientWindow45.MenuUIMenuButtonWindow161
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenSaveGame5.MenuUIClientWindow46.MenuUIScrollAreaWindow22.ClipWindow82.MenuUIListWindow19
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenSaveGame5.MenuUIActionButtonBarWindow29.MenuUIActionButtonWindow73
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuUIMessageBoxWindow4.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow76
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuUIMessageBoxWindow4.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow76
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: Unloading: Package saveInfo
+Log: Save=4.665377
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=52.056204
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGunSpider0
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm2
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponCombatKnife11
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  10_Paris_Catacombs_Tunnels.WeaponCombatKnife0
+ScriptWarning: MJ12TroopCarcass 10_Paris_Catacombs_Tunnels.MJ12TroopCarcass18 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- 10_Paris_Catacombs_Tunnels.WeaponCombatKnife0  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: DESTROY WEAP
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.SoyFood6
+ScriptLog: handled pickup  False
+ScriptLog: NORMAL PICKUP
+ScriptLog: CAN  10_Paris_Catacombs_Tunnels.JCDentonMale1  HAVE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.WeaponAssaultGun1
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= 10_Paris_Catacombs_Tunnels.Ammo762mm2  Weapon(item).AmmoType.AmmoAmount= 420
+ScriptLog: HAS AMMO TYPE
+ScriptLog: IS AMMO TYPE: 10_Paris_Catacombs_Tunnels.Ammo762mm0
+ScriptLog: handled pickup  True
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoLAM1
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuMain17.MenuUIClientWindow48.MenuUIMenuButtonWindow171
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenSaveGame6.MenuUIClientWindow49.MenuUIScrollAreaWindow23.ClipWindow84.MenuUIListWindow20
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenSaveGame6.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow78
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuUIMessageBoxWindow5.MenuUIActionButtonBarWindow32.MenuUIActionButtonWindow81
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuUIMessageBoxWindow5.MenuUIActionButtonBarWindow32.MenuUIActionButtonWindow81
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=4.434469
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=50.881397
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm10
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini4
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuMain18.MenuUIClientWindow51.MenuUIMenuButtonWindow182
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenLoadGame11.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow83
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow12.MenuScreenLoadGame11.MenuUIActionButtonBarWindow33.MenuUIActionButtonWindow83
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Catacombs_Tunnels
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 56606->41541; refs: 648189
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_Tunnels.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_Tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm10
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini4
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm16
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini9
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.Ammo762mm11
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.AmmoRocketMini5
+ScriptLog: IS AMMO<DESTROYED>
+ScriptLog: ===>DeusExCarcass:item=10_Paris_Catacombs_Tunnels.BioelectricCell6
+ScriptLog: handled pickup  False
+ScriptLog: Is A PICKUP WITH MULTI COPIES  10_Paris_Catacombs_Tunnels.BioelectricCell4  count  1  startcopies  11
+ScriptLog: ADD ITEMS DEFAULT
+ScriptLog: DONE ITERATE
+Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.PersonaScreenGoals8.PersonaNavBarWindow21.PersonaButtonBarWindow70.PersonaNavButtonWindow199
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.PersonaScreenGoals8.PersonaNavBarWindow21.PersonaButtonBarWindow70.PersonaNavButtonWindow199
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.PersonaScreenInventory8.PersonaClientWindow23.Window434.PersonaInventoryItemButton278
+Log: Assigning Last Button Window to PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.PersonaScreenInventory8.PersonaClientWindow23.Window434.PersonaInventoryItemButton278
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.PersonaScreenInventory8.PersonaClientWindow23.Window434.PersonaInventoryItemButton278
+Log: Assigning Last Button Window to ComputerScreenHack 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenHack3
+Log: Assigning Last Button Window to PersonaActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenHack3.PersonaButtonBarWindow79.PersonaActionButtonWindow74
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityChoice_Camera1.MenuUIInfoButtonWindow16
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityChoice_Turret1.MenuUIInfoButtonWindow19
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityCameraWindow4.ComputerSecurityCameraViewButton4
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityChoice_Camera1.MenuUIInfoButtonWindow16
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityChoice_Turret1.MenuUIInfoButtonWindow19
+Log: Tried to remove lastbuttonwindow descendant. MenuUIInfoButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.NetworkTerminalSecurity1.ComputerScreenSecurity1.MenuUIClientWindow55.ComputerSecurityChoice_Turret1.MenuUIInfoButtonWindow19
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Tried to remove lastbuttonwindow descendant. ConWindowActive2 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.ConWindowActive0
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuMain20.MenuUIClientWindow56.MenuUIMenuButtonWindow201
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUILoadSaveEditWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuScreenSaveGame7.MenuUIClientWindow57.MenuUIScrollAreaWindow25.ClipWindow101.MenuUIListWindow22.ClipWindow102.MenuUILoadSaveEditWindow7
+Log: Assigning Last Button Window to MenuUIListWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuScreenSaveGame7.MenuUIClientWindow57.MenuUIScrollAreaWindow25.ClipWindow101.MenuUIListWindow22
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuScreenSaveGame7.MenuUIActionButtonBarWindow36.MenuUIActionButtonWindow89
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuUIMessageBoxWindow6.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow92
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuUIMessageBoxWindow6.MenuUIActionButtonBarWindow37.MenuUIActionButtonWindow92
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Catacombs_Tunnels
+Log: Unloading: Package saveInfo
+Log: Save=4.794131
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Save=52.247537
+Log: Moving '..\Save\Save0463\Save.tmp' to '..\Save\Save0463\10_Paris_Catacombs_tunnels.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Catacombs :: 463 :: 463
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuMain21.MenuUIClientWindow59
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuMain21.MenuUIClientWindow59.MenuUIMenuButtonWindow219
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuUIMessageBoxWindow7.MenuUIActionButtonBarWindow38.MenuUIActionButtonWindow94
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_Tunnels.JCDentonMale1.DeusExRootWindow13.MenuUIMessageBoxWindow7.MenuUIActionButtonBarWindow38.MenuUIActionButtonWindow94
 Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
@@ -354,44 +1414,31 @@ Log: Bye.
 Log: Unbound to D3D11Drv.dll
 Log: Unbound to Galaxy.dll
 DevAudio: Galaxy SetViewport: NULL
-DevMusic: Unregister music: Music NavalBase_Music.NavalBase_Music
 Exit: Galaxy shut down
-Log: Unloading: Package CoreTexMisc
-Log: Unloading: Package SubBase
-Log: Unloading: Package V_Com_Center
 Log: Unloading: Package Mobile_Camp
-Log: Unloading: Package CoreTexWallObj
-Log: Unloading: Package CoreTexGlass
-Log: Unloading: Package NewYorkCity
-Log: Unloading: Package NavalBase_Music
-Log: Unloading: Package G_Station
-Log: Unloading: Package CoreTexTiles
 Log: Unloading: Package UNATCO
-Log: Unloading: Package Dockyard
-Log: Unloading: Package OceanLab
-Log: Unloading: Package Paris
-Log: Unloading: Package Rocket
-Log: Unloading: Package CoreTexPaper
-Log: Unloading: Package Supertanker
 Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package area51textures
+Log: Unloading: Package Paris
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package ParisCathedral_Music
+Log: Unloading: Package Catacombs
+Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_Tunnels.MyLevel
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package DeusExe
+Log: Unloading: Package Rocket
+Log: Unloading: Package HDTPBookClosed
 Log: Unloading: Package HDTPPapers
-Log: Unloading: Package Tester
-Log: Unloading: Package CoreTexCeramic
-Log: Unloading: Package DeusExConAudioMission09
-Log: Unloading: Package InfoPortraits
-Log: Unloading: Package Constructor
-Log: Unloading: Package CoreTexStone
-Log: Unloading: Package CoreTexSky
-Log: Unloading: Package 09_NYC_Ship
-Log: Unloading: Package MolePeople
-Init: Shut down moving brush tracker for Level 09_NYC_Ship.MyLevel
+Log: Unloading: Package DeusExConAudioAIBarks
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 51492->0; refs: 1095751
+Log: Garbage: objects: 54503->0; refs: 648189
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  13.533M /  2.246M
-Uninitialized: Peak Memory  751.389M /  743.070M
-Uninitialized: Allocs         161 Current /  1386797 Total
-Uninitialized: Log file closed, 09/14/23 01:16:32
+Uninitialized: Curr Memory  34.200M /  2.684M
+Uninitialized: Peak Memory  455.898M /  451.941M
+Uninitialized: Allocs         179 Current /  58144237 Total
+Uninitialized: Log file closed, 09/16/23 09:28:18
