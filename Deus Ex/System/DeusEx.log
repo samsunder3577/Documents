@@ -1,4 +1,4 @@
-Log: Log file open, 09/18/23 18:33:48
+Log: Log file open, 09/20/23 23:06:18
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,7 +16,7 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4691.079988 MHz
+Init: CPU Speed=4691.062269 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
@@ -100,7 +100,7 @@ ScriptLog: Base Mutator is dx.Mutator1
 Init: Initialized moving brush tracker for Level dx.MyLevel
 ScriptLog: Login: Player
 Init: *** DEUS EX VERSION Mon Mar 19 12:06:14 2001 v1.112fm ***
-ScriptLog: MYCHK:: 3 :: 463
+ScriptLog: MYCHK:: 4 :: 464
 ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
 Log: Possessed PlayerPawn: JCDentonMale dx.JCDentonMale0
 ScriptLog: All inventory from Player is accepted
@@ -117,235 +117,327 @@ Init: Game engine initialized
 Log: Installing hook 'Free save space fix'.
 Log: Installing hook 'Widescreen subtitle fix'.
 DevMusic: Load music: Music Title_Music.Title_Music
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
 Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
 Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
 Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=464?Name=Player?Class=DeusEx.JCDentonMale
 Log: Doing loadgame, not load
 Log: Loading: Package saveInfo
 Log: Unloading: Package dx
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 10_Paris_Catacombs_tunnels
-Log: Loading: Package Catacombs
-Log: Loading: Package CoreTexEarth
+Log: Loading: Package 10_Paris_Metro
 Log: Loading: Package Paris
-Log: Loading: Package Rocket
+Log: Loading: Package Catacombs
+Log: Loading: Package CoreTexStone
+Log: Loading: Package V_Com_Center
+Log: Loading: Package NewYorkCity
 Log: Loading: Package CoreTexMisc
-Log: Loading: Package area51textures
 Log: Loading: Package CoreTexBrick
-Log: Loading: Package Mobile_Camp
+Log: Loading: Package CoreTexGlass
+Log: Loading: Package Airfield
 Log: Loading: Package BatteryPark
-Log: Loading: Package UNATCO
-Log: Loading: Package HDTPPapers
-Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package Dockyard
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package G_Station
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package HK_BuildingExt
 Log: Loading: Package HDTPBookClosed
+Log: Loading: Package area51textures
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package MolePeople
+Log: Loading: Package FreeClinic
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package UNATCO
+Log: Loading: Package CoreTexFoliage
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexSky
+Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package OceanLab
+Log: Loading: Package Constructor
 Init: Shut down moving brush tracker for Level dx.MyLevel
 Log: Collecting garbage
 Log: Purging garbage
 Log: Unloading: Package saveInfo
-Log: Garbage: objects: 42591->41508; refs: 644889
+Log: Garbage: objects: 45836->44751; refs: 1058724
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
-Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_tunnels.JCDentonMale1
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Metro.JCDentonMale1
 ScriptLog: All inventory from Player is accepted
 ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
+Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
 DevMusic: Unregister music: Music Title_Music.Title_Music
-ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
-Log: Loading: Package DeusExConAudioMission10
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenInventory0.PersonaNavBarWindow0.PersonaButtonBarWindow0.PersonaNavButtonWindow6
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenInventory0.PersonaNavBarWindow0.PersonaButtonBarWindow0.PersonaNavButtonWindow6
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenHealth0.PersonaNavBarWindow1.PersonaButtonBarWindow3.PersonaNavButtonWindow14
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenHealth0.PersonaNavBarWindow1.PersonaButtonBarWindow3.PersonaNavButtonWindow14
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenAugmentations0.PersonaNavBarWindow2.PersonaButtonBarWindow6.PersonaNavButtonWindow22
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenAugmentations0.PersonaNavBarWindow2.PersonaButtonBarWindow6.PersonaNavButtonWindow22
-Log: Assigning Last Button Window to PersonaButtonBarWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills0.PersonaNavBarWindow3.PersonaButtonBarWindow10
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills0.PersonaNavBarWindow3.PersonaButtonBarWindow10.PersonaNavButtonWindow30
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills0.PersonaNavBarWindow3.PersonaButtonBarWindow10.PersonaNavButtonWindow30
-Log: Assigning Last Button Window to PersonaButtonBarWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals0.PersonaNavBarWindow4.PersonaButtonBarWindow13
-Log: Assigning Last Button Window to PersonaButtonBarWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals0.PersonaNavBarWindow4.PersonaButtonBarWindow13
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals0.PersonaNavBarWindow4.PersonaButtonBarWindow13.PersonaNavButtonWindow40
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals0.PersonaNavBarWindow4.PersonaButtonBarWindow13.PersonaNavButtonWindow40
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills1.PersonaNavBarWindow5.PersonaButtonBarWindow16.PersonaNavButtonWindow48
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills1.PersonaNavBarWindow5.PersonaButtonBarWindow16.PersonaNavButtonWindow48
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals1.PersonaNavBarWindow6.PersonaButtonBarWindow19.PersonaNavButtonWindow58
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals1.PersonaNavBarWindow6.PersonaButtonBarWindow19.PersonaNavButtonWindow58
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills2.PersonaNavBarWindow7.PersonaButtonBarWindow22.PersonaNavButtonWindow68
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills2.PersonaNavBarWindow7.PersonaButtonBarWindow22.PersonaNavButtonWindow68
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenAugmentations1.PersonaNavBarWindow8.PersonaButtonBarWindow25.PersonaNavButtonWindow76
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenAugmentations1.PersonaNavBarWindow8.PersonaButtonBarWindow25.PersonaNavButtonWindow76
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills3.PersonaNavBarWindow9.PersonaButtonBarWindow29.PersonaNavButtonWindow84
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills3.PersonaNavBarWindow9.PersonaButtonBarWindow29.PersonaNavButtonWindow84
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals2.PersonaNavBarWindow10.PersonaButtonBarWindow32.PersonaNavButtonWindow92
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals2.PersonaNavBarWindow10.PersonaButtonBarWindow32.PersonaNavButtonWindow92
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations0.PersonaNavBarWindow11.PersonaButtonBarWindow35.PersonaNavButtonWindow103
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations0.PersonaNavBarWindow11.PersonaButtonBarWindow35.PersonaNavButtonWindow103
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills4.PersonaNavBarWindow12.PersonaButtonBarWindow38.PersonaNavButtonWindow111
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills4.PersonaNavBarWindow12.PersonaButtonBarWindow38.PersonaNavButtonWindow111
-Log: Assigning Last Button Window to PersonaButtonBarWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals3.PersonaNavBarWindow13.PersonaButtonBarWindow41
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals3.PersonaNavBarWindow13.PersonaButtonBarWindow41.PersonaNavButtonWindow119
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenGoals3.PersonaNavBarWindow13.PersonaButtonBarWindow41.PersonaNavButtonWindow119
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations1.PersonaNavBarWindow14.PersonaButtonBarWindow44.PersonaNavButtonWindow127
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations1.PersonaNavBarWindow14.PersonaButtonBarWindow44.PersonaNavButtonWindow127
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenImages0.PersonaNavBarWindow15.PersonaButtonBarWindow47.PersonaNavButtonWindow135
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenImages0.PersonaNavBarWindow15.PersonaButtonBarWindow47.PersonaNavButtonWindow135
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenLogs0.PersonaNavBarWindow16.PersonaButtonBarWindow50.PersonaNavButtonWindow146
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenLogs0.PersonaNavBarWindow16.PersonaButtonBarWindow50.PersonaNavButtonWindow146
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations2.PersonaNavBarWindow17.PersonaButtonBarWindow53.PersonaNavButtonWindow154
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenConversations2.PersonaNavBarWindow17.PersonaButtonBarWindow53.PersonaNavButtonWindow154
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenImages1.PersonaNavBarWindow18.PersonaButtonBarWindow56.PersonaNavButtonWindow162
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenImages1.PersonaNavBarWindow18.PersonaButtonBarWindow56.PersonaNavButtonWindow162
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenLogs1.PersonaNavBarWindow19.PersonaButtonBarWindow59.PersonaNavButtonWindow175
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenLogs1.PersonaNavBarWindow19.PersonaButtonBarWindow59.PersonaNavButtonWindow175
-Log: Assigning Last Button Window to PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills5.PersonaNavBarWindow20.PersonaButtonBarWindow62.PersonaNavButtonWindow183
-Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.PersonaScreenSkills5.PersonaNavBarWindow20.PersonaButtonBarWindow62.PersonaNavButtonWindow183
-Log: Loading: Package InfoPortraits
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.MenuMain2.MenuUIClientWindow3.MenuUIMenuButtonWindow22
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
-Log: URL: Adding default option Name=Player
-Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=463?Name=Player?Class=DeusEx.JCDentonMale
-Log: Doing loadgame, not load
-Log: Loading: Package saveInfo
-Log: Unloading: Package 10_Paris_Catacombs_tunnels
-Log: URL: Adding default option Name=Player
-Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\10_Paris_Catacombs_tunnels.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
-DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 10_Paris_Catacombs_tunnels
-Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
-Log: Collecting garbage
-Log: Purging garbage
-Log: Unloading: Package DeusExConText
-Log: Unloading: Package DeusExConAudioMission10
-Log: Unloading: Package InfoPortraits
-Log: Unloading: Package saveInfo
-Log: Garbage: objects: 54894->41513; refs: 644924
-Log: Loading: Package DeusExConText
-Log: Spawning new actor for Viewport WindowsViewport0
-ScriptLog: Login: Player
-Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Catacombs_tunnels.JCDentonMale1
-ScriptLog: All inventory from Player is accepted
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
-ScriptLog: bHardCoreMode = False
-ScriptLog: CombatDifficulty = 1.500000
-Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
-DevAudio: Galaxy SetViewport: WindowsViewport0
-ScriptLog: **** InitStateMachine() - 10_Paris_Catacombs_tunnels.JCDentonMale1 started mission state machine for 10_PARIS_CATACOMBS_TUNNELS
-Log: Loading: Package DeusExConAudioMission10
-Log: Loading: Package InfoPortraits
 DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
-ScriptWarning: JCDentonMale 10_Paris_Catacombs_tunnels.JCDentonMale1 (Function DeusEx.DeusExPlayer.ParseRightClick:03A0) Accessed None
+ScriptLog: **** InitStateMachine() - 10_Paris_Metro.JCDentonMale1 started mission state machine for 10_PARIS_METRO
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
 Log: Export travel for: Player
-Log: Browse: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#sewer
+Log: Browse: 10_Paris_Club?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Club2
 Log: Doing load, not loadgame
 Log: Current mission number is 10, next is 10
 Log: Attempting to get player
-ScriptWarning: AugmentationDisplayWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
-Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
-Log: Unloading: Package 10_Paris_Catacombs_tunnels
-Log: Save=51.034951
-Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Catacombs_tunnels.dxs'
-Init: Initialized moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
-Log: LoadMap: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#sewer
-ScriptWarning: AugmentationDisplayWindow 10_Paris_Catacombs_tunnels.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow1.DeusExHUD1.AugmentationDisplayWindow1 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Unloading: Package 10_Paris_Metro
+Log: Save=128.036653
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Metro.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: LoadMap: 10_Paris_Club?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Club2
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow1.DeusExHUD1.AugmentationDisplayWindow1 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Club
+Log: Loading: Package HK_Interior
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package HK_Signs
+Log: Loading: Package ParisClub2_Music
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package OceanLab
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package CoreTexFoliage
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package Rocket
+Log: Unloading: Package Constructor
+Log: Unloading: Package ParisCathedral_Music
+Log: Unloading: Package MolePeople
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package Dockyard
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission10
+DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
+Log: Garbage: objects: 58786->39756; refs: 710104
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 10_Paris_Club.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
+ScriptLog: Base Mutator is 10_Paris_Club.Mutator2
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptLog: MYCHK:: 4 :: 464
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Club.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisClub2_Music.ParisClub2_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Club.JCDentonMale1 started mission state machine for 10_PARIS_CLUB
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save6  ,Last: -16  ,Current: 6
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Club
+Log: Unloading: Package saveInfo
+Log: Save=3.984049
+Log: Moving '..\Save\Save-016\Save.tmp' to '..\Save\Save-016\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Save=37.736454
+Log: Moving '..\Save\Save-016\Save.tmp' to '..\Save\Save-016\10_Paris_Club.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Export travel for: Player
+Log: Browse: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+Log: Doing load, not loadgame
+Log: Current mission number is 10, next is 10
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Save=36.226633
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Club.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow2.DeusExHUD2.AugmentationDisplayWindow2 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
 DevAudio: Galaxy SetViewport: WindowsViewport0
 Log: Loading: Package 10_Paris_Metro
-Log: Loading: Package CoreTexStone
 Log: Loading: Package V_Com_Center
-Log: Loading: Package NewYorkCity
-Log: Loading: Package Airfield
-Log: Loading: Package CoreTexGlass
+Log: Loading: Package CoreTexBrick
 Log: Loading: Package Dockyard
-Log: Loading: Package G_Station
+Log: Loading: Package Rocket
 Log: Loading: Package CoreTexCeramic
-Log: Loading: Package CoreTexWallObj
 Log: Loading: Package HK_BuildingExt
-Log: Loading: Package FreeClinic
-Log: Loading: Package HDTPBookOpen
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package CoreTexEarth
 Log: Loading: Package MolePeople
+Log: Loading: Package HDTPBookOpen
 Log: Loading: Package CoreTexFoliage
+Log: Loading: Package HDTPPapers
 Log: Loading: Package CoreTexSky
-Log: Loading: Package CoreTexPaper
+Log: Loading: Package ParisCathedral_Music
 Log: Loading: Package OceanLab
 Log: Loading: Package Constructor
-Init: Shut down moving brush tracker for Level 10_Paris_Catacombs_tunnels.MyLevel
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
 Log: Collecting garbage
 Log: Purging garbage
-Log: Unloading: Package Mobile_Camp
-Log: Unloading: Package HDTPPapers
-Log: Unloading: Package InfoPortraits
-Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package ParisClub2_Music
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package HK_Signs
+Log: Unloading: Package HK_Interior
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 57507->42930; refs: 1001699
-Log: Game class is 'DeusExGameInfo'
-Log: Bringing Level 10_Paris_Metro.MyLevel up for play (0)...
-ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
-ScriptLog: Base Mutator is 10_Paris_Metro.Mutator2
+DevMusic: Unregister music: Music ParisClub2_Music.ParisClub2_Music
+Log: Garbage: objects: 59262->45405; refs: 1101861
 Log: Loading: Package DeusExConText
-Log: Loading: Package HDTPPapers
-ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
-ScriptLog: MYCHK:: 3 :: 463
-ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
 Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Metro.JCDentonMale1
 ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
 ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
 Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
 ScriptLog: **** InitStateMachine() - 10_Paris_Metro.JCDentonMale1 started mission state machine for 10_PARIS_METRO
-ScriptLog: MYCHK:DX_QuickSave: , Auto Save5  ,Last: -15  ,Current: 5
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save7  ,Last: -17  ,Current: 7
 Log: Loading: Package saveInfo
 Log: Dumping screenshot...
 Log: Done.
 Log: Done
 Log: Unloading: Package 10_Paris_Metro
 Log: Unloading: Package saveInfo
-Log: Save=4.056461
-Log: Moving '..\Save\Save-015\Save.tmp' to '..\Save\Save-015\SaveInfo.dxs'
+Log: Save=4.544855
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\SaveInfo.dxs'
 Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
-Log: Save=111.666342
-Log: Moving '..\Save\Save-015\Save.tmp' to '..\Save\Save-015\10_Paris_Metro.dxs'
+Log: Save=130.814345
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\10_Paris_Metro.dxs'
 Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
-Log: Loading: Package InfoPortraits
-Log: Loading: Package DeusExConAudioMission10
-ScriptLog: DONE ITERATE
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuMain3.MenuUIClientWindow5.MenuUIMenuButtonWindow32
-Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIClientWindow6
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame2.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuMain1.MenuUIClientWindow2
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuMain1.MenuUIClientWindow2.MenuUIMenuButtonWindow12
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow3.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+ScriptWarning: JCDentonMale 10_Paris_Metro.JCDentonMale1 (Function DeusEx.DeusExPlayer.DrugEffects:0434) Accessed None
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=-15?Name=Player?Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-16?Name=Player?Class=DeusEx.JCDentonMale
 Log: Doing loadgame, not load
 Log: Loading: Package saveInfo
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Club.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 10_Paris_Metro
+Log: Loading: Package 10_Paris_Club
+Log: Loading: Package HK_Interior
+Log: Loading: Package ParisClub2_Music
+Log: Loading: Package HK_Signs
+Log: Loading: Package HK_MJ12Lab
 Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
 Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
-Warning: Skipping 6 bytes of type 10
+Warning: Skipping 7 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
+Log: Unloading: Package CoreTexFoliage
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package Rocket
+Log: Unloading: Package Constructor
+Log: Unloading: Package Dockyard
+Log: Unloading: Package OceanLab
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package ParisCathedral_Music
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 62723->40757; refs: 733583
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Club.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisClub2_Music.ParisClub2_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Club.JCDentonMale1 started mission state machine for 10_PARIS_CLUB
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: Viewport WindowsViewport0: WM_DisplayChange
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Export travel for: Player
+Log: Browse: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+Log: Doing load, not loadgame
+Log: Current mission number is 10, next is 10
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow4.DeusExHUD4.AugmentationDisplayWindow4 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Unloading: Package 10_Paris_Club
+Log: Save=36.669555
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Club.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow4.DeusExHUD4.AugmentationDisplayWindow4 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Metro
+Log: Loading: Package V_Com_Center
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package Dockyard
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package MolePeople
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package CoreTexFoliage
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexSky
+Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package OceanLab
+Log: Loading: Package Constructor
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
 Log: Collecting garbage
 Log: Purging garbage
 Log: Unloading: Package DeusExConAudioMission10
 Log: Unloading: Package InfoPortraits
-Log: Unloading: Package saveInfo
+Log: Unloading: Package HK_Interior
+Log: Unloading: Package HK_Signs
+Log: Unloading: Package ParisClub2_Music
+Log: Unloading: Package HK_MJ12Lab
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 57469->44176; refs: 1036256
+DevMusic: Unregister music: Music ParisClub2_Music.ParisClub2_Music
+Log: Garbage: objects: 59155->45405; refs: 1101861
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
@@ -356,90 +448,121 @@ ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
 Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
 ScriptLog: **** InitStateMachine() - 10_Paris_Metro.JCDentonMale1 started mission state machine for 10_PARIS_METRO
-Log: Loading: Package InfoPortraits
-Log: Loading: Package DeusExConAudioMission10
-ScriptWarning: WeaponLAM 10_Paris_Metro.WeaponLAM0 (Function DeusEx.DeusExWeapon.PlaceGrenade:006C) PlayAnim: Sequence 'Open' not found in Mesh 'HDTPLAMPickup'
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuMain4.MenuUIClientWindow7.MenuUIMenuButtonWindow41
-Log: Dumping screenshot...
-Log: Done.
-Log: Done
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuScreenSaveGame0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuScreenSaveGame0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save7  ,Last: -17  ,Current: 7
 Log: Loading: Package saveInfo
 Log: Dumping screenshot...
 Log: Done.
 Log: Done
 Log: Unloading: Package 10_Paris_Metro
 Log: Unloading: Package saveInfo
-Log: Save=4.613128
-Log: Moving '..\Save\Save0464\Save.tmp' to '..\Save\Save0464\SaveInfo.dxs'
+Log: Save=4.780774
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\SaveInfo.dxs'
 Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
-Log: Save=121.145422
-Log: Moving '..\Save\Save0464\Save.tmp' to '..\Save\Save0464\10_Paris_Metro.dxs'
+Log: Save=133.954907
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\10_Paris_Metro.dxs'
 Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
-ScriptLog: NEW::old: 0
-ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Paris - Near Champs Elysses :: 464 :: 464
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -339.501160 from odS 51.418716 and dS 390.919861 and dz -442.338593 success 0
-Log: FAILING FBJ: nc -339.181213 from odS 51.866385 and dS 391.047607 and dz -442.462189 success 0
-Log: FAILING FBJ: nc -339.501160 from odS 51.418716 and dS 390.919861 and dz -442.338593 success 0
-Log: FAILING FBJ: nc -339.181213 from odS 51.866385 and dS 391.047607 and dz -442.462189 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -339.501160 from odS 51.418716 and dS 390.919861 and dz -442.338593 success 0
-Log: FAILING FBJ: nc -339.181213 from odS 51.866385 and dS 391.047607 and dz -442.462189 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.551147 from odS 29.368713 and dS 411.919861 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -386.331757 from odS 27.478416 and dS 413.810181 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -386.331757 from odS 27.478416 and dS 413.810181 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -388.228699 from odS 26.529945 and dS 414.758636 and dz -441.288589 success 0
-Log: FAILING FBJ: nc -382.823700 from odS 31.934929 and dS 414.758636 and dz -446.693573 success 0
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuMain5.MenuUIClientWindow9.MenuUIMenuButtonWindow52
-Log: Assigning Last Button Window to MenuScreenLoadGame 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuScreenLoadGame3
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuScreenLoadGame3.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow13
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow4.MenuScreenLoadGame3.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow13
-ScriptWarning: DataLinkPlay 10_Paris_Metro.DataLinkPlay8 (Function DeusEx.DataLinkPlay.ProcessAction:0023) Accessed None
-ScriptWarning: DataLinkPlay 10_Paris_Metro.DataLinkPlay8 (Function DeusEx.ConPlayBase.TerminateConversation:0033) Accessed None
-ScriptWarning: DataLinkPlay 10_Paris_Metro.DataLinkPlay8 (Function DeusEx.ConPlayBase.TerminateConversation:0040) Accessed None
-ScriptWarning: DataLinkPlay 10_Paris_Metro.DataLinkPlay8 (Function DeusEx.ConPlayBase.TerminateConversation:0048) Attempt to assigned variable through None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuMain2.MenuUIClientWindow4.MenuUIMenuButtonWindow22
+Log: Assigning Last Button Window to MenuUIClientWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuScreenLoadGame2.MenuUIClientWindow5
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuScreenLoadGame2.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuScreenLoadGame2.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow7
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: Browse: Index.dx?loadgame=464?Name=Player?Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-16?Name=Player?Class=DeusEx.JCDentonMale
 Log: Doing loadgame, not load
 Log: Loading: Package saveInfo
 Log: URL: Adding default option Name=Player
 Log: URL: Adding default option Class=DeusEx.JCDentonMale
-Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Club.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Log: Loading: Package 10_Paris_Metro
+Log: Loading: Package 10_Paris_Club
+Log: Loading: Package HK_Interior
+Log: Loading: Package ParisClub2_Music
+Log: Loading: Package HK_Signs
+Log: Loading: Package HK_MJ12Lab
 Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 7 bytes of type 10
 Log: Collecting garbage
 Log: Purging garbage
+DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
+Log: Unloading: Package saveInfo
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package ParisCathedral_Music
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package OceanLab
+Log: Unloading: Package Dockyard
+Log: Unloading: Package Constructor
+Log: Unloading: Package Rocket
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package MolePeople
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package CoreTexFoliage
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 61217->40757; refs: 733583
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Club.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisClub2_Music.ParisClub2_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Club.JCDentonMale1 started mission state machine for 10_PARIS_CLUB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Export travel for: Player
+Log: Browse: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+Log: Doing load, not loadgame
+Log: Current mission number is 10, next is 10
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow6.DeusExHUD6.AugmentationDisplayWindow6 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Unloading: Package 10_Paris_Club
+Log: Save=35.678961
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Club.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow6.DeusExHUD6.AugmentationDisplayWindow6 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Metro
+Log: Loading: Package V_Com_Center
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package Dockyard
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package MolePeople
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package CoreTexFoliage
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexSky
+Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package OceanLab
+Log: Loading: Package Constructor
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music ParisClub2_Music.ParisClub2_Music
+Log: Unloading: Package HK_Interior
+Log: Unloading: Package HK_Signs
+Log: Unloading: Package ParisClub2_Music
+Log: Unloading: Package HK_MJ12Lab
 Log: Unloading: Package DeusExConAudioMission10
 Log: Unloading: Package InfoPortraits
-Log: Unloading: Package saveInfo
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 58546->44777; refs: 1058887
+Log: Garbage: objects: 59252->45405; refs: 1101861
 Log: Loading: Package DeusExConText
 Log: Spawning new actor for Viewport WindowsViewport0
 ScriptLog: Login: Player
@@ -450,12 +573,156 @@ ScriptLog: bHardCoreMode = False
 ScriptLog: CombatDifficulty = 1.500000
 Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
 DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
 ScriptLog: **** InitStateMachine() - 10_Paris_Metro.JCDentonMale1 started mission state machine for 10_PARIS_METRO
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save7  ,Last: -17  ,Current: 7
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Metro
+Log: Unloading: Package saveInfo
+Log: Save=4.746739
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Save=131.827893
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\10_Paris_Metro.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow7.MenuMain3.MenuUIClientWindow6.MenuUIMenuButtonWindow32
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame3.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow7.MenuScreenLoadGame3.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow10
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-16?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\10_Paris_Club.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Club
+Log: Loading: Package HK_Interior
+Log: Loading: Package ParisClub2_Music
+Log: Loading: Package HK_Signs
+Log: Loading: Package HK_MJ12Lab
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 7 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package CoreTexFoliage
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package Rocket
+Log: Unloading: Package Constructor
+Log: Unloading: Package Dockyard
+Log: Unloading: Package OceanLab
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package ParisCathedral_Music
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexSky
+DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62587->40757; refs: 733583
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Club.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisClub2_Music.ParisClub2_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Club.JCDentonMale1 started mission state machine for 10_PARIS_CLUB
+Log: Loading: Package InfoPortraits
 Log: Loading: Package DeusExConAudioMission10
-ScriptWarning: WeaponNanoSword 10_Paris_Metro.WeaponNanoSword0 (Function DeusEx.DeusExWeapon.PlayIdleAnim:003D) Accessed None
-Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuMain6.MenuUIClientWindow11.MenuUIMenuButtonWindow69
-Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow16
-Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow5.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow16
+Log: Export travel for: Player
+Log: Browse: 10_Paris_Metro?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+Log: Doing load, not loadgame
+Log: Current mission number is 10, next is 10
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow8.DeusExHUD8.AugmentationDisplayWindow8 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Unloading: Package 10_Paris_Club
+Log: Save=36.244146
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\10_Paris_Club.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: LoadMap: ..\Save\Current\10_Paris_Metro.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#Paris_Metro2
+ScriptWarning: AugmentationDisplayWindow 10_Paris_Club.JCDentonMale1.DeusExRootWindow8.DeusExHUD8.AugmentationDisplayWindow8 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 10_Paris_Metro
+Log: Loading: Package V_Com_Center
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package Dockyard
+Log: Loading: Package Rocket
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package MolePeople
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package CoreTexFoliage
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexSky
+Log: Loading: Package ParisCathedral_Music
+Log: Loading: Package OceanLab
+Log: Loading: Package Constructor
+Init: Shut down moving brush tracker for Level 10_Paris_Club.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music ParisClub2_Music.ParisClub2_Music
+Log: Unloading: Package HK_Signs
+Log: Unloading: Package ParisClub2_Music
+Log: Unloading: Package HK_Interior
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59254->45405; refs: 1101861
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 10_Paris_Metro.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission10'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music ParisCathedral_Music.ParisCathedral_Music
+ScriptLog: **** InitStateMachine() - 10_Paris_Metro.JCDentonMale1 started mission state machine for 10_PARIS_METRO
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save7  ,Last: -17  ,Current: 7
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 10_Paris_Metro
+Log: Unloading: Package saveInfo
+Log: Save=4.823896
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Save=133.946051
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\10_Paris_Metro.dxs'
+Init: Initialized moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission10
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: WeaponAssaultGun 10_Paris_Metro.WeaponAssaultGun2 (Function DeusEx.DeusExWeapon.DropFrom:0038) Accessed None
+ScriptWarning: WeaponCombatKnife 10_Paris_Metro.WeaponCombatKnife4 (Function DeusEx.DeusExWeapon.DropFrom:0038) Accessed None
+ScriptWarning: WeaponEMPGrenade 10_Paris_Metro.WeaponEMPGrenade0 (Function DeusEx.DeusExWeapon.DropFrom:0038) Accessed None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow9.MenuMain4.MenuUIClientWindow8.MenuUIMenuButtonWindow49
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow9.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow13
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 10_Paris_Metro.JCDentonMale1.DeusExRootWindow9.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow13
 Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
@@ -526,46 +793,47 @@ Log: Unbound to Galaxy.dll
 DevAudio: Galaxy SetViewport: NULL
 DevMusic: Unregister music: Music ParisCathedral_Music.ParisCathedral_Music
 Exit: Galaxy shut down
-Log: Unloading: Package Paris
-Log: Unloading: Package ParisCathedral_Music
-Log: Unloading: Package UNATCO
-Log: Unloading: Package CoreTexMisc
-Log: Unloading: Package Catacombs
-Log: Unloading: Package HDTPBookClosed
-Log: Unloading: Package BatteryPark
-Log: Unloading: Package area51textures
-Log: Unloading: Package Rocket
-Log: Unloading: Package CoreTexBrick
-Log: Unloading: Package CoreTexEarth
 Log: Unloading: Package CoreTexStone
-Log: Unloading: Package NewYorkCity
 Log: Unloading: Package CoreTexGlass
-Log: Unloading: Package CoreTexPaper
-Log: Unloading: Package HDTPBookOpen
-Log: Unloading: Package OceanLab
-Log: Unloading: Package 10_Paris_Metro
-Log: Unloading: Package Constructor
-Log: Unloading: Package CoreTexSky
-Log: Unloading: Package MolePeople
-Log: Unloading: Package CoreTexFoliage
-Log: Unloading: Package G_Station
-Log: Unloading: Package Dockyard
-Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package Paris
+Log: Unloading: Package UNATCO
 Log: Unloading: Package CoreTexWallObj
 Log: Unloading: Package Airfield
-Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package CoreTexPaper
 Log: Unloading: Package FreeClinic
-Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
+Log: Unloading: Package area51textures
+Log: Unloading: Package G_Station
+Log: Unloading: Package Catacombs
+Log: Unloading: Package InfoPortraits
 Log: Unloading: Package HDTPPapers
-Log: Unloading: Package DeusExConAudioMission10
+Log: Unloading: Package CoreTexFoliage
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package MolePeople
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package Rocket
+Log: Unloading: Package Constructor
+Log: Unloading: Package Dockyard
+Log: Unloading: Package OceanLab
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package ParisCathedral_Music
 Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission10
+Init: Shut down moving brush tracker for Level 10_Paris_Metro.MyLevel
 Log: Unloading: Package DeusExConText
-Log: Garbage: objects: 56501->0; refs: 1058887
+Log: Garbage: objects: 57699->0; refs: 1101861
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  22.655M /  2.559M
-Uninitialized: Peak Memory  505.246M /  494.871M
-Uninitialized: Allocs         169 Current /  10046950 Total
-Uninitialized: Log file closed, 09/18/23 18:43:24
+Uninitialized: Curr Memory  43.969M /  2.434M
+Uninitialized: Peak Memory  594.341M /  562.402M
+Uninitialized: Allocs         166 Current /  7892735 Total
+Uninitialized: Log file closed, 09/20/23 23:09:47
