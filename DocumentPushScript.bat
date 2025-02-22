@@ -44,6 +44,54 @@ git push
 
 git reset --soft origin/main
 git restore --staged *
+git add "Criterion Games"
+git commit -m "Criterion Games Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Ghost Games"
+git commit -m "Ghost Games Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Ghost of Tsushima DIRECTOR'S CUT"
+git commit -m "Ghost of Tsushima DIRECTOR'S CUT Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "My Games"
+git commit -m "My Games Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Need for Speed Heat"
+git commit -m "Need for Speed Heat Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Respawn"
+git commit -m "Respawn Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Rise of the Tomb Raider"
+git commit -m "Rise of the Tomb Raider Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
+git add "Shadow of the Tomb Raider"
+git commit -m "Shadow of the Tomb Raider Saves - %date%-%time%"
+git push
+
+git reset --soft origin/main
+git restore --staged *
 git add "DocumentPushScript.bat"
 git commit -m "Document Push Script Batch - %date%-%time%"
 git push
