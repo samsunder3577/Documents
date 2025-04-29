@@ -1,4 +1,4 @@
-Log: Log file open, 04/28/25 23:52:32
+Log: Log file open, 04/28/25 23:56:02
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,7 +16,7 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4699.958900 MHz
+Init: CPU Speed=4699.916723 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
@@ -113,4 +113,2365 @@ Log: Bound to Galaxy.dll
 Init: Galaxy is using DirectSound
 Init: Galaxy initialized
 DevAudio: Galaxy SetViewport: WindowsViewport0
-Ini
+Init: Game engine initialized
+Log: Installing hook 'Free save space fix'.
+Log: Installing hook 'Widescreen subtitle fix'.
+DevMusic: Load music: Music Title_Music.Title_Music
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow2
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenLoadGame0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=537?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package dx
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Log: Loading: Package MJ12_lab
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package CoreTexGlass
+Log: Loading: Package CoreTexStone
+Log: Loading: Package HK_Helibase
+Log: Loading: Package NewYorkCity
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package area51textures
+Log: Loading: Package HK_Interior
+Log: Loading: Package Constructor
+Log: Loading: Package CoreTexMisc
+Log: Loading: Package Paris
+Log: Loading: Package CoreTexTiles
+Log: Loading: Package OceanLab
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package Airfield
+Log: Loading: Package HK_VersaLife
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Supertanker
+Log: Loading: Package FreeClinic
+Log: Loading: Package Catacombs
+Log: Loading: Package UNATCO
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package HK_Signs
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package Rocket
+Log: Loading: Package HK_Decorations
+Log: Loading: Package SubBase
+Log: Loading: Package MJ12_Music
+Init: Shut down moving brush tracker for Level dx.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 44575->43344; refs: 984416
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Unregister music: Music Title_Music.Title_Music
+DevMusic: Load music: Music MJ12_Music.MJ12_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton43
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton49
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton43
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton49
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton43
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.PersonaScreenInventory2.PersonaClientWindow2.Window68.PersonaInventoryItemButton43
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuMain2.MenuUIClientWindow3.MenuUIMenuButtonWindow22
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow1.MenuScreenLoadGame1.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=537?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Garbage: objects: 59707->43370; refs: 984579
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to NetworkTerminalSecurity 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenHack0.PersonaButtonBarWindow9.PersonaActionButtonWindow12
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow6.ComputerSecurityCameraWindow1.ComputerSecurityCameraViewButton1
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow6.ComputerSecurityCameraWindow2.ComputerSecurityCameraViewButton2
+Log: Assigning Last Button Window to ComputerSecurityCameraViewButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIClientWindow6.ComputerSecurityCameraWindow0.ComputerSecurityCameraViewButton0
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow8
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.NetworkTerminalSecurity0.ComputerScreenSecurity0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow8
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuMain3.MenuUIClientWindow7.MenuUIMenuButtonWindow31
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuScreenSaveGame 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuScreenSaveGame0
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow10
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow10
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=3.521995
+Log: Moving '..\Save\Save0538\Save.tmp' to '..\Save\Save0538\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=72.492347
+Log: Moving '..\Save\Save0538\Save.tmp' to '..\Save\Save0538\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 538 :: 538
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuMain5.MenuUIClientWindow10.MenuUIMenuButtonWindow52
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuScreenLoadGame2.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow13
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow2.MenuScreenLoadGame2.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow13
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=538?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 59668->43405; refs: 986146
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow3.MenuMain6.MenuUIClientWindow12.MenuUIMenuButtonWindow62
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow3.MenuScreenLoadGame3.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow16
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow3.MenuScreenLoadGame3.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow16
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=538?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59652->43405; refs: 986146
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenHack1.PersonaButtonBarWindow13.PersonaActionButtonWindow17
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton4
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton5
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenSpecialOptions0.ComputerUIScaleClientWindow0.MenuUIChoiceButton6
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenSpecialOptions0.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow20
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.NetworkTerminalPersonal0.ComputerScreenSpecialOptions0.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow20
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory4.PersonaClientWindow4.Window169.PersonaInventoryItemButton83
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory4.PersonaClientWindow4.Window169.PersonaInventoryItemButton71
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory4.PersonaClientWindow4.PersonaButtonBarWindow16.PersonaActionButtonWindow19
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory4.PersonaClientWindow4.PersonaButtonBarWindow16.PersonaActionButtonWindow19
+ScriptWarning: AugmentationCannister 06_HongKong_MJ12lab.AugmentationCannister3 (Function Engine.Pickup.Pickup.Frob:016B) Accessed None
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.PersonaNormalTextWindow25
+Log: Assigning Last Button Window to Window 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.Window181
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.HUDMedBotAugItemButton0
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.HUDMedBotAugItemButton1
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.HUDMedBotAugItemButton0
+Log: Tried to remove lastbuttonwindow descendant. HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen0.PersonaClientWindow5.PersonaScrollAreaWindow16.ClipWindow26.TileWindow73.HUDMedBotAugCanWindow0.HUDMedBotAugItemButton0
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory5.PersonaClientWindow6.Window187.PersonaInventoryItemButton85
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory5.PersonaClientWindow6.PersonaButtonBarWindow22.PersonaActionButtonWindow24
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory5.PersonaClientWindow6.PersonaButtonBarWindow22.PersonaActionButtonWindow24
+ScriptWarning: AugmentationCannister 06_HongKong_MJ12lab.AugmentationCannister0 (Function Engine.Pickup.Pickup.Frob:016B) Accessed None
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen1.PersonaClientWindow7.PersonaScrollAreaWindow24.ClipWindow34.TileWindow82.HUDMedBotAugCanWindow1.PersonaNormalTextWindow35
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen1.PersonaClientWindow7.PersonaScrollAreaWindow24.ClipWindow34.TileWindow82.HUDMedBotAugCanWindow1.PersonaNormalTextWindow35
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen1.PersonaClientWindow7.PersonaScrollAreaWindow24.ClipWindow34.TileWindow82.HUDMedBotAugCanWindow1.HUDMedBotAugItemButton2
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen1.PersonaClientWindow7.PersonaScrollAreaWindow24.ClipWindow34.TileWindow82.HUDMedBotAugCanWindow1.HUDMedBotAugItemButton3
+Log: Tried to remove lastbuttonwindow descendant. HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen1.PersonaClientWindow7.PersonaScrollAreaWindow24.ClipWindow34.TileWindow82.HUDMedBotAugCanWindow1.HUDMedBotAugItemButton3
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory6.PersonaClientWindow8.Window203.PersonaInventoryItemButton102
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory6.PersonaClientWindow8.PersonaButtonBarWindow28.PersonaActionButtonWindow29
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory6.PersonaClientWindow8.PersonaButtonBarWindow28.PersonaActionButtonWindow29
+ScriptWarning: AugmentationCannister 06_HongKong_MJ12lab.AugmentationCannister1 (Function Engine.Pickup.Pickup.Frob:016B) Accessed None
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaScrollAreaWindow31.ClipWindow41.TileWindow89.HUDMedBotAugCanWindow2.PersonaNormalTextWindow45
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaScrollAreaWindow31.ClipWindow41.TileWindow89.HUDMedBotAugCanWindow2.HUDMedBotAugItemButton4
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaScrollAreaWindow31.ClipWindow41.TileWindow89.HUDMedBotAugCanWindow2.HUDMedBotAugItemButton5
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow9.PersonaScrollAreaWindow33.ScaleManagerWindow78.ScaleWindow78
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow9.PersonaScrollAreaWindow33.ScaleManagerWindow78.ScaleWindow78
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaAugmentationItemButton17
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow10.PersonaScrollAreaWindow34.ScaleManagerWindow80.ScaleWindow80
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow10.PersonaScrollAreaWindow34.ScaleManagerWindow80.ScaleWindow80
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaAugmentationItemButton21
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow11.PersonaScrollAreaWindow35.ScaleManagerWindow82.ScaleWindow82
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow11.PersonaScrollAreaWindow35.ScaleManagerWindow82.ScaleWindow82
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow11.PersonaScrollAreaWindow35.ScaleManagerWindow82.ScaleWindow82
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaAugmentationItemButton22
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow12.PersonaScrollAreaWindow36.ScaleManagerWindow84.ScaleWindow84
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaInfoWindow12.PersonaScrollAreaWindow36.ScaleManagerWindow84.ScaleWindow84
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaScrollAreaWindow31.ClipWindow41.TileWindow89.HUDMedBotAugCanWindow2.HUDMedBotAugItemButton5
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaButtonBarWindow31.PersonaActionButtonWindow32
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen2.PersonaClientWindow9.PersonaButtonBarWindow31.PersonaActionButtonWindow32
+Log: AugmentationCannister1 fell out of the world!
+ScriptWarning: AugmentationCannister 06_HongKong_MJ12lab.AugmentationCannister0 (Function Engine.Pickup.Pickup.Frob:016B) Accessed None
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.PersonaNormalTextWindow54
+Log: Assigning Last Button Window to HUDMedBotAugCanWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton35
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaInfoWindow28.PersonaScrollAreaWindow53.ScaleManagerWindow118.ScaleWindow118
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to TileWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaInfoWindow31.PersonaScrollAreaWindow56.ClipWindow66.TileWindow115
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton6
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaScrollAreaWindow39.ClipWindow49.TileWindow98.HUDMedBotAugCanWindow3.HUDMedBotAugItemButton7
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaInfoWindow34.PersonaScrollAreaWindow59.ScaleManagerWindow130.ScaleWindow130
+Log: Assigning Last Button Window to ScaleWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaInfoWindow34.PersonaScrollAreaWindow59.ScaleManagerWindow130.ScaleWindow130
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton39
+Log: Assigning Last Button Window to PersonaAugmentationOverlaysWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationOverlaysWindow3
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton40
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton38
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton33
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton34
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton36
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton37
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationBodyWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationBodyWindow3
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton35
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Tried to remove lastbuttonwindow descendant. PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen3.PersonaClientWindow10.PersonaAugmentationItemButton35
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory7.PersonaClientWindow11.Window233.PersonaInventoryItemButton119
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory7.PersonaClientWindow11.PersonaButtonBarWindow37.PersonaActionButtonWindow35
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory7.PersonaClientWindow11.PersonaButtonBarWindow37.PersonaActionButtonWindow35
+ScriptWarning: AugmentationCannister 06_HongKong_MJ12lab.AugmentationCannister3 (Function Engine.Pickup.Pickup.Frob:016B) Accessed None
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.PersonaNormalTextWindow64
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton8
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton9
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.PersonaNormalTextWindow64
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton8
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton9
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.PersonaNormalTextWindow64
+Log: Assigning Last Button Window to PersonaNormalTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.PersonaNormalTextWindow64
+Log: Assigning Last Button Window to PersonaClientBorderWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientBorderWindow12
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton8
+Log: Assigning Last Button Window to Window 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.Window241
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton48
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaInfoWindow50.PersonaScrollAreaWindow79.ClipWindow89.TileWindow139.PersonaNormalLargeTextWindow93
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaInfoWindow50.PersonaScrollAreaWindow79.ClipWindow89.TileWindow139.PersonaNormalLargeTextWindow93
+Log: Assigning Last Button Window to PersonaNormalLargeTextWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaInfoWindow50.PersonaScrollAreaWindow79.ClipWindow89.TileWindow139.PersonaNormalLargeTextWindow93
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton44
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton49
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton47
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12
+Log: Assigning Last Button Window to Window 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.Window242
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton42
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton43
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton45
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationItemButton46
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:005A) Accessed None
+ScriptWarning: HUDMedBotAddAugsScreen 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4 (Function DeusEx.HUDMedBotAddAugsScreen.SelectAugmentation:00D6) Accessed None
+Log: Assigning Last Button Window to PersonaAugmentationBodyWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaAugmentationBodyWindow4
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton9
+Log: Assigning Last Button Window to HUDMedBotAugItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12.PersonaScrollAreaWindow73.ClipWindow83.TileWindow133.HUDMedBotAugCanWindow4.HUDMedBotAugItemButton8
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.PersonaClientWindow12
+Log: Assigning Last Button Window to HUDMedBotNavBarWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.HUDMedBotNavBarWindow4
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.HUDMedBotNavBarWindow4.PersonaButtonBarWindow39.PersonaNavButtonWindow86
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotAddAugsScreen4.HUDMedBotNavBarWindow4.PersonaButtonBarWindow39.PersonaNavButtonWindow86
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory8.PersonaClientWindow13.Window251.PersonaInventoryItemButton136
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory8.PersonaClientWindow13.PersonaButtonBarWindow43.PersonaActionButtonWindow40
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory8.PersonaClientWindow13.PersonaButtonBarWindow43.PersonaActionButtonWindow40
+Log: Assigning Last Button Window to PersonaClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotHealthScreen0.PersonaClientWindow14
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotHealthScreen0.PersonaClientWindow14.PersonaButtonBarWindow46.PersonaActionButtonWindow43
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.HUDMedBotHealthScreen0.PersonaClientWindow14.PersonaButtonBarWindow46.PersonaActionButtonWindow43
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory9.PersonaNavBarWindow9.PersonaButtonBarWindow47.PersonaNavButtonWindow102
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.PersonaScreenInventory9.PersonaNavBarWindow9.PersonaButtonBarWindow47.PersonaNavButtonWindow102
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuMain7.MenuUIClientWindow15.MenuUIMenuButtonWindow71
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuScreenSaveGame1.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow23
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuScreenSaveGame1.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow23
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=3.024296
+Log: Moving '..\Save\Save0539\Save.tmp' to '..\Save\Save0539\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=75.182605
+Log: Moving '..\Save\Save0539\Save.tmp' to '..\Save\Save0539\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 539 :: 539
+ScriptWarning: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3 (Function DeusEx.DeusExPlayer.DrugEffects:0434) Accessed None
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuMain9.MenuUIClientWindow18.MenuUIMenuButtonWindow92
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuScreenLoadGame4.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow26
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow4.MenuScreenLoadGame4.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow26
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=539?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 59777->43390; refs: 983919
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuMain10.MenuUIClientWindow20.MenuUIMenuButtonWindow101
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuScreenSaveGame2.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow29
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuScreenSaveGame2.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow29
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=2.964165
+Log: Moving '..\Save\Save0540\Save.tmp' to '..\Save\Save0540\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=72.494027
+Log: Moving '..\Save\Save0540\Save.tmp' to '..\Save\Save0540\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 540 :: 540
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenHack2.PersonaButtonBarWindow53.PersonaActionButtonWindow50
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenSpecialOptions1.ComputerUIScaleClientWindow1.MenuUIChoiceButton7
+Log: Assigning Last Button Window to ComputerUIScaleClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenSpecialOptions1.ComputerUIScaleClientWindow1
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenSpecialOptions1.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow34
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenSpecialOptions1.MenuUIActionButtonBarWindow13.MenuUIActionButtonWindow34
+Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenEmail0.MenuUIClientWindow23
+Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenEmail0.MenuUIClientWindow23
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenHackAccounts0.PersonaScrollAreaWindow98.ClipWindow117.PersonaListWindow0
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenHackAccounts0.PersonaScrollAreaWindow98.ClipWindow117.PersonaListWindow0
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenHackAccounts1.PersonaScrollAreaWindow99.ClipWindow120.PersonaListWindow1
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.NetworkTerminalPersonal1.ComputerScreenHackAccounts1.PersonaScrollAreaWindow99.ClipWindow120.PersonaListWindow1
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuMain11.MenuUIClientWindow25.MenuUIMenuButtonWindow112
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuScreenLoadGame5.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow40
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow5.MenuScreenLoadGame5.MenuUIActionButtonBarWindow16.MenuUIActionButtonWindow40
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=540?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59755->43391; refs: 983325
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHack3.PersonaButtonBarWindow56.PersonaActionButtonWindow53
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenSpecialOptions2.ComputerUIScaleClientWindow2.MenuUIChoiceButton8
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenSpecialOptions2.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow45
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenSpecialOptions2.MenuUIActionButtonBarWindow18.MenuUIActionButtonWindow45
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts2.PersonaScrollAreaWindow100.ClipWindow126.PersonaListWindow2
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts2.PersonaScrollAreaWindow100.ClipWindow126.PersonaListWindow2
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts2.PersonaScrollAreaWindow100.ClipWindow126.PersonaListWindow2
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts2.PersonaScrollAreaWindow100.ClipWindow126.PersonaListWindow2
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts3.PersonaScrollAreaWindow101.ClipWindow129.PersonaListWindow3
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts3.PersonaScrollAreaWindow101.ClipWindow129.PersonaListWindow3
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts4.PersonaScrollAreaWindow102.ClipWindow132.PersonaListWindow4
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.NetworkTerminalPersonal2.ComputerScreenHackAccounts4.PersonaScrollAreaWindow102.ClipWindow132.PersonaListWindow4
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.MenuMain12.MenuUIClientWindow31.MenuUIMenuButtonWindow122
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.MenuScreenLoadGame6.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow53
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow6.MenuScreenLoadGame6.MenuUIActionButtonBarWindow22.MenuUIActionButtonWindow53
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=540?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60097->43391; refs: 983325
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow7.MenuMain13.MenuUIClientWindow33.MenuUIMenuButtonWindow132
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow7.MenuScreenLoadGame7.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow56
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow7.MenuScreenLoadGame7.MenuUIActionButtonBarWindow23.MenuUIActionButtonWindow56
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=540?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59637->43391; refs: 983325
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuMain14.MenuUIClientWindow35.MenuUIMenuButtonWindow141
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuScreenSaveGame3.MenuUIActionButtonBarWindow24.MenuUIActionButtonWindow59
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuScreenSaveGame3.MenuUIActionButtonBarWindow24.MenuUIActionButtonWindow59
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=3.053387
+Log: Moving '..\Save\Save0541\Save.tmp' to '..\Save\Save0541\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=73.505765
+Log: Moving '..\Save\Save0541\Save.tmp' to '..\Save\Save0541\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 541 :: 541
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuMain15.MenuUIClientWindow37.MenuUIMenuButtonWindow152
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuScreenLoadGame8.MenuUIClientWindow38.MenuUIScrollAreaWindow22.ClipWindow137.MenuUIListWindow17
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow8.MenuScreenLoadGame8.MenuUIClientWindow38.MenuUIScrollAreaWindow22.ClipWindow137.MenuUIListWindow17
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=540?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59624->43391; refs: 983325
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.PersonaScreenInventory10.PersonaClientWindow17.Window390.PersonaInventoryItemButton178
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.PersonaScreenInventory10.PersonaClientWindow17.Window390.PersonaInventoryItemButton178
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.PersonaScreenInventory10.PersonaClientWindow17.Window390.PersonaInventoryItemButton178
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenLogin4.MenuUIActionButtonBarWindow26
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenHack4.PersonaButtonBarWindow63.PersonaActionButtonWindow61
+Log: Assigning Last Button Window to ComputerUIScaleClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenSpecialOptions3.ComputerUIScaleClientWindow3
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenSpecialOptions3.ComputerUIScaleClientWindow3.MenuUIChoiceButton9
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenSpecialOptions3.MenuUIActionButtonBarWindow27
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenSpecialOptions3.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow67
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenSpecialOptions3.MenuUIActionButtonBarWindow27.MenuUIActionButtonWindow67
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenHackAccounts5.PersonaScrollAreaWindow106.ClipWindow145.PersonaListWindow5
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.NetworkTerminalPersonal3.ComputerScreenHackAccounts5.PersonaScrollAreaWindow106.ClipWindow145.PersonaListWindow5
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.MenuMain18.MenuUIClientWindow44.MenuUIMenuButtonWindow182
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.MenuScreenLoadGame9.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow73
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow9.MenuScreenLoadGame9.MenuUIActionButtonBarWindow30.MenuUIActionButtonWindow73
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=541?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59941->43392; refs: 983331
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuMain19.MenuUIClientWindow46.MenuUIMenuButtonWindow191
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuScreenSaveGame4.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow76
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuScreenSaveGame4.MenuUIActionButtonBarWindow31.MenuUIActionButtonWindow76
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=3.066477
+Log: Moving '..\Save\Save0542\Save.tmp' to '..\Save\Save0542\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=73.701269
+Log: Moving '..\Save\Save0542\Save.tmp' to '..\Save\Save0542\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 542 :: 542
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHack6.PersonaButtonBarWindow67.PersonaActionButtonWindow65
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenSpecialOptions4.ComputerUIScaleClientWindow4.MenuUIChoiceButton10
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenSpecialOptions4.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow83
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenSpecialOptions4.MenuUIActionButtonBarWindow34.MenuUIActionButtonWindow83
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts7.PersonaButtonBarWindow68.PersonaActionButtonWindow66
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts7.PersonaButtonBarWindow68.PersonaActionButtonWindow66
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts8.PersonaScrollAreaWindow109.ClipWindow161.PersonaListWindow8
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts8.PersonaScrollAreaWindow109.ClipWindow161.PersonaListWindow8
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts9.PersonaScrollAreaWindow110.ClipWindow164.PersonaListWindow9
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts9.PersonaScrollAreaWindow110.ClipWindow164.PersonaListWindow9
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts10.PersonaScrollAreaWindow111.ClipWindow167.PersonaListWindow10
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.NetworkTerminalPersonal5.ComputerScreenHackAccounts10.PersonaScrollAreaWindow111.ClipWindow167.PersonaListWindow10
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuMain21.MenuUIClientWindow55.MenuUIMenuButtonWindow212
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuScreenLoadGame10.MenuUIActionButtonBarWindow39.MenuUIActionButtonWindow93
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow10.MenuScreenLoadGame10.MenuUIActionButtonBarWindow39.MenuUIActionButtonWindow93
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=542?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60273->43385; refs: 983196
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow11.MenuMain22.MenuUIClientWindow57.MenuUIMenuButtonWindow222
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow11.MenuScreenLoadGame11.MenuUIActionButtonBarWindow40.MenuUIActionButtonWindow96
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow11.MenuScreenLoadGame11.MenuUIActionButtonBarWindow40.MenuUIActionButtonWindow96
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=542?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60385->43385; refs: 983196
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.MenuMain23.MenuUIClientWindow59.MenuUIMenuButtonWindow231
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.MenuScreenSaveGame5.MenuUIActionButtonBarWindow41.MenuUIActionButtonWindow99
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.MenuScreenSaveGame5.MenuUIActionButtonBarWindow41.MenuUIActionButtonWindow99
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=4.683396
+Log: Moving '..\Save\Save0543\Save.tmp' to '..\Save\Save0543\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=74.193887
+Log: Moving '..\Save\Save0543\Save.tmp' to '..\Save\Save0543\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 543 :: 543
+Log: Assigning Last Button Window to MenuMain 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.MenuMain25
+Log: Tried to remove lastbuttonwindow descendant. MenuMain 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.MenuMain25
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.NetworkTerminalSecurity1.ComputerScreenHack7.PersonaButtonBarWindow72.PersonaActionButtonWindow70
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.NetworkTerminalSecurity1.ComputerScreenHack7.PersonaButtonBarWindow72.PersonaActionButtonWindow70
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_VersaLife?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.DeusExHUD12.AugmentationDisplayWindow12 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=73.001576
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow12.DeusExHUD12.AugmentationDisplayWindow12 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package CoreTexSky
+Log: Loading: Package VersaLife_Music
+Log: Loading: Package KZTextures
+Log: Loading: Package HDTPBookClosed
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package MJ12_Music
+Log: Unloading: Package UNATCO
+Log: Unloading: Package Supertanker
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package Paris
+Log: Unloading: Package area51textures
+Log: Unloading: Package Constructor
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package Airfield
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package SubBase
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package OceanLab
+DevMusic: Unregister music: Music MJ12_Music.MJ12_Music
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 61526->41375; refs: 652927
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music VersaLife_Music.VersaLife_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save9  ,Last: -19  ,Current: 9
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Unloading: Package saveInfo
+Log: Save=4.076315
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Save=53.667914
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.ConWindowActive0.Window499
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.ConWindowActive0.Window499
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.ConWindowActive0.Window499
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.ConWindowActive0.Window499
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.HUDKeypadWindow3.HUDKeypadButton40
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.HUDKeypadWindow3.HUDKeypadButton44
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.HUDKeypadWindow3.HUDKeypadButton36
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.HUDKeypadWindow3.HUDKeypadButton41
+Log: Tried to remove lastbuttonwindow descendant. HUDKeypadButton 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.HUDKeypadWindow3.HUDKeypadButton41
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.MenuMain26.MenuUIClientWindow65.MenuUIMenuButtonWindow262
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.MenuScreenLoadGame12.MenuUIActionButtonBarWindow44.MenuUIActionButtonWindow105
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow13.MenuScreenLoadGame12.MenuUIActionButtonBarWindow44.MenuUIActionButtonWindow105
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-19?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 58309->41972; refs: 661263
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow14.MenuMain27.MenuUIClientWindow67
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow14.MenuMain27.MenuUIClientWindow67.MenuUIMenuButtonWindow272
+Log: Assigning Last Button Window to MenuScreenLoadGame 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow14.MenuScreenLoadGame13
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow14.MenuScreenLoadGame13.MenuUIActionButtonBarWindow45.MenuUIActionButtonWindow108
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow14.MenuScreenLoadGame13.MenuUIActionButtonBarWindow45.MenuUIActionButtonWindow108
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-19?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 57892->41972; refs: 661263
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_MJ12lab?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#cathedral
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow15.DeusExHUD15.AugmentationDisplayWindow15 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Save=52.499813
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#cathedral
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow15.DeusExHUD15.AugmentationDisplayWindow15 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Log: Loading: Package NewYorkCity
+Log: Loading: Package area51textures
+Log: Loading: Package Constructor
+Log: Loading: Package Paris
+Log: Loading: Package OceanLab
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package Airfield
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Supertanker
+Log: Loading: Package FreeClinic
+Log: Loading: Package UNATCO
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package MJ12_Music
+Log: Loading: Package SubBase
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package KZTextures
+Log: Unloading: Package CoreTexSky
+DevMusic: Unregister music: Music VersaLife_Music.VersaLife_Music
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package VersaLife_Music
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package HDTPBookClosed
+Log: Garbage: objects: 60523->42942; refs: 978946
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music MJ12_Music.MJ12_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save10  ,Last: -20  ,Current: 10
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=3.915662
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=77.463705
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow18.Window546.PersonaInventoryItemButton195
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow18.Window546.PersonaInventoryItemButton195
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow18.Window546.PersonaInventoryItemButton195
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.PersonaScreenInventory11.PersonaClientWindow18.Window546.PersonaInventoryItemButton195
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.MenuMain29.MenuUIClientWindow70.MenuUIMenuButtonWindow292
+Log: Assigning Last Button Window to MenuUIClientWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.MenuScreenLoadGame14.MenuUIClientWindow71
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.MenuScreenLoadGame14.MenuUIActionButtonBarWindow46.MenuUIActionButtonWindow111
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow16.MenuScreenLoadGame14.MenuUIActionButtonBarWindow46.MenuUIActionButtonWindow111
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-20?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60653->43427; refs: 986756
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow17.MenuMain30.MenuUIClientWindow72.MenuUIMenuButtonWindow302
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow17.MenuScreenLoadGame15.MenuUIActionButtonBarWindow47.MenuUIActionButtonWindow114
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow17.MenuScreenLoadGame15.MenuUIActionButtonBarWindow47.MenuUIActionButtonWindow114
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-20?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 61480->43427; refs: 986756
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory12.PersonaClientWindow19.Window579.PersonaInventoryItemButton212
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory12.PersonaClientWindow19.Window579.PersonaInventoryItemButton212
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.PersonaScreenInventory12.PersonaClientWindow19.Window579.PersonaInventoryItemButton212
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter0 (Function DeusEx.LaserEmitter.TurnOff:0059) Accessed None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter0 (Function DeusEx.LaserEmitter.TurnOff:0061) Attempt to assigned variable through None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter0 (Function DeusEx.LaserEmitter.TurnOff:006D) Accessed None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter1 (Function DeusEx.LaserEmitter.TurnOff:0059) Accessed None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter1 (Function DeusEx.LaserEmitter.TurnOff:0061) Attempt to assigned variable through None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter1 (Function DeusEx.LaserEmitter.TurnOff:006D) Accessed None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter2 (Function DeusEx.LaserEmitter.TurnOff:0059) Accessed None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter2 (Function DeusEx.LaserEmitter.TurnOff:0061) Attempt to assigned variable through None
+ScriptWarning: LaserEmitter 06_HongKong_MJ12lab.LaserEmitter2 (Function DeusEx.LaserEmitter.TurnOff:006D) Accessed None
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.HUDMedBotHealthScreen1.PersonaClientWindow20.PersonaButtonBarWindow81.PersonaActionButtonWindow79
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.HUDMedBotHealthScreen1.PersonaClientWindow20.PersonaButtonBarWindow81.PersonaActionButtonWindow79
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuMain31.MenuUIClientWindow74.MenuUIMenuButtonWindow312
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuMain31.MenuUIClientWindow74.MenuUIMenuButtonWindow311
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuScreenSaveGame6.MenuUIActionButtonBarWindow49.MenuUIActionButtonWindow120
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuScreenSaveGame6.MenuUIActionButtonBarWindow49.MenuUIActionButtonWindow120
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Unloading: Package saveInfo
+Log: Save=4.756717
+Log: Moving '..\Save\Save0544\Save.tmp' to '..\Save\Save0544\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=74.633075
+Log: Moving '..\Save\Save0544\Save.tmp' to '..\Save\Save0544\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 544 :: 544
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuMain33.MenuUIClientWindow78.MenuUIMenuButtonWindow331
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuScreenSaveGame7.MenuUIActionButtonBarWindow50.MenuUIActionButtonWindow123
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.MenuScreenSaveGame7.MenuUIActionButtonBarWindow50.MenuUIActionButtonWindow123
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package saveInfo
+Log: Save=4.736717
+Log: Moving '..\Save\Save0545\Save.tmp' to '..\Save\Save0545\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=73.709499
+Log: Moving '..\Save\Save0545\Save.tmp' to '..\Save\Save0545\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - MJ12 Lab :: 545 :: 545
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenHack8.PersonaButtonBarWindow85.PersonaActionButtonWindow82
+Log: Assigning Last Button Window to MenuUIChoiceButton 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenSpecialOptions5.ComputerUIScaleClientWindow5.MenuUIChoiceButton15
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenSpecialOptions5.MenuUIActionButtonBarWindow52.MenuUIActionButtonWindow128
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenSpecialOptions5.MenuUIActionButtonBarWindow52.MenuUIActionButtonWindow128
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenHackAccounts11.PersonaScrollAreaWindow121.ClipWindow196.PersonaListWindow11
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenHackAccounts11.PersonaScrollAreaWindow121.ClipWindow196.PersonaListWindow11
+Log: Assigning Last Button Window to PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenHackAccounts12.PersonaScrollAreaWindow122.ClipWindow199.PersonaListWindow12
+Log: Tried to remove lastbuttonwindow descendant. PersonaListWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.NetworkTerminalPersonal6.ComputerScreenHackAccounts12.PersonaScrollAreaWindow122.ClipWindow199.PersonaListWindow12
+Log: Loading: Package InfoPortraits
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_VersaLife?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.DeusExHUD18.AugmentationDisplayWindow18 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Save=72.450866
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow18.DeusExHUD18.AugmentationDisplayWindow18 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package CoreTexSky
+Log: Loading: Package VersaLife_Music
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package KZTextures
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+DevMusic: Unregister music: Music MJ12_Music.MJ12_Music
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package UNATCO
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package Supertanker
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package Airfield
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package OceanLab
+Log: Unloading: Package Paris
+Log: Unloading: Package Constructor
+Log: Unloading: Package SubBase
+Log: Unloading: Package area51textures
+Log: Unloading: Package MJ12_Music
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62004->41528; refs: 657481
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music VersaLife_Music.VersaLife_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save1  ,Last: -11  ,Current: 1
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Unloading: Package saveInfo
+Log: Save=4.355040
+Log: Moving '..\Save\Save-011\Save.tmp' to '..\Save\Save-011\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Save=54.422127
+Log: Moving '..\Save\Save-011\Save.tmp' to '..\Save\Save-011\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.ConWindowActive0.Window623
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.ConWindowActive0.Window623
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.ConWindowActive0.Window623
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.ConWindowActive0.Window623
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.MenuMain34.MenuUIClientWindow84.MenuUIMenuButtonWindow342
+Log: Assigning Last Button Window to MenuUIActionButtonBarWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.MenuScreenLoadGame17.MenuUIActionButtonBarWindow56
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.MenuScreenLoadGame17.MenuUIActionButtonBarWindow56.MenuUIActionButtonWindow136
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow19.MenuScreenLoadGame17.MenuUIActionButtonBarWindow56.MenuUIActionButtonWindow136
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-11?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 58587->42077; refs: 665592
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow20.ConWindowActive0.Window638
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow20.ConWindowActive0.Window638
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow20.MenuMain35.MenuUIClientWindow86.MenuUIMenuButtonWindow352
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow20.MenuScreenLoadGame18.MenuUIActionButtonBarWindow57.MenuUIActionButtonWindow139
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow20.MenuScreenLoadGame18.MenuUIActionButtonBarWindow57.MenuUIActionButtonWindow139
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-11?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 58246->42077; refs: 665592
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow21.ConWindowActive0.Window657
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow21.ConWindowActive0.Window657
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow21.MenuMain36.MenuUIClientWindow88.MenuUIMenuButtonWindow362
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow21.MenuScreenLoadGame19.MenuUIActionButtonBarWindow58.MenuUIActionButtonWindow142
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow21.MenuScreenLoadGame19.MenuUIActionButtonBarWindow58.MenuUIActionButtonWindow142
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-11?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 58118->42077; refs: 665592
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+Log: Loading: Package DeusExe
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.ConWindowActive0.Window672
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.ConWindowActive0.Window672
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuMain37.MenuUIClientWindow90.MenuUIMenuButtonWindow371
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenSaveGame8.MenuUIActionButtonBarWindow59.MenuUIActionButtonWindow145
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenSaveGame8.MenuUIActionButtonBarWindow59.MenuUIActionButtonWindow145
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Unloading: Package saveInfo
+Log: Save=4.092605
+Log: Moving '..\Save\Save0546\Save.tmp' to '..\Save\Save0546\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Save=53.430649
+Log: Moving '..\Save\Save0546\Save.tmp' to '..\Save\Save0546\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+ScriptLog: NEW::old: 0
+ScriptLog: MYCHK:MenuScreenSaveGame.PerformSave:: Hong Kong - VersaLife :: 546 :: 546
+ScriptWarning: WeaponPistol 06_HongKong_VersaLife.WeaponPistol15 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 06_HongKong_VersaLife.WeaponPistol11 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 06_HongKong_VersaLife.WeaponPistol14 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 06_HongKong_VersaLife.WeaponPistol15 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuMain38.MenuUIClientWindow92.MenuUIMenuButtonWindow382
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow22.MenuScreenLoadGame20.MenuUIClientWindow93.MenuUIScrollAreaWindow57.ClipWindow208.MenuUIListWindow43
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=535?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_MJ12lab.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_MJ12lab
+Log: Loading: Package NewYorkCity
+Log: Loading: Package area51textures
+Log: Loading: Package Constructor
+Log: Loading: Package Paris
+Log: Loading: Package OceanLab
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package Airfield
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Supertanker
+Log: Loading: Package FreeClinic
+Log: Loading: Package Cmd_tunnels
+Log: Loading: Package UNATCO
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package MJ12_Music
+Log: Loading: Package SubBase
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music VersaLife_Music.VersaLife_Music
+Log: Unloading: Package VersaLife_Music
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExe
+Log: Unloading: Package KZTextures
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62736->43330; refs: 984665
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_MJ12lab.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music MJ12_Music.MJ12_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_MJ12lab.JCDentonMale3 started mission state machine for 06_HONGKONG_MJ12LAB
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_VersaLife?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow23.DeusExHUD23.AugmentationDisplayWindow23 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Unloading: Package 06_HongKong_MJ12lab
+Log: Save=71.553301
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_MJ12lab.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#secret
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_MJ12lab.JCDentonMale3.DeusExRootWindow23.DeusExHUD23.AugmentationDisplayWindow23 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package CoreTexSky
+Log: Loading: Package VersaLife_Music
+Log: Loading: Package KZTextures
+Log: Loading: Package HDTPBookClosed
+Init: Shut down moving brush tracker for Level 06_HongKong_MJ12lab.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package MJ12_Music
+Log: Unloading: Package UNATCO
+DevMusic: Unregister music: Music MJ12_Music.MJ12_Music
+Log: Unloading: Package OceanLab
+Log: Unloading: Package SubBase
+Log: Unloading: Package Supertanker
+Log: Unloading: Package Paris
+Log: Unloading: Package Airfield
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package Constructor
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package area51textures
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package Cmd_tunnels
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60457->41375; refs: 652927
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music VersaLife_Music.VersaLife_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save9  ,Last: -19  ,Current: 9
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Unloading: Package saveInfo
+Log: Save=4.273828
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Save=51.723389
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow24.MenuMain39.MenuUIClientWindow94.MenuUIMenuButtonWindow392
+Log: Assigning Last Button Window to MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow24.MenuScreenLoadGame21.MenuUIClientWindow95.MenuUIScrollAreaWindow58.ClipWindow213.MenuUIListWindow44
+Log: Tried to remove lastbuttonwindow descendant. MenuUIListWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow24.MenuScreenLoadGame21.MenuUIClientWindow95.MenuUIScrollAreaWindow58.ClipWindow213.MenuUIListWindow44
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=546?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_VersaLife.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_VersaLife
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59857->42083; refs: 665508
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_VersaLife.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_VersaLife.JCDentonMale2 started mission state machine for 06_HONGKONG_VERSALIFE
+ScriptWarning: WeaponPistol 06_HongKong_VersaLife.WeaponPistol11 (State DeusEx.DeusExWeapon.Reload:0153) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Market?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow25.DeusExHUD25.AugmentationDisplayWindow25 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Unloading: Package 06_HongKong_VersaLife
+Log: Save=53.432720
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_VersaLife.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Market.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_VersaLife.JCDentonMale2.DeusExRootWindow25.DeusExHUD25.AugmentationDisplayWindow25 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Market
+Log: Loading: Package NewYorkCity
+Log: Loading: Package UNATCO
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package CoreTexStucco
+Log: Loading: Package Supertanker
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package G_Station
+Log: Loading: Package Tester
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package area51textures
+Log: Loading: Package HongKong_Music
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package FreeClinic
+Init: Shut down moving brush tracker for Level 06_HongKong_VersaLife.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package VersaLife_Music
+DevMusic: Unregister music: Music VersaLife_Music.VersaLife_Music
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 61372->43757; refs: 750004
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Market.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKong_Music.HongKong_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Market.JCDentonMale1 started mission state machine for 06_HONGKONG_WANCHAI_MARKET
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save2  ,Last: -12  ,Current: 2
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Market
+Log: Unloading: Package saveInfo
+Log: Save=4.588674
+Log: Moving '..\Save\Save-012\Save.tmp' to '..\Save\Save-012\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=81.903724
+Log: Moving '..\Save\Save-012\Save.tmp' to '..\Save\Save-012\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.ConWindowActive0.Window754
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_TongBase?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#lab
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.DeusExHUD26.AugmentationDisplayWindow26 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=82.102908
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_TongBase.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#lab
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow26.DeusExHUD26.AugmentationDisplayWindow26 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_TongBase
+Log: Loading: Package Paris
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Dockyard
+Log: Loading: Package Airfield
+Log: Loading: Package OceanLab
+Log: Loading: Package Mobile_Camp
+Log: Loading: Package Training_Music
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package CoreTexPaper
+DevMusic: Unregister music: Music HongKong_Music.HongKong_Music
+Log: Unloading: Package DeusExe
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package KZTextures
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package G_Station
+Log: Unloading: Package Tester
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package CoreTexStucco
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package HongKong_Music
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62032->41385; refs: 846004
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_TongBase.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music Training_Music.Training_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_TongBase.JCDentonMale1 started mission state machine for 06_HONGKONG_TONGBASE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save3  ,Last: -13  ,Current: 3
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_TongBase
+Log: Unloading: Package saveInfo
+Log: Save=4.161487
+Log: Moving '..\Save\Save-013\Save.tmp' to '..\Save\Save-013\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+Log: Save=41.706062
+Log: Moving '..\Save\Save-013\Save.tmp' to '..\Save\Save-013\06_HongKong_TongBase.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.ConWindowActive0.Window770
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.HUDMedBotHealthScreen2.PersonaClientWindow24.PersonaButtonBarWindow97.PersonaActionButtonWindow90
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.HUDMedBotHealthScreen2.PersonaClientWindow24.PersonaButtonBarWindow97.PersonaActionButtonWindow90
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Market?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#compound
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.DeusExHUD27.AugmentationDisplayWindow27 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+Log: Save=41.477328
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_TongBase.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Market.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#compound
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_TongBase.JCDentonMale1.DeusExRootWindow27.DeusExHUD27.AugmentationDisplayWindow27 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Market
+Log: Loading: Package KZTextures
+Log: Loading: Package CoreTexPaper
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package CoreTexStucco
+Log: Loading: Package G_Station
+Log: Loading: Package CoreTexSky
+Log: Loading: Package Tester
+Log: Loading: Package HDTPPapers
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package HongKong_Music
+Log: Loading: Package FreeClinic
+Init: Shut down moving brush tracker for Level 06_HongKong_TongBase.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music Training_Music.Training_Music
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package OceanLab
+Log: Unloading: Package Paris
+Log: Unloading: Package Training_Music
+Log: Unloading: Package Mobile_Camp
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package Dockyard
+Log: Unloading: Package Airfield
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62054->43927; refs: 752865
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Market.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKong_Music.HongKong_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Market.JCDentonMale1 started mission state machine for 06_HONGKONG_WANCHAI_MARKET
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save4  ,Last: -14  ,Current: 4
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Market
+Log: Unloading: Package saveInfo
+Log: Save=4.777527
+Log: Moving '..\Save\Save-014\Save.tmp' to '..\Save\Save-014\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=85.280304
+Log: Moving '..\Save\Save-014\Save.tmp' to '..\Save\Save-014\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Underworld?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market03
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow28.DeusExHUD28.AugmentationDisplayWindow28 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=81.976885
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Underworld.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market03
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow28.DeusExHUD28.AugmentationDisplayWindow28 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Underworld
+Log: Loading: Package Airfield
+Log: Loading: Package Dockyard
+Log: Loading: Package Paris
+Log: Loading: Package BatteryPark
+Log: Loading: Package HKClub2_Music
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Rocket
+Log: Unloading: Package HK_Helibase
+Log: Unloading: Package Catacombs
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package CoreTexWallObj
+DevMusic: Unregister music: Music HongKong_Music.HongKong_Music
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package HongKong_Music
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package Supertanker
+Log: Unloading: Package Tester
+Log: Unloading: Package G_Station
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62879->42012; refs: 843389
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Underworld.JCDentonMale4
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HKClub2_Music.HKClub2_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Underworld.JCDentonMale4 started mission state machine for 06_HONGKONG_WANCHAI_UNDERWORLD
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save5  ,Last: -15  ,Current: 5
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Underworld
+Log: Unloading: Package saveInfo
+Log: Save=4.315109
+Log: Moving '..\Save\Save-015\Save.tmp' to '..\Save\Save-015\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: Save=69.570825
+Log: Moving '..\Save\Save-015\Save.tmp' to '..\Save\Save-015\06_HongKong_WanChai_Underworld.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.ConWindowActive0.Window812
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.ConWindowActive0.Window812
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.PersonaScreenInventory13.PersonaClientWindow25.Window816.PersonaInventoryItemButton231
+ScriptWarning: WeaponShuriken 06_HongKong_WanChai_Underworld.WeaponShuriken12 (Function DeusEx.DeusExWeapon.UpdateInfo:155E) Accessed None
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.PersonaScreenInventory13.PersonaClientWindow25.Window816.PersonaInventoryItemButton231
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.MenuMain40.MenuUIClientWindow96.MenuUIMenuButtonWindow402
+Log: Assigning Last Button Window to MenuScreenLoadGame 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.MenuScreenLoadGame22
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.MenuScreenLoadGame22.MenuUIActionButtonBarWindow62.MenuUIActionButtonWindow154
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow29.MenuScreenLoadGame22.MenuUIActionButtonBarWindow62.MenuUIActionButtonWindow154
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=-15?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Underworld.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Underworld
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExe
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 59188->42707; refs: 851104
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Underworld.JCDentonMale4
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Underworld.JCDentonMale4 started mission state machine for 06_HONGKONG_WANCHAI_UNDERWORLD
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory15.PersonaClientWindow27.Window840.PersonaInventoryItemButton256
+Log: Assigning Last Button Window to PersonaActionButtonWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory15.PersonaClientWindow27.PersonaButtonBarWindow107.PersonaActionButtonWindow101
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory15.PersonaClientWindow27.PersonaButtonBarWindow107.PersonaActionButtonWindow101
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Loading: Package DeusExe
+Log: Assigning Last Button Window to ConWindowActive2 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.ConWindowActive0
+Log: Assigning Last Button Window to ConWindowActive2 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.ConWindowActive0
+Log: Tried to remove lastbuttonwindow descendant. ConWindowActive2 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.ConWindowActive0
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory16.PersonaClientWindow28.Window848.PersonaInventoryItemButton272
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory16.PersonaClientWindow28.Window848.PersonaInventoryItemButton272
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory16.PersonaClientWindow28.Window848.PersonaInventoryItemButton272
+Log: Assigning Last Button Window to Window 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory16.PersonaClientWindow28.Window848
+Log: Tried to remove lastbuttonwindow descendant. Window 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.PersonaScreenInventory16.PersonaClientWindow28.Window848
+ScriptWarning: JCDentonMale 06_HongKong_WanChai_Underworld.JCDentonMale4 (Function DeusEx.DeusExPlayer.DrugEffects:0434) Accessed None
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Market?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#canal03
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.DeusExHUD30.AugmentationDisplayWindow30 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: Unloading: Package 06_HongKong_WanChai_Underworld
+Log: Save=63.888895
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Underworld.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Market.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#canal03
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Underworld.JCDentonMale4.DeusExRootWindow30.DeusExHUD30.AugmentationDisplayWindow30 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Market
+Log: Loading: Package HK_Helibase
+Log: Loading: Package Catacombs
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package Rocket
+Log: Loading: Package Supertanker
+Log: Loading: Package G_Station
+Log: Loading: Package Tester
+Log: Loading: Package HDTPBookOpen
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package HongKong_Music
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package FreeClinic
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Underworld.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Dockyard
+DevMusic: Unregister music: Music HKClub2_Music.HKClub2_Music
+Log: Unloading: Package HKClub2_Music
+Log: Unloading: Package Airfield
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package Paris
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package DeusExe
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 62418->44051; refs: 757990
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Market.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKong_Music.HongKong_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Market.JCDentonMale1 started mission state machine for 06_HONGKONG_WANCHAI_MARKET
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save6  ,Last: -16  ,Current: 6
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Market
+Log: Unloading: Package saveInfo
+Log: Save=4.956891
+Log: Moving '..\Save\Save-016\Save.tmp' to '..\Save\Save-016\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=85.546109
+Log: Moving '..\Save\Save-016\Save.tmp' to '..\Save\Save-016\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Canal?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market01
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow31.DeusExHUD31.AugmentationDisplayWindow31 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=83.668625
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Canal.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market01
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow31.DeusExHUD31.AugmentationDisplayWindow31 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Canal
+Log: Loading: Package Constructor
+Log: Loading: Package BatteryPark
+Log: Loading: Package MolePeople
+Log: Loading: Package Paris
+Log: Loading: Package Dockyard
+Log: Loading: Package HongKongCanal_Music
+Log: Loading: Package Mobile_Camp
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package HK_VersaLife
+Log: Unloading: Package Catacombs
+DevMusic: Unregister music: Music HongKong_Music.HongKong_Music
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package HongKong_Music
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package area51textures
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package Tester
+Log: Unloading: Package CoreTexStucco
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 63700->42908; refs: 771804
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Canal.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKongCanal_Music.HongKongCanal_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Canal.JCDentonMale2 started mission state machine for 06_HONGKONG_WANCHAI_CANAL
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save7  ,Last: -17  ,Current: 7
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Canal
+Log: Unloading: Package saveInfo
+Log: Save=3.113008
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+Log: Save=92.388160
+Log: Moving '..\Save\Save-017\Save.tmp' to '..\Save\Save-017\06_HongKong_WanChai_Canal.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+Log: Loading: Package DeusExConAudioHK_Shared
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Market?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#canal01
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Canal.JCDentonMale2.DeusExRootWindow32.DeusExHUD32.AugmentationDisplayWindow32 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+Log: Save=93.713463
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Canal.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Market.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#canal01
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Canal.JCDentonMale2.DeusExRootWindow32.DeusExHUD32.AugmentationDisplayWindow32 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Market
+Log: Loading: Package HK_VersaLife
+Log: Loading: Package Catacombs
+Log: Loading: Package CoreTexStucco
+Log: Loading: Package Tester
+Log: Loading: Package HDTPPapers
+Log: Loading: Package area51textures
+Log: Loading: Package HDTPBookClosed
+Log: Loading: Package HongKong_Music
+Log: Loading: Package FreeClinic
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Canal.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+DevMusic: Unregister music: Music HongKongCanal_Music.HongKongCanal_Music
+Log: Unloading: Package DeusExConAudioHK_Shared
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package Constructor
+Log: Unloading: Package Mobile_Camp
+Log: Unloading: Package HongKongCanal_Music
+Log: Unloading: Package Dockyard
+Log: Unloading: Package Paris
+Log: Unloading: Package MolePeople
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 63353->44154; refs: 762505
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Market.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKong_Music.HongKong_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Market.JCDentonMale1 started mission state machine for 06_HONGKONG_WANCHAI_MARKET
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save8  ,Last: -18  ,Current: 8
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Market
+Log: Unloading: Package saveInfo
+Log: Save=4.671466
+Log: Moving '..\Save\Save-018\Save.tmp' to '..\Save\Save-018\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=87.911570
+Log: Moving '..\Save\Save-018\Save.tmp' to '..\Save\Save-018\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_WanChai_Garage?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market04
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow33.DeusExHUD33.AugmentationDisplayWindow33 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: Save=88.715635
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Market.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Log: LoadMap: ..\Save\Current\06_HongKong_WanChai_Garage.dxs?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#market04
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Market.JCDentonMale1.DeusExRootWindow33.DeusExHUD33.AugmentationDisplayWindow33 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_WanChai_Garage
+Log: Loading: Package Paris
+Log: Loading: Package HongKongHelipad_Music
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Market.MyLevel
+Warning: Type mismatch in Region of GameReplicationInfo: file 10, class 2
+Warning: Skipping 6 bytes of type 10
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package HK_Decorations
+Log: Unloading: Package CoreTexStone
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package CoreTexWallObj
+DevMusic: Unregister music: Music HongKong_Music.HongKong_Music
+Log: Unloading: Package G_Station
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package Supertanker
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package UNATCO
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package HongKong_Music
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package area51textures
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package HDTPBookOpen
+Log: Unloading: Package Tester
+Log: Unloading: Package CoreTexStucco
+Log: Unloading: Package Catacombs
+Log: Unloading: Package HK_VersaLife
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 60888->39299; refs: 508642
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_WanChai_Garage.JCDentonMale3
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+DevMusic: Load music: Music HongKongHelipad_Music.HongKongHelipad_Music
+ScriptLog: **** InitStateMachine() - 06_HongKong_WanChai_Garage.JCDentonMale3 started mission state machine for 06_HONGKONG_WANCHAI_GARAGE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save9  ,Last: -19  ,Current: 9
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_WanChai_Garage
+Log: Unloading: Package saveInfo
+Log: Save=4.076715
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+Log: Save=36.427828
+Log: Moving '..\Save\Save-019\Save.tmp' to '..\Save\Save-019\06_HongKong_WanChai_Garage.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+ScriptLog: ===>DeusExCarcass:item=06_HongKong_WanChai_Garage.WeaponSword23
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptWarning: TriadRedArrowCarcass 06_HongKong_WanChai_Garage.TriadRedArrowCarcass1 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: DONE ITERATE
+ScriptLog: ===>DeusExCarcass:item=06_HongKong_WanChai_Garage.WeaponSword27
+ScriptLog: 2nd WEAPON TEST
+ScriptLog: found?  None
+ScriptWarning: TriadRedArrowCarcass 06_HongKong_WanChai_Garage.TriadRedArrowCarcass2 (Function DeusEx.DeusExCarcass.Frob:0AE9) Accessed None
+ScriptLog: 2nd WEAP is DUP?:- None  Weapon(item).AmmoType= None  Weapon(item).AmmoType.AmmoAmount= 0
+ScriptLog: handled pickup  True
+ScriptLog: DONE ITERATE
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: Viewport WindowsViewport0: WM_DisplayChange
+Log: AttemptFullscreen
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 11 renderer.
+Log: Initializing Direct3D.
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory17.PersonaNavBarWindow21.PersonaButtonBarWindow111.PersonaNavButtonWindow214
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory17.PersonaNavBarWindow21.PersonaButtonBarWindow111.PersonaNavButtonWindow214
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenImages0.PersonaNavBarWindow22.PersonaButtonBarWindow114.PersonaNavButtonWindow222
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenImages0.PersonaNavBarWindow22.PersonaButtonBarWindow114.PersonaNavButtonWindow222
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenLogs0.PersonaNavBarWindow23.PersonaButtonBarWindow117.PersonaNavButtonWindow232
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenLogs0.PersonaNavBarWindow23.PersonaButtonBarWindow117.PersonaNavButtonWindow232
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenImages1.PersonaNavBarWindow24.PersonaButtonBarWindow120.PersonaNavButtonWindow242
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenImages1.PersonaNavBarWindow24.PersonaButtonBarWindow120.PersonaNavButtonWindow242
+Log: Assigning Last Button Window to PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenConversations0.PersonaNavBarWindow25.PersonaButtonBarWindow123.PersonaNavButtonWindow252
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenConversations0.PersonaNavBarWindow25.PersonaButtonBarWindow123.PersonaNavButtonWindow252
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.HUDKeypadWindow5.HUDKeypadButton64
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.HUDKeypadWindow5.HUDKeypadButton65
+Log: Assigning Last Button Window to HUDKeypadButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.HUDKeypadWindow5.HUDKeypadButton64
+Log: Tried to remove lastbuttonwindow descendant. HUDKeypadButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.HUDKeypadWindow5.HUDKeypadButton64
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory18.PersonaClientWindow35.Window918.PersonaInventoryItemButton310
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory18.PersonaClientWindow35.Window918.PersonaInventoryItemButton310
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory18.PersonaClientWindow35.Window918.PersonaInventoryItemButton308
+Log: Assigning Last Button Window to PersonaInventoryItemButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory18.PersonaClientWindow35.Window918.PersonaInventoryItemButton308
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.PersonaScreenInventory18.PersonaClientWindow35.Window918.PersonaInventoryItemButton308
+Log: Export travel for: Player
+Log: Browse: 06_HongKong_Storage?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#BackDoor
+Log: Doing load, not loadgame
+Log: Current mission number is 6, next is 6
+Log: Attempting to get player
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.DeusExHUD34.AugmentationDisplayWindow34 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+Log: Save=25.144938
+Log: Moving '..\Save\Current\Save.tmp' to '..\Save\Current\06_HongKong_WanChai_Garage.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+Log: LoadMap: 06_HongKong_Storage?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000#BackDoor
+ScriptWarning: AugmentationDisplayWindow 06_HongKong_WanChai_Garage.JCDentonMale3.DeusExRootWindow34.DeusExHUD34.AugmentationDisplayWindow34 (Function DeusEx.AugmentationDisplayWindow.DrawTargetAugmentation:0063) Accessed None
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 06_HongKong_Storage
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package OceanLab
+Log: Loading: Package area51textures
+Log: Loading: Package NewYorkCity
+Log: Loading: Package Catacombs
+Log: Loading: Package Constructor
+Log: Loading: Package Dockyard
+Log: Loading: Package Supertanker
+Log: Loading: Package UNATCO
+Log: Loading: Package G_Station
+Init: Shut down moving brush tracker for Level 06_HongKong_WanChai_Garage.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package KZTextures
+Log: Unloading: Package Paris
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 56712->40165; refs: 1197323
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 06_HongKong_Storage.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale?Difficulty=1.500000
+ScriptLog: Base Mutator is 06_HongKong_Storage.Mutator2
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission06'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+ScriptLog: MYCHK:: 8 :: -19
+ScriptLog: Lean Keys UNDEFINED, disabling tiptoes
+Log: Possessed PlayerPawn: JCDentonMale 06_HongKong_Storage.JCDentonMale1
+ScriptLog: All inventory from Player is accepted
+ScriptLog: bHardCoreMode = False
+ScriptLog: CombatDifficulty = 1.500000
+Init: Initialized moving brush tracker for Level 06_HongKong_Storage.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 06_HongKong_Storage.JCDentonMale1 started mission state machine for 06_HONGKONG_STORAGE
+ScriptLog: MYCHK:DX_QuickSave: , Auto Save10  ,Last: -20  ,Current: 10
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 06_HongKong_Storage
+Log: Unloading: Package saveInfo
+Log: Save=4.493002
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 06_HongKong_Storage.MyLevel
+Log: Save=63.733312
+Log: Moving '..\Save\Save-020\Save.tmp' to '..\Save\Save-020\06_HongKong_Storage.dxs'
+Init: Initialized moving brush tracker for Level 06_HongKong_Storage.MyLevel
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuMain43.MenuUIClientWindow100.MenuUIMenuButtonWindow432
+Log: Assigning Last Button Window to MenuScreenLoadGame 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuScreenLoadGame23
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuScreenLoadGame23.MenuUIActionButtonBarWindow63.MenuUIActionButtonWindow156
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuScreenLoadGame23.MenuUIActionButtonBarWindow63.MenuUIActionButtonWindow156
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuMain44.MenuUIClientWindow102.MenuUIMenuButtonWindow449
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow64.MenuUIActionButtonWindow160
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 06_HongKong_Storage.JCDentonMale1.DeusExRootWindow35.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow64.MenuUIActionButtonWindow160
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Extension.dll
+Log: Unbound to Engine.dll
+Log: Unbound to DeusEx.dll
+Log: Unbound to ConSys.dll
+Log: Unloading: Package DeusEx
+Log: Unloading: Package Core
+Log: Unloading: Package Engine
+Log: Unloading: Package Extension
+Log: Unloading: Package DeusExCharacters
+Log: Unloading: Package DeusExUI
+Log: Unloading: Package DeusExItems
+Log: Unloading: Package Effects
+Log: Unbound to Fire.dll
+Log: Unloading: Package Fire
+Log: Unloading: Package ConSys
+Log: Unloading: Package DeusExSounds
+Log: Unloading: Package GMDXSFX
+Log: Unloading: Package HDTPItems
+Log: Unloading: Package DeusExDeco
+Log: Unloading: Package HDTPanim
+Log: Unloading: Package HDTPDecos
+Log: Unloading: Package HDTPCharacters
+Log: Unloading: Package UBrowser
+Log: Unloading: Package UWindow
+Log: Unbound to IpDrv.dll
+Log: Unloading: Package IpDrv
+Log: Unbound to DeusExText.dll
+Log: Unloading: Package DeusExText
+Log: Unloading: Package GameMedia
+Log: Unloading: Package GameEffects
+Log: Unloading: Package CoreTexWater
+Log: Unloading: Package CoreTexTextile
+Log: Unloading: Package CoreTexDetail
+Log: Unloading: Package Ambient
+Log: Unloading: Package MoverSFX
+Log: Unloading: Package GMDXUI
+Log: Unloading: Package FOMOD
+Log: Unloading: Package IpServer
+Log: Unloading: Package MPCharacters
+Log: Unloading: Package ShifterEX
+Log: Unloading: Package CoreTexWood
+Log: Unloading: Package Extras
+Log: Unloading: Package CoreTexMetal
+Log: Unloading: Package NYCBar
+Log: Unloading: Package CoreTexConcrete
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: DirectDraw RestoreDisplayMode: DDERR_NOEXCLUSIVEMODE
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Rendering shut down
+Log: Unloading: Package Entry
+Log: Unloading: Package Title_Music
+Log: Direct3D 11 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Unbound to D3D11Drv.dll
+Log: Unbound to Galaxy.dll
+DevAudio: Galaxy SetViewport: NULL
+DevMusic: Unregister music: Music HongKongHelipad_Music.HongKongHelipad_Music
+Exit: Galaxy shut down
+Log: Unloading: Package CoreTexGlass
+Log: Unloading: Package HK_Signs
+Log: Unloading: Package MJ12_lab
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package HK_Interior
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package HK_Helibase
+Log: Unloading: Package CoreTexPaper
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package HongKongHelipad_Music
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package UNATCO
+Log: Unloading: Package Rocket
+Log: Unloading: Package area51textures
+Log: Unloading: Package Dockyard
+Log: Unloading: Package Catacombs
+Log: Unloading: Package OceanLab
+Log: Unloading: Package G_Station
+Log: Unloading: Package Supertanker
+Log: Unloading: Package Constructor
+Log: Unloading: Package NewYorkCity
+Init: Shut down moving brush tracker for Level 06_HongKong_Storage.MyLevel
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 57519->0; refs: 1197323
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  119.303M /  2.371M
+Uninitialized: Peak Memory  711.991M /  646.367M
+Uninitialized: Allocs         172 Current /  224400987 Total
+Uninitialized: Log file closed, 04/29/25 01:17:56
