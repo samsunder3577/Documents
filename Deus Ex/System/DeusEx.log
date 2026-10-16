@@ -1,4 +1,4 @@
-Log: Log file open, 10/15/26 02:48:43
+Log: Log file open, 10/15/26 23:39:58
 Init: Name subsystem initialized
 Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
 Init: Version: 1100
@@ -16,24 +16,1062 @@ Init: Computer: TITANIUM
 Init: User: samsu
 Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
 Init: Working set: 32000 / 159000
-Init: CPU Speed=4699.897799 MHz
+Init: CPU Speed=4699.951797 MHz
 Init: CPU Page size=4096, Processors=12
 Init: CPU Detected: Unknown processor (AuthenticAMD)
 Init: CPU Features: CMov FPU RDTSC PAE MMX KNI
 Log: Deus Exe: version 8.1.0.0.
 Log: Deus Exe: Using User Documents File Manager.
+Log: Bound to DeusEx.dll
+Log: Bound to ConSys.dll
+Log: Loading: Package DeusEx
+Log: Loading: Package Core
+Log: Loading: Package Engine
+Log: Loading: Package Extension
+Log: Loading: Package DeusExCharacters
+Log: Loading: Package DeusExItems
+Log: Loading: Package Effects
+Log: Bound to Fire.dll
+Log: Loading: Package Fire
+Log: Loading: Package DeusExUI
+Log: Loading: Package ConSys
+Log: Loading: Package DeusExSounds
+Log: Loading: Package GMDXSFX
+Log: Loading: Package DeusExDeco
+Log: Loading: Package RSDCrap
+Log: Loading: Package UBrowser
+Log: Loading: Package UWindow
+Log: Bound to IpDrv.dll
+Log: Loading: Package IpDrv
+Log: Bound to DeusExText.dll
+Log: Loading: Package DeusExText
+Log: Loading: Package GameMedia
+Log: Loading: Package GameEffects
+Log: Loading: Package CoreTexWater
+Log: Loading: Package CoreTexTextile
+Log: Loading: Package CoreTexDetail
+Log: Loading: Package Ambient
+Log: Loading: Package MoverSFX
+Log: Loading: Package GMDXUI
+Log: Loading: Package IpServer
+Log: Loading: Package Extras
+Log: Loading: Package CoreTexMetal
+Log: Loading: Package MPCharacters
+Log: Loading: Package ShifterEX
+Log: Bound to DXGNative.dll
+Log: Loading: Package DXGNative
+Log: Loading: Package CoreTexWood
+Log: Loading: Package NYCBar
+Log: Loading: Package CoreTexConcrete
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Mouse info: 6 10 1
+Init: Initializing DirectDraw
+Log: DirectDraw drivers:
+Log:    display (Primary Display Driver)
+Init: DirectDraw initialized successfully
+Init: Client initialized
+Log: Bound to RenderExt.dll
+Log: Bound to Render.dll
+Init: Lighting subsystem initialized
+Init: Extended Rendering initialized.
+Log: LoadMap: entry.dx
+Log: Loading: Package Entry
+Log: Loading: Package Title_Music
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+Log: Browse: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is -1, next is -1
+Log: LoadMap: DX.dx?Name=Player?Class=DeusEx.JCDentonMale
+Log: Loading: Package dx
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 45868->45868; refs: 578713
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level dx.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is dx.Mutator1
+Init: Initialized moving brush tracker for Level dx.MyLevel
+ScriptLog: Login: Player
+Init: *** DEUS EX VERSION Mon Mar 19 12:06:14 2001 v1.112fm ***
+Log: Loading: Package HDTPanim
+Log: Loading: Package Precipitation
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem dx.JCDentonMale0.DeusExRootWindow0.DeusExHUD0.HUDRadialMenu0.HUDRadialMenuItem0)
+Log: Possessed PlayerPawn: JCDentonMale dx.JCDentonMale0
+ScriptLog: All inventory from Player is accepted
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Init: Input system initialized for WindowsViewport0
+Log: Opened viewport
+Log: Bound to D3D10Drv.dll
+Log: Initializing Direct3D 10 renderer.
+Log: Initializing Direct3D.
+Log: Bound to Galaxy.dll
+Init: Galaxy is using DirectSound
+Init: Galaxy initialized
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Init: Game engine initialized
+Log: Installing hook 'Free save space fix'.
+Log: Installing hook 'Widescreen subtitle fix'.
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+DevMusic: Load music: Music Title_Music.Title_Music
+Log: Loading: Package Augmentique
+Log: WM_KILLFOCUS
+Log: EndFullscreen
+Log: Viewport WindowsViewport0: WM_DisplayChange
+Log: AttemptFullscreen
+Log: Direct3D 10 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Initializing Direct3D 10 renderer.
+Log: Initializing Direct3D.
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow3
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuSettings0.MenuUIClientWindow1.MenuUIMenuButtonWindow15
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIInfoButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIClientWindow2.MenuChoice_MenuColor0.MenuUIInfoButtonWindow1
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenAdjustColors0.MenuUIActionButtonBarWindow0.MenuUIActionButtonWindow1
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuSettings0.MenuUIClientWindow1.MenuUIMenuButtonWindow17
+Log: Tried to remove lastbuttonwindow descendant. MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuSettings0.MenuUIClientWindow1.MenuUIMenuButtonWindow17
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuMain0.MenuUIClientWindow0.MenuUIMenuButtonWindow0
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuUIMessageBoxWindow0.MenuUIActionButtonBarWindow1.MenuUIActionButtonWindow4
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuSelectDifficulty0.MenuUIClientWindow3.MenuUIMenuButtonWindow19
+ScriptLog: lstItems is none!
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenPlaythroughModifiers0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow13
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenPlaythroughModifiers0.MenuUIActionButtonBarWindow3.MenuUIActionButtonWindow13
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to ButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.ButtonWindow2
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+ScriptWarning: SkillMedicine dx.SkillMedicine1 (Function DeusEx.SkillMedicine.IncLevel:000C) Accessed None
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIListWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIClientWindow5.MenuUIListWindow0
+Log: Assigning Last Button Window to MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow6
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow dx.JCDentonMale0.DeusExRootWindow0.MenuScreenNewGame0.MenuUIActionButtonBarWindow2.MenuUIActionButtonWindow6
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Log: Export travel for: Player
+Log: Browse: 00_Intro?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is -2, next is 0
+Log: Attempting to get player
+Log: Unloading: Package dx
+Log: LoadMap: 00_Intro?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 00_Intro
+Log: Loading: Package Catacombs
+Log: Loading: Package UNATCO
+Log: Loading: Package Paris
+Log: Loading: Package Airfield
+Log: Loading: Package NewYorkCity
+Log: Loading: Package area51textures
+Log: Loading: Package CoreTexMisc
+Log: Loading: Package CoreTexGlass
+Log: Loading: Package CoreTexStone
+Log: Loading: Package FreeClinic
+Log: Loading: Package HK_MJ12Lab
+Log: Loading: Package CoreTexEarth
+Log: Loading: Package MJ12_lab
+Log: Loading: Package Rocket
+Log: Loading: Package HK_BuildingExt
+Log: Loading: Package CoreTexCeramic
+Log: Loading: Package CoreTexSky
+Log: Loading: Package CoreTexTiles
+Log: Loading: Package BatteryPark
+Log: Loading: Package G_Station
+Log: Loading: Package CoreTexWallObj
+Log: Loading: Package Intro_Music
+Init: Shut down moving brush tracker for Level dx.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package HDTPanim
+Log: Unloading: Package Augmentique
+Log: Unloading: Package DXFonts
+Log: Garbage: objects: 51610->48704; refs: 704393
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 00_Intro.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is 00_Intro.Mutator2
+Log: Loading: Package HDTPanim
+Log: Loading: Package HDTPBookClosed
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.MissionIntro'
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 00_Intro.JCDentonMale1.DeusExRootWindow1.DeusExHUD1.HUDRadialMenu1.HUDRadialMenuItem1)
+Log: Possessed PlayerPawn: JCDentonMale 00_Intro.JCDentonMale1
+Log: Loading: Package Augmentique
+ScriptLog: All inventory from Player is accepted
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Init: Initialized moving brush tracker for Level 00_Intro.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+ScriptLog: AUGMENTIQUE: Destroying outfitspawner 00_Intro.OutfitSpawner2 with invalid ID kintsugi
+ScriptLog: AUGMENTIQUE: Destroying outfitspawner 00_Intro.OutfitSpawner3 with invalid ID greasel
+DevMusic: Unregister music: Music Title_Music.Title_Music
+DevMusic: Load music: Music Intro_Music.Intro_Music
+ScriptLog: **** InitStateMachine() - 00_Intro.JCDentonMale1 started mission state machine for INTRO
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Log: Loading: Package DeusExConAudioIntro
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01A2) Accessed None
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01AA) Accessed None
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01C2) Accessed None
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01A2) Accessed None
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01AA) Accessed None
+ScriptWarning: MJ12Troop 00_Intro.MJ12Troop2 (Function DeusEx.ScriptedPawn.HandleDamage:01C2) Accessed None
+ScriptLog: Player is: 00_Intro.JCDentonMale1
+ScriptWarning: JCDentonMale 00_Intro.JCDentonMale1 (Function Engine.Pawn.AddInventory:0098) Accessed None
+ScriptWarning: JCDentonMale 00_Intro.JCDentonMale1 (Function Engine.Pawn.AddInventory:0098) Accessed None
+Log: Unloading: Package 00_Intro
+Log: Export travel for: Player
+Log: Browse: 01_NYC_UNATCOIsland?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing load, not loadgame
+Log: Current mission number is 98, next is 1
+Log: Attempting to get player
+Log: LoadMap: 01_NYC_UNATCOIsland?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Log: Loading: Package Dockyard
+Log: Loading: Package Mobile_Camp
+Log: Loading: Package V_Com_Center
+Log: Loading: Package Supertanker
+Log: Loading: Package Constructor
+Log: Loading: Package CoreTexBrick
+Log: Loading: Package OceanLab
+Log: Loading: Package KZTextures
+Log: Loading: Package Subway
+Log: Loading: Package HK_Helibase
+Log: Loading: Package MolePeople
+Log: Loading: Package LibertyIsland_Music
+Init: Shut down moving brush tracker for Level 00_Intro.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Augmentique
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package HDTPBookClosed
+Log: Unloading: Package FreeClinic
+Log: Unloading: Package Paris
+Log: Unloading: Package HDTPanim
+Log: Unloading: Package DeusExConAudioIntro
+Log: Garbage: objects: 61973->51542; refs: 980885
+Log: Game class is 'DeusExGameInfo'
+Log: Bringing Level 01_NYC_UNATCOIsland.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=Player?Class=DeusEx.JCDentonMale
+ScriptLog: Base Mutator is 01_NYC_UNATCOIsland.Mutator3
+Log: Loading: Package HDTPanim
+Log: Loading: Package HDTPPapers
+Log: Loading: Package DeusExConText
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.DeusExHUD2.HUDRadialMenu2.HUDRadialMenuItem3)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package Augmentique
+ScriptLog: AUGMENTIQUE: Destroying outfitspawner 01_NYC_UNATCOIsland.OutfitSpawner1 with invalid ID kintsugi
+ScriptLog: AUGMENTIQUE: Destroying outfitspawner 01_NYC_UNATCOIsland.OutfitSpawner22 with invalid ID HUD
+DevMusic: Unregister music: Music Intro_Music.Intro_Music
+DevMusic: Load music: Music LibertyIsland_Music.LibertyIsland_Music
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Warning: Failed to load '..\GMDX_AE\Save\Current\SaveInfo.dxs': Can't find file '..\GMDX_AE\Save\Current\SaveInfo.dxs'
+Warning: Failed to load 'DeusExSaveInfo None.MyDeusExSaveInfo': Can't find file '..\GMDX_AE\Save\Current\SaveInfo.dxs'
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Save=4.001864
+Log: Moving '..\GMDX_AE\Save\Save0006\Save.tmp' to '..\GMDX_AE\Save\Save0006\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=124.147716
+Log: Moving '..\GMDX_AE\Save\Save0006\Save.tmp' to '..\GMDX_AE\Save\Save0006\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Loading: Package DXFonts
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission01
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.ConWindowUpper1
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.ConWindowUpper1
+ScriptWarning: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2 (Function Engine.Pawn.AddInventory:0098) Accessed None
+Log: Tried to remove lastbuttonwindow descendant. ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.ConWindowActive1.ConWindowUpper1
+ScriptWarning: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2 (Function Engine.Pawn.AddInventory:0098) Accessed None
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton6
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton6
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton2
+Log: Assigning Last Button Window to HUDObjectSlot 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaInventoryObjectBelt0.HUDObjectBelt3.RadioBoxWindow3.TileWindow25.HUDObjectSlot39
+Log: Assigning Last Button Window to HUDObjectSlot 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaInventoryObjectBelt0.HUDObjectBelt3.RadioBoxWindow3.TileWindow25.HUDObjectSlot39
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton5
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton5
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory0.PersonaClientWindow0.Window55.PersonaInventoryItemButton5
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory1.PersonaClientWindow1.Window69.PersonaInventoryItemButton10
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory1.PersonaClientWindow1.Window69.PersonaInventoryItemButton10
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory1.PersonaClientWindow1.Window69.PersonaInventoryItemButton10
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory2.PersonaNavBarWindow2.PersonaButtonBarWindow18.PersonaNavButtonWindow24
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory2.PersonaNavBarWindow2.PersonaButtonBarWindow18.PersonaNavButtonWindow24
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory3.PersonaNavBarWindow4.PersonaButtonBarWindow24.PersonaNavButtonWindow44
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenInventory3.PersonaNavBarWindow4.PersonaButtonBarWindow24.PersonaNavButtonWindow44
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenGoals1.PersonaNavBarWindow5.PersonaButtonBarWindow27.PersonaNavButtonWindow53
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenGoals1.PersonaNavBarWindow5.PersonaButtonBarWindow27.PersonaNavButtonWindow53
+ScriptWarning: PersonaScreenOutfits 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0 (Function Augmentique.PersonaScreenOutfits.UpdateModelVariantsButtons:0011) Accessed None
+ScriptWarning: PersonaScreenOutfits 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0 (Function Augmentique.PersonaScreenOutfits.UpdateModelVariantsButtons:001D) Accessed None
+ScriptWarning: PersonaScreenOutfits 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0 (Function Augmentique.PersonaScreenOutfits.UpdateModelVariantsButtons:0029) Accessed None
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaClientWindow6.PersonaButtonBarWindow32.PersonaActionButtonWindow50
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaClientWindow6.PersonaActionButtonWindow61
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaClientWindow6.PersonaActionButtonWindow60
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaClientWindow6.PersonaActionButtonWindow98
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaClientWindow6.PersonaActionButtonWindow98
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaNavBarWindow6.PersonaButtonBarWindow30.PersonaNavButtonWindow61
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenOutfits0.PersonaNavBarWindow6.PersonaButtonBarWindow30.PersonaNavButtonWindow61
+Log: Assigning Last Button Window to PersonaNavBarWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenImages0.PersonaNavBarWindow7
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenImages0.PersonaNavBarWindow7.PersonaButtonBarWindow33.PersonaNavButtonWindow70
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenImages0.PersonaNavBarWindow7.PersonaButtonBarWindow33.PersonaNavButtonWindow70
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenLogs0.PersonaNavBarWindow8.PersonaButtonBarWindow36.PersonaNavButtonWindow85
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenLogs0.PersonaNavBarWindow8.PersonaButtonBarWindow36.PersonaNavButtonWindow85
+Log: Assigning Last Button Window to Window 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenSkills0.PersonaClientWindow9.TileWindow45.PersonaSkillButtonWindow4.Window103
+Log: Assigning Last Button Window to PersonaNavBarWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenSkills0.PersonaNavBarWindow9
+Log: Assigning Last Button Window to PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenSkills0.PersonaNavBarWindow9.PersonaButtonBarWindow39.PersonaNavButtonWindow96
+Log: Tried to remove lastbuttonwindow descendant. PersonaNavButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenSkills0.PersonaNavBarWindow9.PersonaButtonBarWindow39.PersonaNavButtonWindow96
+Log: Assigning Last Button Window to PersonaAugmentationOverlaysWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenAugmentations0.PersonaClientWindow10.PersonaAugmentationOverlaysWindow0
+Log: Assigning Last Button Window to PersonaAugmentationOverlaysWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenAugmentations0.PersonaClientWindow10.PersonaAugmentationOverlaysWindow0
+Log: Tried to remove lastbuttonwindow descendant. PersonaAugmentationOverlaysWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.PersonaScreenAugmentations0.PersonaClientWindow10.PersonaAugmentationOverlaysWindow0
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol22 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.DeusExHUD2.HUDRadialMenu2.HUDRadialMenuItem48)
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.DeusExHUD2.HUDRadialMenu2.HUDRadialMenuItem3)
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.HUDRechargeWindow0.PersonaButtonBarWindow46.PersonaActionButtonWindow111
+Log: Assigning Last Button Window to PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.HUDRechargeWindow0.PersonaButtonBarWindow46.PersonaActionButtonWindow110
+Log: Tried to remove lastbuttonwindow descendant. PersonaActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.HUDRechargeWindow0.PersonaButtonBarWindow46.PersonaActionButtonWindow110
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.MenuMain4.MenuUIClientWindow10.MenuUIMenuButtonWindow55
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow16
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow2.MenuScreenSaveGame0.MenuUIActionButtonBarWindow4.MenuUIActionButtonWindow16
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Warning: Failed to load '..\GMDX_AE\Save\Current\SaveInfo.dxs': Can't find file '..\GMDX_AE\Save\Current\SaveInfo.dxs'
+Warning: Failed to load 'DeusExSaveInfo None.MyDeusExSaveInfo': Can't find file '..\GMDX_AE\Save\Current\SaveInfo.dxs'
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Save=7.304368
+Log: Moving '..\GMDX_AE\Save\Save0007\Save.tmp' to '..\GMDX_AE\Save\Save0007\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=137.283651
+Log: Moving '..\GMDX_AE\Save\Save0007\Save.tmp' to '..\GMDX_AE\Save\Save0007\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol29 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=7?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Intro_Music
+Log: Unloading: Package DeusExConText
+Log: Unloading: Package DeusExConAudioMission01
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DXFonts
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package saveInfo
+Log: Garbage: objects: 70903->54953; refs: 1103277
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow3.DeusExHUD3.HUDRadialMenu3.HUDRadialMenuItem82)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow3.MenuMain5.MenuUIClientWindow12.MenuUIMenuButtonWindow66
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow3.MenuScreenLoadGame0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow19
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow3.MenuScreenLoadGame0.MenuUIActionButtonBarWindow5.MenuUIActionButtonWindow19
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=7?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70272->54953; refs: 1103277
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow4.DeusExHUD4.HUDRadialMenu4.HUDRadialMenuItem86)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Loading: Package DeusExConAudioAIBarks
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=7?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70244->54953; refs: 1103277
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow5.DeusExHUD5.HUDRadialMenu5.HUDRadialMenuItem89)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow5.MenuMain6.MenuUIClientWindow14.MenuUIMenuButtonWindow76
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow5.MenuScreenLoadGame1.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow22
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow5.MenuScreenLoadGame1.MenuUIActionButtonBarWindow6.MenuUIActionButtonWindow22
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=7?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70300->54953; refs: 1103277
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.DeusExHUD6.HUDRadialMenu6.HUDRadialMenuItem94)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton34
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton34
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton45
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton45
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton47
+Log: Assigning Last Button Window to PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton47
+Log: Tried to remove lastbuttonwindow descendant. PersonaInventoryItemButton 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.PersonaScreenInventory4.PersonaClientWindow11.Window238.PersonaInventoryItemButton47
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.MenuMain7.MenuUIClientWindow16.MenuUIMenuButtonWindow85
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.MenuScreenSaveGame1.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow25
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow6.MenuScreenSaveGame1.MenuUIActionButtonBarWindow7.MenuUIActionButtonWindow25
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Unloading: Package saveInfo
+Log: Save=5.888473
+Log: Moving '..\GMDX_AE\Save\Save0008\Save.tmp' to '..\GMDX_AE\Save\Save0008\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=140.846297
+Log: Moving '..\GMDX_AE\Save\Save0008\Save.tmp' to '..\GMDX_AE\Save\Save0008\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Loading: Package DeusExConAudioAIBarks
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=8?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70371->54958; refs: 1103441
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow7.DeusExHUD7.HUDRadialMenu7.HUDRadialMenuItem98)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=8?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70243->54958; refs: 1103441
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.DeusExHUD8.HUDRadialMenu8.HUDRadialMenuItem102)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.MenuMain8.MenuUIClientWindow18.MenuUIMenuButtonWindow95
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.MenuScreenSaveGame2.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow28
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.MenuScreenSaveGame2.MenuUIActionButtonBarWindow8.MenuUIActionButtonWindow28
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Unloading: Package saveInfo
+Log: Save=5.635021
+Log: Moving '..\GMDX_AE\Save\Save0009\Save.tmp' to '..\GMDX_AE\Save\Save0009\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=135.296640
+Log: Moving '..\GMDX_AE\Save\Save0009\Save.tmp' to '..\GMDX_AE\Save\Save0009\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission01
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.DeusExHUD8.HUDRadialMenu8.HUDRadialMenuItem107)
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow8.DeusExHUD8.HUDRadialMenu8.HUDRadialMenuItem102)
+Log: Loading: Package DeusExConAudioAIBarks
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=9?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Warning: Property bFirstTickDone of SecurityCamera is not serialiable
+Warning: Skipping 0 bytes of type 3
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioMission01
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70238->54968; refs: 1103648
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.DeusExHUD9.HUDRadialMenu9.HUDRadialMenuItem118)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission01
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2 (Function DeusEx.DeusExPlayer.DrugEffects:03AB) Accessed None
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Assigning Last Button Window to ConWindowActive 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4
+Log: Assigning Last Button Window to ConWindowActive 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4
+Log: Assigning Last Button Window to TextWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4.TextWindow1311
+Log: Assigning Last Button Window to ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Log: Tried to remove lastbuttonwindow descendant. ConWindowUpper 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.ConWindowActive4.ConWindowUpper4
+Warning: Failed to load 'DeusExe': Can't find file 'DeusExe'
+Warning: Failed to load 'Class DeusExe.ConWindowActive2': Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Warning: Can't find file 'DeusExe'
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.MenuMain9.MenuUIClientWindow20.MenuUIMenuButtonWindow105
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.MenuScreenSaveGame3.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow31
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow9.MenuScreenSaveGame3.MenuUIActionButtonBarWindow9.MenuUIActionButtonWindow31
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Unloading: Package saveInfo
+Log: Save=6.383368
+Log: Moving '..\GMDX_AE\Save\Save0010\Save.tmp' to '..\GMDX_AE\Save\Save0010\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=136.633254
+Log: Moving '..\GMDX_AE\Save\Save0010\Save.tmp' to '..\GMDX_AE\Save\Save0010\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: Player is: 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol12 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=10?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package DeusExConAudioMission01
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DXFonts
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70299->55069; refs: 1106856
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow10.DeusExHUD10.HUDRadialMenu10.HUDRadialMenuItem134)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow10.MenuMain10.MenuUIClientWindow22.MenuUIMenuButtonWindow115
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow10.MenuScreenSaveGame4.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow34
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow10.MenuScreenSaveGame4.MenuUIActionButtonBarWindow10.MenuUIActionButtonWindow34
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Loading: Package saveInfo
+Log: Dumping screenshot...
+Log: Done.
+Log: Done
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Unloading: Package saveInfo
+Log: Save=6.084705
+Log: Moving '..\GMDX_AE\Save\Save0011\Save.tmp' to '..\GMDX_AE\Save\Save0011\SaveInfo.dxs'
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Save=136.479552
+Log: Moving '..\GMDX_AE\Save\Save0011\Save.tmp' to '..\GMDX_AE\Save\Save0011\01_NYC_UNATCOIsland.dxs'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Loading: Package DeusExConAudioAIBarks
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol9 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission01
+ScriptWarning: WeaponPistol 01_NYC_UNATCOIsland.WeaponPistol9 (State DeusEx.DeusExWeapon.Reload:0224) PlayAnim: Sequence 'ReloadBegin' not found in Mesh 'HDTPWeaponPistol'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: Browse: Index.dx?loadgame=11?Name=Player?Class=DeusEx.JCDentonMale
+Log: Doing loadgame, not load
+Log: Loading: Package saveInfo
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=DeusEx.JCDentonMale
+Log: LoadMap: ..\GMDX_AE\Save\Current\01_NYC_UNATCOIsland.dxs?load?loadonly?loadgame?Name=Player?Class=DeusEx.JCDentonMale
+DevAudio: Galaxy SetViewport: WindowsViewport0
+Log: Loading: Package 01_NYC_UNATCOIsland
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package DeusExConAudioMission01
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package saveInfo
+Log: Unloading: Package DXFonts
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 70101->55061; refs: 1106740
+Log: Loading: Package DeusExConText
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Login: Player
+Warning: ***WINDOW WARNING: AskParentForReconfigure() called during configure (HUDRadialMenuItem 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow11.DeusExHUD11.HUDRadialMenu11.HUDRadialMenuItem138)
+Log: Possessed PlayerPawn: JCDentonMale 01_NYC_UNATCOIsland.JCDentonMale2
+ScriptLog: All inventory from Player is accepted
+ScriptLog: DeusExLevelInfo - Spawned new mission script 'DeusEx.Mission01'
+Init: Initialized moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+DevAudio: Galaxy SetViewport: WindowsViewport0
+ScriptLog: **** InitStateMachine() - 01_NYC_UNATCOIsland.JCDentonMale2 started mission state machine for 01_NYC_UNATCOISLAND
+Log: Loading: Package DeusExConAudioAIBarks
+Log: Loading: Package InfoPortraits
+Log: Loading: Package DeusExConAudioMission01
+Log: Loading: Package DXFonts
+Log: Assigning Last Button Window to MenuUIMenuButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow11.MenuMain12.MenuUIClientWindow25.MenuUIMenuButtonWindow143
+Log: Assigning Last Button Window to MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow11.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow37
+Log: Tried to remove lastbuttonwindow descendant. MenuUIActionButtonWindow 01_NYC_UNATCOIsland.JCDentonMale2.DeusExRootWindow11.MenuUIMessageBoxWindow1.MenuUIActionButtonBarWindow11.MenuUIActionButtonWindow37
+Log: appRequestExit(0)
 Exit: Preparing to exit.
 Log: Purging garbage
 Log: Unbound to Window.dll
 Log: Unbound to Core.dll
 Log: Unbound to Extension.dll
 Log: Unbound to Engine.dll
-Log: Garbage: objects: 230->0; refs: 0
+Log: Unbound to DeusEx.dll
+Log: Unbound to ConSys.dll
+Log: Unloading: Package DeusEx
+Log: Unloading: Package Core
+Log: Unloading: Package Engine
+Log: Unloading: Package Extension
+Log: Unloading: Package DeusExCharacters
+Log: Unloading: Package DeusExItems
+Log: Unloading: Package Effects
+Log: Unbound to Fire.dll
+Log: Unloading: Package Fire
+Log: Unloading: Package DeusExUI
+Log: Unloading: Package ConSys
+Log: Unloading: Package DeusExSounds
+Log: Unloading: Package GMDXSFX
+Log: Unloading: Package DeusExDeco
+Log: Unloading: Package RSDCrap
+Log: Unloading: Package UBrowser
+Log: Unloading: Package UWindow
+Log: Unbound to IpDrv.dll
+Log: Unloading: Package IpDrv
+Log: Unbound to DeusExText.dll
+Log: Unloading: Package DeusExText
+Log: Unloading: Package GameMedia
+Log: Unloading: Package GameEffects
+Log: Unloading: Package CoreTexWater
+Log: Unloading: Package CoreTexTextile
+Log: Unloading: Package CoreTexDetail
+Log: Unloading: Package Ambient
+Log: Unloading: Package MoverSFX
+Log: Unloading: Package GMDXUI
+Log: Unloading: Package IpServer
+Log: Unloading: Package Extras
+Log: Unloading: Package CoreTexMetal
+Log: Unloading: Package MPCharacters
+Log: Unloading: Package ShifterEX
+Log: Unbound to DXGNative.dll
+Log: Unloading: Package DXGNative
+Log: Unloading: Package CoreTexWood
+Log: Unloading: Package NYCBar
+Log: Unloading: Package CoreTexConcrete
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: DirectDraw RestoreDisplayMode: DDERR_NOEXCLUSIVEMODE
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to RenderExt.dll
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Extended Rendering shut down.
+Log: Unloading: Package Entry
+Log: Unloading: Package Title_Music
+Log: Direct3D 10 renderer exiting.
+Log: Uninit.
+Log: Bye.
+Log: Unloading: Package Precipitation
+Log: Unbound to D3D10Drv.dll
+Log: Unbound to Galaxy.dll
+DevAudio: Galaxy SetViewport: NULL
+DevMusic: Unregister music: Music LibertyIsland_Music.LibertyIsland_Music
+Exit: Galaxy shut down
+Log: Unloading: Package DeusExConAudioMission01
+Init: Shut down moving brush tracker for Level 01_NYC_UNATCOIsland.MyLevel
+Log: Unloading: Package DeusExConAudioAIBarks
+Log: Unloading: Package Airfield
+Log: Unloading: Package G_Station
+Log: Unloading: Package CoreTexCeramic
+Log: Unloading: Package CoreTexTiles
+Log: Unloading: Package MJ12_lab
+Log: Unloading: Package CoreTexStone
+Log: Unloading: Package HK_MJ12Lab
+Log: Unloading: Package area51textures
+Log: Unloading: Package UNATCO
+Log: Unloading: Package Catacombs
+Log: Unloading: Package CoreTexWallObj
+Log: Unloading: Package CoreTexSky
+Log: Unloading: Package Rocket
+Log: Unloading: Package CoreTexMisc
+Log: Unloading: Package NewYorkCity
+Log: Unloading: Package BatteryPark
+Log: Unloading: Package HK_BuildingExt
+Log: Unloading: Package CoreTexEarth
+Log: Unloading: Package CoreTexGlass
+Log: Unloading: Package DXFonts
+Log: Unloading: Package InfoPortraits
+Log: Unloading: Package 01_NYC_UNATCOIsland
+Log: Unloading: Package Mobile_Camp
+Log: Unloading: Package Subway
+Log: Unloading: Package Supertanker
+Log: Unloading: Package Constructor
+Log: Unloading: Package CoreTexBrick
+Log: Unloading: Package Dockyard
+Log: Unloading: Package KZTextures
+Log: Unloading: Package HK_Helibase
+Log: Unloading: Package OceanLab
+Log: Unloading: Package LibertyIsland_Music
+Log: Unloading: Package MolePeople
+Log: Unloading: Package HDTPPapers
+Log: Unloading: Package HDTPanim
+Log: Unloading: Package V_Com_Center
+Log: Unloading: Package Augmentique
+Log: Unloading: Package DeusExConText
+Log: Garbage: objects: 69809->0; refs: 1106740
 Exit: Object subsystem successfully closed.
 Exit: Exiting.
 Uninitialized: Name subsystem shut down
 Uninitialized: Memory Allocation Status
-Uninitialized: Curr Memory  0.005M /  0.121M
-Uninitialized: Peak Memory  0.265M /  2.430M
-Uninitialized: Allocs           2 Current /   2438 Total
-Uninitialized: Log file closed, 10/15/26 02:48:48
+Uninitialized: Curr Memory  61.227M /  2.996M
+Uninitialized: Peak Memory  742.367M /  739.586M
+Uninitialized: Allocs         197 Current /  85073506 Total
+Uninitialized: Log file closed, 10/16/26 00:36:49
